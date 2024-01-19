@@ -1,1814 +1,1814 @@
-	State	Temp in F	Temp in C	Month	Year	Season
-0	Alabama	43.0	6.1	1	2016	Winter
-1	Alabama	49.8	9.9	2	2016	Winter
-2	Alabama	59.7	15.4	3	2016	Spring
-3	Alabama	63.6	17.6	4	2016	Spring
-4	Alabama	70.2	21.2	5	2016	Spring
-5	Alabama	79.2	26.2	6	2016	Summer
-6	Alabama	82.0	27.8	7	2016	Summer
-7	Alabama	81.6	27.6	8	2016	Summer
-8	Alabama	78.6	25.9	9	2016	Fall
-9	Alabama	68.5	20.3	10	2016	Fall
-10	Alabama	57.8	14.3	11	2016	Fall
-11	Alabama	50.1	10.1	12	2016	Winter
-12	Alabama	52.4	11.3	1	2017	Winter
-13	Alabama	55.6	13.1	2	2017	Winter
-14	Alabama	58.4	14.7	3	2017	Spring
-15	Alabama	67.2	19.6	4	2017	Spring
-16	Alabama	69.9	21.1	5	2017	Spring
-17	Alabama	75.8	24.3	6	2017	Summer
-18	Alabama	80.6	27.0	7	2017	Summer
-19	Alabama	78.8	26.0	8	2017	Summer
-20	Alabama	73.4	23.0	9	2017	Fall
-21	Alabama	65.8	18.8	10	2017	Fall
-22	Alabama	55.6	13.1	11	2017	Fall
-23	Alabama	46.9	8.3	12	2017	Winter
-24	Alabama	40.4	4.7	1	2018	Winter
-25	Alabama	58.0	14.4	2	2018	Winter
-26	Alabama	55.3	12.9	3	2018	Spring
-27	Alabama	59.4	15.2	4	2018	Spring
-28	Alabama	74.5	23.6	5	2018	Spring
-29	Alabama	79.3	26.3	6	2018	Summer
-30	Alabama	80.7	27.1	7	2018	Summer
-31	Alabama	79.5	26.4	8	2018	Summer
-32	Alabama	79.4	26.3	9	2018	Fall
-33	Alabama	67.5	19.7	10	2018	Fall
-34	Alabama	50.3	10.2	11	2018	Fall
-35	Alabama	49.0	9.4	12	2018	Winter
-36	Alabama	46.5	8.1	1	2019	Winter
-37	Arizona	41.8	5.4	1	2016	Winter
-38	Arizona	50.6	10.3	2	2016	Winter
-39	Arizona	54.9	12.7	3	2016	Spring
-40	Arizona	58.5	14.7	4	2016	Spring
-41	Arizona	64.6	18.1	5	2016	Spring
-42	Arizona	80.3	26.8	6	2016	Summer
-43	Arizona	82.4	28.0	7	2016	Summer
-44	Arizona	77.5	25.3	8	2016	Summer
-45	Arizona	71.6	22.0	9	2016	Fall
-46	Arizona	66.1	18.9	10	2016	Fall
-47	Arizona	53.1	11.7	11	2016	Fall
-48	Arizona	44.7	7.1	12	2016	Winter
-49	Arizona	42.3	5.7	1	2017	Winter
-50	Arizona	49.4	9.7	2	2017	Winter
-51	Arizona	56.6	13.7	3	2017	Spring
-52	Arizona	59.9	15.5	4	2017	Spring
-53	Arizona	66.1	18.9	5	2017	Spring
-54	Arizona	79.8	26.6	6	2017	Summer
-55	Arizona	81.5	27.5	7	2017	Summer
-56	Arizona	79.1	26.2	8	2017	Summer
-57	Arizona	72.4	22.4	9	2017	Fall
-58	Arizona	65.1	18.4	10	2017	Fall
-59	Arizona	57.6	14.2	11	2017	Fall
-60	Arizona	46.6	8.1	12	2017	Winter
-61	Arizona	47.6	8.7	1	2018	Winter
-62	Arizona	46.8	8.2	2	2018	Winter
-63	Arizona	52.3	11.3	3	2018	Spring
-64	Arizona	62.9	17.2	4	2018	Spring
-65	Arizona	68.5	20.3	5	2018	Spring
-66	Arizona	78.6	25.9	6	2018	Summer
-67	Arizona	82.2	27.9	7	2018	Summer
-68	Arizona	80.2	26.8	8	2018	Summer
-69	Arizona	76.0	24.4	9	2018	Fall
-70	Arizona	59.9	15.5	10	2018	Fall
-71	Arizona	49.4	9.7	11	2018	Fall
-72	Arizona	42.8	6.0	12	2018	Winter
-73	Arizona	42.4	5.8	1	2019	Winter
-74	Arkansas	39.5	4.2	1	2016	Winter
-75	Arkansas	46.9	8.3	2	2016	Winter
-76	Arkansas	55.5	13.1	3	2016	Spring
-77	Arkansas	62.5	16.9	4	2016	Spring
-78	Arkansas	67.2	19.6	5	2016	Spring
-79	Arkansas	78.9	26.1	6	2016	Summer
-80	Arkansas	82.0	27.8	7	2016	Summer
-81	Arkansas	80.0	26.7	8	2016	Summer
-82	Arkansas	75.8	24.3	9	2016	Fall
-83	Arkansas	67.0	19.4	10	2016	Fall
-84	Arkansas	55.7	13.2	11	2016	Fall
-85	Arkansas	42.5	5.8	12	2016	Winter
-86	Arkansas	45.2	7.3	1	2017	Winter
-87	Arkansas	52.5	11.4	2	2017	Winter
-88	Arkansas	55.7	13.2	3	2017	Spring
-89	Arkansas	64.2	17.9	4	2017	Spring
-90	Arkansas	67.7	19.8	5	2017	Spring
-91	Arkansas	75.5	24.2	6	2017	Summer
-92	Arkansas	80.6	27.0	7	2017	Summer
-93	Arkansas	76.9	24.9	8	2017	Summer
-94	Arkansas	73.2	22.9	9	2017	Fall
-95	Arkansas	62.9	17.2	10	2017	Fall
-96	Arkansas	53.7	12.1	11	2017	Fall
-97	Arkansas	42.4	5.8	12	2017	Winter
-98	Arkansas	35.7	2.1	1	2018	Winter
-99	Arkansas	45.9	7.7	2	2018	Winter
-100	Arkansas	53.9	12.2	3	2018	Spring
-101	Arkansas	55.2	12.9	4	2018	Spring
-102	Arkansas	75.0	23.9	5	2018	Spring
-103	Arkansas	80.1	26.7	6	2018	Summer
-104	Arkansas	81.8	27.7	7	2018	Summer
-105	Arkansas	78.8	26.0	8	2018	Summer
-106	Arkansas	75.0	23.9	9	2018	Fall
-107	Arkansas	62.6	17.0	10	2018	Fall
-108	Arkansas	45.8	7.7	11	2018	Fall
-109	Arkansas	44.2	6.8	12	2018	Winter
-110	Arkansas	40.8	4.9	1	2019	Winter
-111	California	44.5	6.9	1	2016	Winter
-112	California	51.8	11.0	2	2016	Winter
-113	California	52.5	11.4	3	2016	Spring
-114	California	57.9	14.4	4	2016	Spring
-115	California	62.2	16.8	5	2016	Spring
-116	California	73.5	23.1	6	2016	Summer
-117	California	76.8	24.9	7	2016	Summer
-118	California	76.2	24.6	8	2016	Summer
-119	California	69.5	20.8	9	2016	Fall
-120	California	60.5	15.8	10	2016	Fall
-121	California	52.8	11.6	11	2016	Fall
-122	California	43.4	6.3	12	2016	Winter
-123	California	42.2	5.7	1	2017	Winter
-124	California	47.3	8.5	2	2017	Winter
-125	California	53.4	11.9	3	2017	Spring
-126	California	55.6	13.1	4	2017	Spring
-127	California	63.4	17.4	5	2017	Spring
-128	California	72.8	22.7	6	2017	Summer
-129	California	78.8	26.0	7	2017	Summer
-130	California	77.9	25.5	8	2017	Summer
-131	California	69.8	21.0	9	2017	Fall
-132	California	62.0	16.7	10	2017	Fall
-133	California	53.4	11.9	11	2017	Fall
-134	California	47.5	8.6	12	2017	Winter
-135	California	48.8	9.3	1	2018	Winter
-136	California	46.5	8.1	2	2018	Winter
-137	California	48.9	9.4	3	2018	Spring
-138	California	57.1	13.9	4	2018	Spring
-139	California	63.0	17.2	5	2018	Spring
-140	California	71.4	21.9	6	2018	Summer
-141	California	79.6	26.4	7	2018	Summer
-142	California	76.4	24.7	8	2018	Summer
-143	California	71.1	21.7	9	2018	Fall
-144	California	60.9	16.1	10	2018	Fall
-145	California	52.6	11.4	11	2018	Fall
-146	California	44.7	7.1	12	2018	Winter
-147	California	46.0	7.8	1	2019	Winter
-148	Colorado	25.6	-3.6	1	2016	Winter
-149	Colorado	32.4	0.2	2	2016	Winter
-150	Colorado	37.9	3.3	3	2016	Spring
-151	Colorado	43.7	6.5	4	2016	Spring
-152	Colorado	50.8	10.4	5	2016	Spring
-153	Colorado	66.4	19.1	6	2016	Summer
-154	Colorado	69.2	20.7	7	2016	Summer
-155	Colorado	64.5	18.1	8	2016	Summer
-156	Colorado	59.7	15.4	9	2016	Fall
-157	Colorado	51.8	11.0	10	2016	Fall
-158	Colorado	40.2	4.6	11	2016	Fall
-159	Colorado	25.2	-3.8	12	2016	Winter
-160	Colorado	25.3	-3.7	1	2017	Winter
-161	Colorado	35.4	1.9	2	2017	Winter
-162	Colorado	42.5	5.8	3	2017	Spring
-163	Colorado	44.3	6.8	4	2017	Spring
-164	Colorado	51.5	10.8	5	2017	Spring
-165	Colorado	64.8	18.2	6	2017	Summer
-166	Colorado	69.4	20.8	7	2017	Summer
-167	Colorado	64.7	18.2	8	2017	Summer
-168	Colorado	59.1	15.1	9	2017	Fall
-169	Colorado	46.7	8.2	10	2017	Fall
-170	Colorado	41.3	5.2	11	2017	Fall
-171	Colorado	30.1	-1.1	12	2017	Winter
-172	Colorado	29.7	-1.3	1	2018	Winter
-173	Colorado	28.6	-1.9	2	2018	Winter
-174	Colorado	37.8	3.2	3	2018	Spring
-175	Colorado	43.9	6.6	4	2018	Spring
-176	Colorado	57.2	14.0	5	2018	Spring
-177	Colorado	66.4	19.1	6	2018	Summer
-178	Colorado	69.9	21.1	7	2018	Summer
-179	Colorado	66.2	19.0	8	2018	Summer
-180	Colorado	61.8	16.6	9	2018	Fall
-181	Colorado	45.0	7.2	10	2018	Fall
-182	Colorado	32.6	0.3	11	2018	Fall
-183	Colorado	26.6	-3.0	12	2018	Winter
-184	Colorado	25.9	-3.4	1	2019	Winter
-185	Connecticut	29.7	-1.3	1	2016	Winter
-186	Connecticut	32.0	0.0	2	2016	Winter
-187	Connecticut	43.2	6.2	3	2016	Spring
-188	Connecticut	46.8	8.2	4	2016	Spring
-189	Connecticut	58.4	14.7	5	2016	Spring
-190	Connecticut	67.4	19.7	6	2016	Summer
-191	Connecticut	74.1	23.4	7	2016	Summer
-192	Connecticut	73.9	23.3	8	2016	Summer
-193	Connecticut	66.2	19.0	9	2016	Fall
-194	Connecticut	53.5	11.9	10	2016	Fall
-195	Connecticut	43.5	6.4	11	2016	Fall
-196	Connecticut	32.6	0.3	12	2016	Winter
-197	Connecticut	32.7	0.4	1	2017	Winter
-198	Connecticut	34.6	1.4	2	2017	Winter
-199	Connecticut	33.4	0.8	3	2017	Spring
-200	Connecticut	51.8	11.0	4	2017	Spring
-201	Connecticut	56.7	13.7	5	2017	Spring
-202	Connecticut	67.0	19.4	6	2017	Summer
-203	Connecticut	71.5	21.9	7	2017	Summer
-204	Connecticut	69.1	20.6	8	2017	Summer
-205	Connecticut	66.0	18.9	9	2017	Fall
-206	Connecticut	58.6	14.8	10	2017	Fall
-207	Connecticut	41.0	5.0	11	2017	Fall
-208	Connecticut	28.7	-1.8	12	2017	Winter
-209	Connecticut	25.4	-3.7	1	2018	Winter
-210	Connecticut	35.6	2.0	2	2018	Winter
-211	Connecticut	36.4	2.4	3	2018	Spring
-212	Connecticut	43.4	6.3	4	2018	Spring
-213	Connecticut	62.1	16.7	5	2018	Spring
-214	Connecticut	66.3	19.1	6	2018	Summer
-215	Connecticut	73.9	23.3	7	2018	Summer
-216	Connecticut	74.3	23.5	8	2018	Summer
-217	Connecticut	66.1	18.9	9	2018	Fall
-218	Connecticut	52.3	11.3	10	2018	Fall
-219	Connecticut	39.1	3.9	11	2018	Fall
-220	Connecticut	33.9	1.1	12	2018	Winter
-221	Connecticut	27.1	-2.7	1	2019	Winter
-222	Delaware	34.3	1.3	1	2016	Winter
-223	Delaware	38.5	3.6	2	2016	Winter
-224	Delaware	49.7	9.8	3	2016	Spring
-225	Delaware	53.1	11.7	4	2016	Spring
-226	Delaware	61.7	16.5	5	2016	Spring
-227	Delaware	72.4	22.4	6	2016	Summer
-228	Delaware	79.6	26.4	7	2016	Summer
-229	Delaware	78.6	25.9	8	2016	Summer
-230	Delaware	72.0	22.2	9	2016	Fall
-231	Delaware	60.3	15.7	10	2016	Fall
-232	Delaware	49.0	9.4	11	2016	Fall
-233	Delaware	39.2	4.0	12	2016	Winter
-234	Delaware	39.1	3.9	1	2017	Winter
-235	Delaware	44.4	6.9	2	2017	Winter
-236	Delaware	43.8	6.6	3	2017	Spring
-237	Delaware	59.6	15.3	4	2017	Spring
-238	Delaware	62.8	17.1	5	2017	Spring
-239	Delaware	73.6	23.1	6	2017	Summer
-240	Delaware	78.4	25.8	7	2017	Summer
-241	Delaware	74.0	23.3	8	2017	Summer
-242	Delaware	69.8	21.0	9	2017	Fall
-243	Delaware	62.4	16.9	10	2017	Fall
-244	Delaware	47.5	8.6	11	2017	Fall
-245	Delaware	36.1	2.3	12	2017	Winter
-246	Delaware	32.4	0.2	1	2018	Winter
-247	Delaware	42.8	6.0	2	2018	Winter
-248	Delaware	40.2	4.6	3	2018	Spring
-249	Delaware	51.2	10.7	4	2018	Spring
-250	Delaware	67.9	19.9	5	2018	Spring
-251	Delaware	72.6	22.6	6	2018	Summer
-252	Delaware	77.2	25.1	7	2018	Summer
-253	Delaware	78.5	25.8	8	2018	Summer
-254	Delaware	73.2	22.9	9	2018	Fall
-255	Delaware	59.8	15.4	10	2018	Fall
-256	Delaware	45.0	7.2	11	2018	Fall
-257	Delaware	40.8	4.9	12	2018	Winter
-258	Delaware	34.6	1.4	1	2019	Winter
-259	Florida	56.9	13.8	1	2016	Winter
-260	Florida	59.4	15.2	2	2016	Winter
-261	Florida	68.8	20.4	3	2016	Spring
-262	Florida	71.2	21.8	4	2016	Spring
-263	Florida	76.2	24.6	5	2016	Spring
-264	Florida	81.9	27.7	6	2016	Summer
-265	Florida	84.0	28.9	7	2016	Summer
-266	Florida	83.0	28.3	8	2016	Summer
-267	Florida	81.1	27.3	9	2016	Fall
-268	Florida	74.6	23.7	10	2016	Fall
-269	Florida	66.6	19.2	11	2016	Fall
-270	Florida	65.9	18.8	12	2016	Winter
-271	Florida	62.8	17.1	1	2017	Winter
-272	Florida	65.5	18.6	2	2017	Winter
-273	Florida	66.2	19.0	3	2017	Spring
-274	Florida	72.3	22.4	4	2017	Spring
-275	Florida	77.1	25.1	5	2017	Spring
-276	Florida	80.2	26.8	6	2017	Summer
-277	Florida	82.8	28.2	7	2017	Summer
-278	Florida	82.8	28.2	8	2017	Summer
-279	Florida	80.4	26.9	9	2017	Fall
-280	Florida	74.9	23.8	10	2017	Fall
-281	Florida	67.4	19.7	11	2017	Fall
-282	Florida	61.7	16.5	12	2017	Winter
-283	Florida	55.0	12.8	1	2018	Winter
-284	Florida	69.2	20.7	2	2018	Winter
-285	Florida	63.0	17.2	3	2018	Spring
-286	Florida	70.2	21.2	4	2018	Spring
-287	Florida	76.5	24.7	5	2018	Spring
-288	Florida	81.6	27.6	6	2018	Summer
-289	Florida	82.4	28.0	7	2018	Summer
-290	Florida	82.2	27.9	8	2018	Summer
-291	Florida	82.3	27.9	9	2018	Fall
-292	Florida	76.5	24.7	10	2018	Fall
-293	Florida	66.8	19.3	11	2018	Fall
-294	Florida	61.8	16.6	12	2018	Winter
-295	Florida	58.5	14.7	1	2019	Winter
-296	Georgia	44.4	6.9	1	2016	Winter
-297	Georgia	50.0	10.0	2	2016	Winter
-298	Georgia	60.9	16.1	3	2016	Spring
-299	Georgia	63.9	17.7	4	2016	Spring
-300	Georgia	70.8	21.6	5	2016	Spring
-301	Georgia	79.7	26.5	6	2016	Summer
-302	Georgia	82.8	28.2	7	2016	Summer
-303	Georgia	81.6	27.6	8	2016	Summer
-304	Georgia	77.5	25.3	9	2016	Fall
-305	Georgia	67.8	19.9	10	2016	Fall
-306	Georgia	58.0	14.4	11	2016	Fall
-307	Georgia	52.1	11.2	12	2016	Winter
-308	Georgia	53.2	11.8	1	2017	Winter
-309	Georgia	56.5	13.6	2	2017	Winter
-310	Georgia	58.0	14.4	3	2017	Spring
-311	Georgia	67.5	19.7	4	2017	Spring
-312	Georgia	71.4	21.9	5	2017	Spring
-313	Georgia	76.6	24.8	6	2017	Summer
-314	Georgia	80.6	27.0	7	2017	Summer
-315	Georgia	79.4	26.3	8	2017	Summer
-316	Georgia	74.0	23.3	9	2017	Fall
-317	Georgia	67.0	19.4	10	2017	Fall
-318	Georgia	56.4	13.6	11	2017	Fall
-319	Georgia	49.3	9.6	12	2017	Winter
-320	Georgia	42.4	5.8	1	2018	Winter
-321	Georgia	59.1	15.1	2	2018	Winter
-322	Georgia	54.5	12.5	3	2018	Spring
-323	Georgia	60.5	15.8	4	2018	Spring
-324	Georgia	73.7	23.2	5	2018	Spring
-325	Georgia	79.3	26.3	6	2018	Summer
-326	Georgia	80.1	26.7	7	2018	Summer
-327	Georgia	79.3	26.3	8	2018	Summer
-328	Georgia	79.8	26.6	9	2018	Fall
-329	Georgia	68.3	20.2	10	2018	Fall
-330	Georgia	53.2	11.8	11	2018	Fall
-331	Georgia	50.2	10.1	12	2018	Winter
-332	Georgia	48.2	9.0	1	2019	Winter
-333	Idaho	25.8	-3.4	1	2016	Winter
-334	Idaho	31.9	-0.1	2	2016	Winter
-335	Idaho	37.0	2.8	3	2016	Spring
-336	Idaho	47.0	8.3	4	2016	Spring
-337	Idaho	50.6	10.3	5	2016	Spring
-338	Idaho	61.2	16.2	6	2016	Summer
-339	Idaho	64.8	18.2	7	2016	Summer
-340	Idaho	64.7	18.2	8	2016	Summer
-341	Idaho	54.6	12.6	9	2016	Fall
-342	Idaho	45.7	7.6	10	2016	Fall
-343	Idaho	38.7	3.7	11	2016	Fall
-344	Idaho	19.1	-7.2	12	2016	Winter
-345	Idaho	18.5	-7.5	1	2017	Winter
-346	Idaho	29.5	-1.4	2	2017	Winter
-347	Idaho	38.5	3.6	3	2017	Spring
-348	Idaho	40.3	4.6	4	2017	Spring
-349	Idaho	50.6	10.3	5	2017	Spring
-350	Idaho	59.1	15.1	6	2017	Summer
-351	Idaho	70.0	21.1	7	2017	Summer
-352	Idaho	66.9	19.4	8	2017	Summer
-353	Idaho	55.7	13.2	9	2017	Fall
-354	Idaho	41.9	5.5	10	2017	Fall
-355	Idaho	34.9	1.6	11	2017	Fall
-356	Idaho	25.2	-3.8	12	2017	Winter
-357	Idaho	30.4	-0.9	1	2018	Winter
-358	Idaho	26.2	-3.2	2	2018	Winter
-359	Idaho	33.7	0.9	3	2018	Spring
-360	Idaho	42.4	5.8	4	2018	Spring
-361	Idaho	53.9	12.2	5	2018	Spring
-362	Idaho	57.7	14.3	6	2018	Summer
-363	Idaho	68.4	20.2	7	2018	Summer
-364	Idaho	65.0	18.3	8	2018	Summer
-365	Idaho	56.2	13.4	9	2018	Fall
-366	Idaho	44.1	6.7	10	2018	Fall
-367	Idaho	32.0	0.0	11	2018	Fall
-368	Idaho	24.3	-4.3	12	2018	Winter
-369	Idaho	26.2	-3.2	1	2019	Winter
-370	Illinois	26.9	-2.8	1	2016	Winter
-371	Illinois	33.8	1.0	2	2016	Winter
-372	Illinois	47.3	8.5	3	2016	Spring
-373	Illinois	53.0	11.7	4	2016	Spring
-374	Illinois	62.0	16.7	5	2016	Spring
-375	Illinois	74.8	23.8	6	2016	Summer
-376	Illinois	75.6	24.2	7	2016	Summer
-377	Illinois	75.7	24.3	8	2016	Summer
-378	Illinois	70.8	21.6	9	2016	Fall
-379	Illinois	59.9	15.5	10	2016	Fall
-380	Illinois	48.1	8.9	11	2016	Fall
-381	Illinois	28.9	-1.7	12	2016	Winter
-382	Illinois	32.1	0.1	1	2017	Winter
-383	Illinois	41.1	5.1	2	2017	Winter
-384	Illinois	43.2	6.2	3	2017	Spring
-385	Illinois	56.5	13.6	4	2017	Spring
-386	Illinois	61.9	16.6	5	2017	Spring
-387	Illinois	72.7	22.6	6	2017	Summer
-388	Illinois	76.1	24.5	7	2017	Summer
-389	Illinois	70.5	21.4	8	2017	Summer
-390	Illinois	68.8	20.4	9	2017	Fall
-391	Illinois	58.1	14.5	10	2017	Fall
-392	Illinois	41.9	5.5	11	2017	Fall
-393	Illinois	29.8	-1.2	12	2017	Winter
-394	Illinois	24.1	-4.4	1	2018	Winter
-395	Illinois	31.8	-0.1	2	2018	Winter
-396	Illinois	39.2	4.0	3	2018	Spring
-397	Illinois	44.8	7.1	4	2018	Spring
-398	Illinois	70.7	21.5	5	2018	Spring
-399	Illinois	74.9	23.8	6	2018	Summer
-400	Illinois	75.0	23.9	7	2018	Summer
-401	Illinois	74.7	23.7	8	2018	Summer
-402	Illinois	70.3	21.3	9	2018	Fall
-403	Illinois	54.2	12.3	10	2018	Fall
-404	Illinois	35.6	2.0	11	2018	Fall
-405	Illinois	34.4	1.3	12	2018	Winter
-406	Illinois	25.4	-3.7	1	2019	Winter
-407	Indiana	27.5	-2.5	1	2016	Winter
-408	Indiana	33.9	1.1	2	2016	Winter
-409	Indiana	47.3	8.5	3	2016	Spring
-410	Indiana	52.0	11.1	4	2016	Spring
-411	Indiana	60.6	15.9	5	2016	Spring
-412	Indiana	72.9	22.7	6	2016	Summer
-413	Indiana	74.6	23.7	7	2016	Summer
-414	Indiana	75.7	24.3	8	2016	Summer
-415	Indiana	69.9	21.1	9	2016	Fall
-416	Indiana	59.5	15.3	10	2016	Fall
-417	Indiana	47.0	8.3	11	2016	Fall
-418	Indiana	29.8	-1.2	12	2016	Winter
-419	Indiana	33.8	1.0	1	2017	Winter
-420	Indiana	41.3	5.2	2	2017	Winter
-421	Indiana	42.6	5.9	3	2017	Spring
-422	Indiana	57.0	13.9	4	2017	Spring
-423	Indiana	60.9	16.1	5	2017	Spring
-424	Indiana	71.1	21.7	6	2017	Summer
-425	Indiana	74.2	23.4	7	2017	Summer
-426	Indiana	70.0	21.1	8	2017	Summer
-427	Indiana	67.2	19.6	9	2017	Fall
-428	Indiana	57.6	14.2	10	2017	Fall
-429	Indiana	42.4	5.8	11	2017	Fall
-430	Indiana	29.6	-1.3	12	2017	Winter
-431	Indiana	24.5	-4.2	1	2018	Winter
-432	Indiana	35.1	1.7	2	2018	Winter
-433	Indiana	38.3	3.5	3	2018	Spring
-434	Indiana	45.2	7.3	4	2018	Spring
-435	Indiana	69.7	20.9	5	2018	Spring
-436	Indiana	73.4	23.0	6	2018	Summer
-437	Indiana	74.2	23.4	7	2018	Summer
-438	Indiana	74.0	23.3	8	2018	Summer
-439	Indiana	69.8	21.0	9	2018	Fall
-440	Indiana	54.9	12.7	10	2018	Fall
-441	Indiana	36.9	2.7	11	2018	Fall
-442	Indiana	35.4	1.9	12	2018	Winter
-443	Indiana	26.9	-2.8	1	2019	Winter
-444	Iowa	19.6	-6.9	1	2016	Winter
-445	Iowa	28.6	-1.9	2	2016	Winter
-446	Iowa	42.4	5.8	3	2016	Spring
-447	Iowa	50.1	10.1	4	2016	Spring
-448	Iowa	59.5	15.3	5	2016	Spring
-449	Iowa	73.0	22.8	6	2016	Summer
-450	Iowa	72.8	22.7	7	2016	Summer
-451	Iowa	72.0	22.2	8	2016	Summer
-452	Iowa	67.3	19.6	9	2016	Fall
-453	Iowa	55.3	12.9	10	2016	Fall
-454	Iowa	45.1	7.3	11	2016	Fall
-455	Iowa	22.9	-5.1	12	2016	Winter
-456	Iowa	24.2	-4.3	1	2017	Winter
-457	Iowa	34.5	1.4	2	2017	Winter
-458	Iowa	37.5	3.1	3	2017	Spring
-459	Iowa	51.1	10.6	4	2017	Spring
-460	Iowa	58.5	14.7	5	2017	Spring
-461	Iowa	71.1	21.7	6	2017	Summer
-462	Iowa	74.7	23.7	7	2017	Summer
-463	Iowa	67.8	19.9	8	2017	Summer
-464	Iowa	66.7	19.3	9	2017	Fall
-465	Iowa	53.3	11.8	10	2017	Fall
-466	Iowa	36.2	2.3	11	2017	Fall
-467	Iowa	24.4	-4.2	12	2017	Winter
-468	Iowa	17.8	-7.9	1	2018	Winter
-469	Iowa	20.5	-6.4	2	2018	Winter
-470	Iowa	35.2	1.8	3	2018	Spring
-471	Iowa	39.3	4.1	4	2018	Spring
-472	Iowa	67.0	19.4	5	2018	Spring
-473	Iowa	73.1	22.8	6	2018	Summer
-474	Iowa	73.1	22.8	7	2018	Summer
-475	Iowa	71.8	22.1	8	2018	Summer
-476	Iowa	65.9	18.8	9	2018	Fall
-477	Iowa	48.2	9.0	10	2018	Fall
-478	Iowa	30.0	-1.1	11	2018	Fall
-479	Iowa	28.0	-2.2	12	2018	Winter
-480	Iowa	18.7	-7.4	1	2019	Winter
-481	Kansas	32.0	0.0	1	2016	Winter
-482	Kansas	40.8	4.9	2	2016	Winter
-483	Kansas	49.7	9.8	3	2016	Spring
-484	Kansas	56.3	13.5	4	2016	Spring
-485	Kansas	61.6	16.4	5	2016	Spring
-486	Kansas	77.5	25.3	6	2016	Summer
-487	Kansas	79.7	26.5	7	2016	Summer
-488	Kansas	76.4	24.7	8	2016	Summer
-489	Kansas	70.8	21.6	9	2016	Fall
-490	Kansas	61.5	16.4	10	2016	Fall
-491	Kansas	49.9	9.9	11	2016	Fall
-492	Kansas	29.8	-1.2	12	2016	Winter
-493	Kansas	33.0	0.6	1	2017	Winter
-494	Kansas	43.1	6.2	2	2017	Winter
-495	Kansas	48.9	9.4	3	2017	Spring
-496	Kansas	55.6	13.1	4	2017	Spring
-497	Kansas	62.2	16.8	5	2017	Spring
-498	Kansas	75.1	23.9	6	2017	Summer
-499	Kansas	80.1	26.7	7	2017	Summer
-500	Kansas	73.1	22.8	8	2017	Summer
-501	Kansas	70.5	21.4	9	2017	Fall
-502	Kansas	57.6	14.2	10	2017	Fall
-503	Kansas	45.2	7.3	11	2017	Fall
-504	Kansas	33.6	0.9	12	2017	Winter
-505	Kansas	29.9	-1.2	1	2018	Winter
-506	Kansas	31.9	-0.1	2	2018	Winter
-507	Kansas	45.9	7.7	3	2018	Spring
-508	Kansas	47.6	8.7	4	2018	Spring
-509	Kansas	71.1	21.7	5	2018	Spring
-510	Kansas	78.1	25.6	6	2018	Summer
-511	Kansas	78.7	25.9	7	2018	Summer
-512	Kansas	75.7	24.3	8	2018	Summer
-513	Kansas	70.1	21.2	9	2018	Fall
-514	Kansas	53.6	12.0	10	2018	Fall
-515	Kansas	38.2	3.4	11	2018	Fall
-516	Kansas	34.3	1.3	12	2018	Winter
-517	Kansas	31.3	-0.4	1	2019	Winter
-518	Kentucky	31.6	-0.2	1	2016	Winter
-519	Kentucky	38.9	3.8	2	2016	Winter
-520	Kentucky	51.8	11.0	3	2016	Spring
-521	Kentucky	57.3	14.1	4	2016	Spring
-522	Kentucky	62.9	17.2	5	2016	Spring
-523	Kentucky	74.9	23.8	6	2016	Summer
-524	Kentucky	77.9	25.5	7	2016	Summer
-525	Kentucky	78.0	25.6	8	2016	Summer
-526	Kentucky	72.2	22.3	9	2016	Fall
-527	Kentucky	62.7	17.1	10	2016	Fall
-528	Kentucky	49.9	9.9	11	2016	Fall
-529	Kentucky	37.0	2.8	12	2016	Winter
-530	Kentucky	40.9	4.9	1	2017	Winter
-531	Kentucky	46.2	7.9	2	2017	Winter
-532	Kentucky	47.9	8.8	3	2017	Spring
-533	Kentucky	61.5	16.4	4	2017	Spring
-534	Kentucky	65.0	18.3	5	2017	Spring
-535	Kentucky	71.7	22.1	6	2017	Summer
-536	Kentucky	76.9	24.9	7	2017	Summer
-537	Kentucky	73.1	22.8	8	2017	Summer
-538	Kentucky	68.3	20.2	9	2017	Fall
-539	Kentucky	59.4	15.2	10	2017	Fall
-540	Kentucky	47.1	8.4	11	2017	Fall
-541	Kentucky	35.8	2.1	12	2017	Winter
-542	Kentucky	30.0	-1.1	1	2018	Winter
-543	Kentucky	44.6	7.0	2	2018	Winter
-544	Kentucky	44.1	6.7	3	2018	Spring
-545	Kentucky	50.7	10.4	4	2018	Spring
-546	Kentucky	71.9	22.2	5	2018	Spring
-547	Kentucky	75.5	24.2	6	2018	Summer
-548	Kentucky	76.6	24.8	7	2018	Summer
-549	Kentucky	75.8	24.3	8	2018	Summer
-550	Kentucky	73.1	22.8	9	2018	Fall
-551	Kentucky	58.9	14.9	10	2018	Fall
-552	Kentucky	41.9	5.5	11	2018	Fall
-553	Kentucky	40.5	4.7	12	2018	Winter
-554	Kentucky	35.1	1.7	1	2019	Winter
-555	Louisiana	48.8	9.3	1	2016	Winter
-556	Louisiana	55.1	12.8	2	2016	Winter
-557	Louisiana	63.8	17.7	3	2016	Spring
-558	Louisiana	68.2	20.1	4	2016	Spring
-559	Louisiana	73.3	22.9	5	2016	Spring
-560	Louisiana	80.9	27.2	6	2016	Summer
-561	Louisiana	83.7	28.7	7	2016	Summer
-562	Louisiana	82.4	28.0	8	2016	Summer
-563	Louisiana	80.2	26.8	9	2016	Fall
-564	Louisiana	71.4	21.9	10	2016	Fall
-565	Louisiana	62.4	16.9	11	2016	Fall
-566	Louisiana	54.7	12.6	12	2016	Winter
-567	Louisiana	56.8	13.8	1	2017	Winter
-568	Louisiana	61.7	16.5	2	2017	Winter
-569	Louisiana	64.4	18.0	3	2017	Spring
-570	Louisiana	69.4	20.8	4	2017	Spring
-571	Louisiana	71.8	22.1	5	2017	Spring
-572	Louisiana	78.5	25.8	6	2017	Summer
-573	Louisiana	82.4	28.0	7	2017	Summer
-574	Louisiana	81.0	27.2	8	2017	Summer
-575	Louisiana	77.0	25.0	9	2017	Fall
-576	Louisiana	69.2	20.7	10	2017	Fall
-577	Louisiana	61.6	16.4	11	2017	Fall
-578	Louisiana	50.8	10.4	12	2017	Winter
-579	Louisiana	44.2	6.8	1	2018	Winter
-580	Louisiana	60.5	15.8	2	2018	Winter
-581	Louisiana	62.2	16.8	3	2018	Spring
-582	Louisiana	62.7	17.1	4	2018	Spring
-583	Louisiana	77.7	25.4	5	2018	Spring
-584	Louisiana	82.1	27.8	6	2018	Summer
-585	Louisiana	83.5	28.6	7	2018	Summer
-586	Louisiana	82.0	27.8	8	2018	Summer
-587	Louisiana	80.1	26.7	9	2018	Fall
-588	Louisiana	70.7	21.5	10	2018	Fall
-589	Louisiana	54.8	12.7	11	2018	Fall
-590	Louisiana	52.6	11.4	12	2018	Winter
-591	Louisiana	49.9	9.9	1	2019	Winter
-592	Maine	20.1	-6.6	1	2016	Winter
-593	Maine	21.9	-5.6	2	2016	Winter
-594	Maine	29.2	-1.6	3	2016	Spring
-595	Maine	37.3	2.9	4	2016	Spring
-596	Maine	52.8	11.6	5	2016	Spring
-597	Maine	60.5	15.8	6	2016	Summer
-598	Maine	67.0	19.4	7	2016	Summer
-599	Maine	66.6	19.2	8	2016	Summer
-600	Maine	59.1	15.1	9	2016	Fall
-601	Maine	46.9	8.3	10	2016	Fall
-602	Maine	37.2	2.9	11	2016	Fall
-603	Maine	20.5	-6.4	12	2016	Winter
-604	Maine	21.5	-5.8	1	2017	Winter
-605	Maine	20.6	-6.3	2	2017	Winter
-606	Maine	22.2	-5.4	3	2017	Spring
-607	Maine	42.0	5.6	4	2017	Spring
-608	Maine	50.7	10.4	5	2017	Spring
-609	Maine	61.0	16.1	6	2017	Summer
-610	Maine	65.2	18.4	7	2017	Summer
-611	Maine	63.3	17.4	8	2017	Summer
-612	Maine	61.1	16.2	9	2017	Fall
-613	Maine	52.0	11.1	10	2017	Fall
-614	Maine	32.4	0.2	11	2017	Fall
-615	Maine	16.4	-8.7	12	2017	Winter
-616	Maine	15.0	-9.4	1	2018	Winter
-617	Maine	22.6	-5.2	2	2018	Winter
-618	Maine	28.9	-1.7	3	2018	Spring
-619	Maine	36.6	2.6	4	2018	Spring
-620	Maine	53.6	12.0	5	2018	Spring
-621	Maine	59.0	15.0	6	2018	Summer
-622	Maine	68.9	20.5	7	2018	Summer
-623	Maine	68.1	20.1	8	2018	Summer
-624	Maine	58.0	14.4	9	2018	Fall
-625	Maine	41.9	5.5	10	2018	Fall
-626	Maine	28.8	-1.8	11	2018	Fall
-627	Maine	20.4	-6.4	12	2018	Winter
-628	Maine	14.2	-9.9	1	2019	Winter
-629	Maryland	32.1	0.1	1	2016	Winter
-630	Maryland	36.9	2.7	2	2016	Winter
-631	Maryland	49.4	9.7	3	2016	Spring
-632	Maryland	53.1	11.7	4	2016	Spring
-633	Maryland	60.9	16.1	5	2016	Spring
-634	Maryland	72.2	22.3	6	2016	Summer
-635	Maryland	78.4	25.8	7	2016	Summer
-636	Maryland	78.0	25.6	8	2016	Summer
-637	Maryland	71.5	21.9	9	2016	Fall
-638	Maryland	59.4	15.2	10	2016	Fall
-639	Maryland	47.7	8.7	11	2016	Fall
-640	Maryland	38.0	3.3	12	2016	Winter
-641	Maryland	38.3	3.5	1	2017	Winter
-642	Maryland	43.7	6.5	2	2017	Winter
-643	Maryland	43.1	6.2	3	2017	Spring
-644	Maryland	59.5	15.3	4	2017	Spring
-645	Maryland	62.2	16.8	5	2017	Spring
-646	Maryland	72.6	22.6	6	2017	Summer
-647	Maryland	77.4	25.2	7	2017	Summer
-648	Maryland	72.8	22.7	8	2017	Summer
-649	Maryland	68.3	20.2	9	2017	Fall
-650	Maryland	61.2	16.2	10	2017	Fall
-651	Maryland	45.8	7.7	11	2017	Fall
-652	Maryland	35.3	1.8	12	2017	Winter
-653	Maryland	31.0	-0.6	1	2018	Winter
-654	Maryland	41.6	5.3	2	2018	Winter
-655	Maryland	39.2	4.0	3	2018	Spring
-656	Maryland	50.6	10.3	4	2018	Spring
-657	Maryland	68.6	20.3	5	2018	Spring
-658	Maryland	72.0	22.2	6	2018	Summer
-659	Maryland	76.2	24.6	7	2018	Summer
-660	Maryland	77.0	25.0	8	2018	Summer
-661	Maryland	72.6	22.6	9	2018	Fall
-662	Maryland	59.0	15.0	10	2018	Fall
-663	Maryland	43.4	6.3	11	2018	Fall
-664	Maryland	39.2	4.0	12	2018	Winter
-665	Maryland	33.6	0.9	1	2019	Winter
-666	Massachusetts	28.5	-1.9	1	2016	Winter
-667	Massachusetts	30.9	-0.6	2	2016	Winter
-668	Massachusetts	41.0	5.0	3	2016	Spring
-669	Massachusetts	45.0	7.2	4	2016	Spring
-670	Massachusetts	57.2	14.0	5	2016	Spring
-671	Massachusetts	66.1	18.9	6	2016	Summer
-672	Massachusetts	72.6	22.6	7	2016	Summer
-673	Massachusetts	72.5	22.5	8	2016	Summer
-674	Massachusetts	64.6	18.1	9	2016	Fall
-675	Massachusetts	52.2	11.2	10	2016	Fall
-676	Massachusetts	42.2	5.7	11	2016	Fall
-677	Massachusetts	31.0	-0.6	12	2016	Winter
-678	Massachusetts	31.5	-0.3	1	2017	Winter
-679	Massachusetts	33.0	0.6	2	2017	Winter
-680	Massachusetts	31.5	-0.3	3	2017	Spring
-681	Massachusetts	50.2	10.1	4	2017	Spring
-682	Massachusetts	55.2	12.9	5	2017	Spring
-683	Massachusetts	66.0	18.9	6	2017	Summer
-684	Massachusetts	70.0	21.1	7	2017	Summer
-685	Massachusetts	68.0	20.0	8	2017	Summer
-686	Massachusetts	65.1	18.4	9	2017	Fall
-687	Massachusetts	57.5	14.2	10	2017	Fall
-688	Massachusetts	40.3	4.6	11	2017	Fall
-689	Massachusetts	26.6	-3.0	12	2017	Winter
-690	Massachusetts	24.5	-4.2	1	2018	Winter
-691	Massachusetts	34.2	1.2	2	2018	Winter
-692	Massachusetts	34.9	1.6	3	2018	Spring
-693	Massachusetts	42.3	5.7	4	2018	Spring
-694	Massachusetts	60.8	16.0	5	2018	Spring
-695	Massachusetts	64.8	18.2	6	2018	Summer
-696	Massachusetts	73.2	22.9	7	2018	Summer
-697	Massachusetts	73.5	23.1	8	2018	Summer
-698	Massachusetts	65.2	18.4	9	2018	Fall
-699	Massachusetts	50.3	10.2	10	2018	Fall
-700	Massachusetts	37.8	3.2	11	2018	Fall
-701	Massachusetts	32.1	0.1	12	2018	Winter
-702	Massachusetts	25.9	-3.4	1	2019	Winter
-703	Michigan	22.3	-5.4	1	2016	Winter
-704	Michigan	25.3	-3.7	2	2016	Winter
-705	Michigan	36.1	2.3	3	2016	Spring
-706	Michigan	40.8	4.9	4	2016	Spring
-707	Michigan	55.4	13.0	5	2016	Spring
-708	Michigan	64.7	18.2	6	2016	Summer
-709	Michigan	70.3	21.3	7	2016	Summer
-710	Michigan	70.8	21.6	8	2016	Summer
-711	Michigan	63.5	17.5	9	2016	Fall
-712	Michigan	51.6	10.9	10	2016	Fall
-713	Michigan	42.6	5.9	11	2016	Fall
-714	Michigan	25.0	-3.9	12	2016	Winter
-715	Michigan	25.2	-3.8	1	2017	Winter
-716	Michigan	29.9	-1.2	2	2017	Winter
-717	Michigan	30.7	-0.7	3	2017	Spring
-718	Michigan	47.2	8.4	4	2017	Spring
-719	Michigan	53.0	11.7	5	2017	Spring
-720	Michigan	65.3	18.5	6	2017	Summer
-721	Michigan	68.5	20.3	7	2017	Summer
-722	Michigan	65.2	18.4	8	2017	Summer
-723	Michigan	62.6	17.0	9	2017	Fall
-724	Michigan	52.5	11.4	10	2017	Fall
-725	Michigan	34.5	1.4	11	2017	Fall
-726	Michigan	20.9	-6.2	12	2017	Winter
-727	Michigan	20.0	-6.7	1	2018	Winter
-728	Michigan	23.0	-5.0	2	2018	Winter
-729	Michigan	29.6	-1.3	3	2018	Spring
-730	Michigan	35.3	1.8	4	2018	Spring
-731	Michigan	60.3	15.7	5	2018	Spring
-732	Michigan	65.2	18.4	6	2018	Summer
-733	Michigan	70.5	21.4	7	2018	Summer
-734	Michigan	69.8	21.0	8	2018	Summer
-735	Michigan	62.4	16.9	9	2018	Fall
-736	Michigan	45.9	7.7	10	2018	Fall
-737	Michigan	30.8	-0.7	11	2018	Fall
-738	Michigan	28.7	-1.8	12	2018	Winter
-739	Michigan	16.8	-8.4	1	2019	Winter
-740	Minnesota	12.6	-10.8	1	2016	Winter
-741	Minnesota	19.9	-6.7	2	2016	Winter
-742	Minnesota	35.7	2.1	3	2016	Spring
-743	Minnesota	42.5	5.8	4	2016	Spring
-744	Minnesota	56.7	13.7	5	2016	Spring
-745	Minnesota	65.6	18.7	6	2016	Summer
-746	Minnesota	69.3	20.7	7	2016	Summer
-747	Minnesota	68.1	20.1	8	2016	Summer
-748	Minnesota	60.7	15.9	9	2016	Fall
-749	Minnesota	48.2	9.0	10	2016	Fall
-750	Minnesota	40.2	4.6	11	2016	Fall
-751	Minnesota	15.3	-9.3	12	2016	Winter
-752	Minnesota	14.6	-9.7	1	2017	Winter
-753	Minnesota	23.9	-4.5	2	2017	Winter
-754	Minnesota	28.2	-2.1	3	2017	Spring
-755	Minnesota	44.4	6.9	4	2017	Spring
-756	Minnesota	53.6	12.0	5	2017	Spring
-757	Minnesota	65.0	18.3	6	2017	Summer
-758	Minnesota	69.2	20.7	7	2017	Summer
-759	Minnesota	64.0	17.8	8	2017	Summer
-760	Minnesota	60.8	16.0	9	2017	Fall
-761	Minnesota	47.1	8.4	10	2017	Fall
-762	Minnesota	27.4	-2.6	11	2017	Fall
-763	Minnesota	13.4	-10.3	12	2017	Winter
-764	Minnesota	10.4	-12.0	1	2018	Winter
-765	Minnesota	8.6	-13.0	2	2018	Winter
-766	Minnesota	27.5	-2.5	3	2018	Spring
-767	Minnesota	32.7	0.4	4	2018	Spring
-768	Minnesota	61.1	16.2	5	2018	Spring
-769	Minnesota	67.0	19.4	6	2018	Summer
-770	Minnesota	69.6	20.9	7	2018	Summer
-771	Minnesota	67.4	19.7	8	2018	Summer
-772	Minnesota	59.0	15.0	9	2018	Fall
-773	Minnesota	40.7	4.8	10	2018	Fall
-774	Minnesota	22.8	-5.1	11	2018	Fall
-775	Minnesota	20.2	-6.6	12	2018	Winter
-776	Minnesota	6.6	-14.1	1	2019	Winter
-777	Mississippi	43.7	6.5	1	2016	Winter
-778	Mississippi	50.9	10.5	2	2016	Winter
-779	Mississippi	60.2	15.7	3	2016	Spring
-780	Mississippi	65.2	18.4	4	2016	Spring
-781	Mississippi	70.5	21.4	5	2016	Spring
-782	Mississippi	80.2	26.8	6	2016	Summer
-783	Mississippi	82.4	28.0	7	2016	Summer
-784	Mississippi	82.0	27.8	8	2016	Summer
-785	Mississippi	79.0	26.1	9	2016	Fall
-786	Mississippi	69.2	20.7	10	2016	Fall
-787	Mississippi	58.2	14.6	11	2016	Fall
-788	Mississippi	49.4	9.7	12	2016	Winter
-789	Mississippi	52.9	11.6	1	2017	Winter
-790	Mississippi	57.1	13.9	2	2017	Winter
-791	Mississippi	60.1	15.6	3	2017	Spring
-792	Mississippi	67.3	19.6	4	2017	Spring
-793	Mississippi	70.1	21.2	5	2017	Spring
-794	Mississippi	76.7	24.8	6	2017	Summer
-795	Mississippi	81.2	27.3	7	2017	Summer
-796	Mississippi	79.3	26.3	8	2017	Summer
-797	Mississippi	74.5	23.6	9	2017	Fall
-798	Mississippi	66.2	19.0	10	2017	Fall
-799	Mississippi	56.8	13.8	11	2017	Fall
-800	Mississippi	47.1	8.4	12	2017	Winter
-801	Mississippi	40.0	4.4	1	2018	Winter
-802	Mississippi	56.8	13.8	2	2018	Winter
-803	Mississippi	57.1	13.9	3	2018	Spring
-804	Mississippi	58.8	14.9	4	2018	Spring
-805	Mississippi	75.8	24.3	5	2018	Spring
-806	Mississippi	80.6	27.0	6	2018	Summer
-807	Mississippi	81.8	27.7	7	2018	Summer
-808	Mississippi	80.2	26.8	8	2018	Summer
-809	Mississippi	78.8	26.0	9	2018	Fall
-810	Mississippi	67.3	19.6	10	2018	Fall
-811	Mississippi	50.5	10.3	11	2018	Fall
-812	Mississippi	48.9	9.4	12	2018	Winter
-813	Mississippi	46.2	7.9	1	2019	Winter
-814	Missouri	30.9	-0.6	1	2016	Winter
-815	Missouri	39.1	3.9	2	2016	Winter
-816	Missouri	50.4	10.2	3	2016	Spring
-817	Missouri	57.3	14.1	4	2016	Spring
-818	Missouri	62.7	17.1	5	2016	Spring
-819	Missouri	76.9	24.9	6	2016	Summer
-820	Missouri	78.1	25.6	7	2016	Summer
-821	Missouri	76.7	24.8	8	2016	Summer
-822	Missouri	71.7	22.1	9	2016	Fall
-823	Missouri	62.1	16.7	10	2016	Fall
-824	Missouri	51.0	10.6	11	2016	Fall
-825	Missouri	32.4	0.2	12	2016	Winter
-826	Missouri	35.4	1.9	1	2017	Winter
-827	Missouri	45.1	7.3	2	2017	Winter
-828	Missouri	48.4	9.1	3	2017	Spring
-829	Missouri	58.5	14.7	4	2017	Spring
-830	Missouri	64.1	17.8	5	2017	Spring
-831	Missouri	73.5	23.1	6	2017	Summer
-832	Missouri	78.8	26.0	7	2017	Summer
-833	Missouri	72.1	22.3	8	2017	Summer
-834	Missouri	70.4	21.3	9	2017	Fall
-835	Missouri	59.0	15.0	10	2017	Fall
-836	Missouri	46.2	7.9	11	2017	Fall
-837	Missouri	34.3	1.3	12	2017	Winter
-838	Missouri	28.0	-2.2	1	2018	Winter
-839	Missouri	35.6	2.0	2	2018	Winter
-840	Missouri	44.0	6.7	3	2018	Spring
-841	Missouri	48.2	9.0	4	2018	Spring
-842	Missouri	72.5	22.5	5	2018	Spring
-843	Missouri	77.4	25.2	6	2018	Summer
-844	Missouri	78.2	25.7	7	2018	Summer
-845	Missouri	76.4	24.7	8	2018	Summer
-846	Missouri	71.3	21.8	9	2018	Fall
-847	Missouri	56.5	13.6	10	2018	Fall
-848	Missouri	37.6	3.1	11	2018	Fall
-849	Missouri	36.9	2.7	12	2018	Winter
-850	Missouri	31.0	-0.6	1	2019	Winter
-851	Montana	23.4	-4.8	1	2016	Winter
-852	Montana	33.6	0.9	2	2016	Winter
-853	Montana	37.4	3.0	3	2016	Spring
-854	Montana	45.0	7.2	4	2016	Spring
-855	Montana	51.0	10.6	5	2016	Spring
-856	Montana	62.4	16.9	6	2016	Summer
-857	Montana	65.9	18.8	7	2016	Summer
-858	Montana	64.4	18.0	8	2016	Summer
-859	Montana	54.8	12.7	9	2016	Fall
-860	Montana	44.3	6.8	10	2016	Fall
-861	Montana	39.1	3.9	11	2016	Fall
-862	Montana	14.2	-9.9	12	2016	Winter
-863	Montana	15.2	-9.3	1	2017	Winter
-864	Montana	25.4	-3.7	2	2017	Winter
-865	Montana	35.8	2.1	3	2017	Spring
-866	Montana	42.1	5.6	4	2017	Spring
-867	Montana	52.3	11.3	5	2017	Spring
-868	Montana	60.6	15.9	6	2017	Summer
-869	Montana	71.6	22.0	7	2017	Summer
-870	Montana	65.5	18.6	8	2017	Summer
-871	Montana	55.2	12.9	9	2017	Fall
-872	Montana	42.6	5.9	10	2017	Fall
-873	Montana	30.7	-0.7	11	2017	Fall
-874	Montana	21.1	-6.1	12	2017	Winter
-875	Montana	21.7	-5.7	1	2018	Winter
-876	Montana	11.4	-11.4	2	2018	Winter
-877	Montana	28.2	-2.1	3	2018	Spring
-878	Montana	37.9	3.3	4	2018	Spring
-879	Montana	55.6	13.1	5	2018	Spring
-880	Montana	59.2	15.1	6	2018	Summer
-881	Montana	66.7	19.3	7	2018	Summer
-882	Montana	64.4	18.0	8	2018	Summer
-883	Montana	53.0	11.7	9	2018	Fall
-884	Montana	41.6	5.3	10	2018	Fall
-885	Montana	30.2	-1.0	11	2018	Fall
-886	Montana	25.0	-3.9	12	2018	Winter
-887	Montana	24.8	-4.0	1	2019	Winter
-888	Nebraska	26.0	-3.3	1	2016	Winter
-889	Nebraska	35.0	1.7	2	2016	Winter
-890	Nebraska	43.9	6.6	3	2016	Spring
-891	Nebraska	49.9	9.9	4	2016	Spring
-892	Nebraska	57.2	14.0	5	2016	Spring
-893	Nebraska	73.3	22.9	6	2016	Summer
-894	Nebraska	74.2	23.4	7	2016	Summer
-895	Nebraska	71.8	22.1	8	2016	Summer
-896	Nebraska	65.0	18.3	9	2016	Fall
-897	Nebraska	55.4	13.0	10	2016	Fall
-898	Nebraska	44.3	6.8	11	2016	Fall
-899	Nebraska	23.8	-4.6	12	2016	Winter
-900	Nebraska	24.8	-4.0	1	2017	Winter
-901	Nebraska	35.4	1.9	2	2017	Winter
-902	Nebraska	42.2	5.7	3	2017	Spring
-903	Nebraska	49.7	9.8	4	2017	Spring
-904	Nebraska	57.0	13.9	5	2017	Spring
-905	Nebraska	70.7	21.5	6	2017	Summer
-906	Nebraska	76.8	24.9	7	2017	Summer
-907	Nebraska	69.0	20.6	8	2017	Summer
-908	Nebraska	65.0	18.3	9	2017	Fall
-909	Nebraska	51.0	10.6	10	2017	Fall
-910	Nebraska	39.9	4.4	11	2017	Fall
-911	Nebraska	26.6	-3.0	12	2017	Winter
-912	Nebraska	23.1	-4.9	1	2018	Winter
-913	Nebraska	21.7	-5.7	2	2018	Winter
-914	Nebraska	38.5	3.6	3	2018	Spring
-915	Nebraska	41.2	5.1	4	2018	Spring
-916	Nebraska	63.8	17.7	5	2018	Spring
-917	Nebraska	72.3	22.4	6	2018	Summer
-918	Nebraska	73.5	23.1	7	2018	Summer
-919	Nebraska	70.8	21.6	8	2018	Summer
-920	Nebraska	65.7	18.7	9	2018	Fall
-921	Nebraska	47.1	8.4	10	2018	Fall
-922	Nebraska	33.4	0.8	11	2018	Fall
-923	Nebraska	28.0	-2.2	12	2018	Winter
-924	Nebraska	26.3	-3.2	1	2019	Winter
-925	Nevada	31.1	-0.5	1	2016	Winter
-926	Nevada	38.0	3.3	2	2016	Winter
-927	Nevada	44.2	6.8	3	2016	Spring
-928	Nevada	50.1	10.1	4	2016	Spring
-929	Nevada	55.1	12.8	5	2016	Spring
-930	Nevada	69.7	20.9	6	2016	Summer
-931	Nevada	73.7	23.2	7	2016	Summer
-932	Nevada	72.1	22.3	8	2016	Summer
-933	Nevada	62.3	16.8	9	2016	Fall
-934	Nevada	53.2	11.8	10	2016	Fall
-935	Nevada	43.2	6.2	11	2016	Fall
-936	Nevada	30.5	-0.8	12	2016	Winter
-937	Nevada	29.1	-1.6	1	2017	Winter
-938	Nevada	38.1	3.4	2	2017	Winter
-939	Nevada	45.7	7.6	3	2017	Spring
-940	Nevada	47.1	8.4	4	2017	Spring
-941	Nevada	57.1	13.9	5	2017	Spring
-942	Nevada	68.6	20.3	6	2017	Summer
-943	Nevada	76.2	24.6	7	2017	Summer
-944	Nevada	73.5	23.1	8	2017	Summer
-945	Nevada	61.6	16.4	9	2017	Fall
-946	Nevada	50.4	10.2	10	2017	Fall
-947	Nevada	44.4	6.9	11	2017	Fall
-948	Nevada	34.8	1.6	12	2017	Winter
-949	Nevada	38.5	3.6	1	2018	Winter
-950	Nevada	33.7	0.9	2	2018	Winter
-951	Nevada	39.5	4.2	3	2018	Spring
-952	Nevada	50.0	10.0	4	2018	Spring
-953	Nevada	57.7	14.3	5	2018	Spring
-954	Nevada	67.8	19.9	6	2018	Summer
-955	Nevada	77.0	25.0	7	2018	Summer
-956	Nevada	73.2	22.9	8	2018	Summer
-957	Nevada	65.0	18.3	9	2018	Fall
-958	Nevada	50.3	10.2	10	2018	Fall
-959	Nevada	39.4	4.1	11	2018	Fall
-960	Nevada	32.0	0.0	12	2018	Winter
-961	Nevada	34.0	1.1	1	2019	Winter
-962	New Hampshire	22.9	-5.1	1	2016	Winter
-963	New Hampshire	25.6	-3.6	2	2016	Winter
-964	New Hampshire	35.2	1.8	3	2016	Spring
-965	New Hampshire	40.2	4.6	4	2016	Spring
-966	New Hampshire	54.8	12.7	5	2016	Spring
-967	New Hampshire	62.6	17.0	6	2016	Summer
-968	New Hampshire	68.5	20.3	7	2016	Summer
-969	New Hampshire	68.2	20.1	8	2016	Summer
-970	New Hampshire	60.5	15.8	9	2016	Fall
-971	New Hampshire	48.0	8.9	10	2016	Fall
-972	New Hampshire	37.9	3.3	11	2016	Fall
-973	New Hampshire	24.4	-4.2	12	2016	Winter
-974	New Hampshire	25.7	-3.5	1	2017	Winter
-975	New Hampshire	26.7	-2.9	2	2017	Winter
-976	New Hampshire	25.3	-3.7	3	2017	Spring
-977	New Hampshire	45.8	7.7	4	2017	Spring
-978	New Hampshire	52.2	11.2	5	2017	Spring
-979	New Hampshire	62.6	17.0	6	2017	Summer
-980	New Hampshire	66.5	19.2	7	2017	Summer
-981	New Hampshire	64.1	17.8	8	2017	Summer
-982	New Hampshire	62.2	16.8	9	2017	Fall
-983	New Hampshire	53.9	12.2	10	2017	Fall
-984	New Hampshire	34.6	1.4	11	2017	Fall
-985	New Hampshire	19.6	-6.9	12	2017	Winter
-986	New Hampshire	18.4	-7.6	1	2018	Winter
-987	New Hampshire	27.0	-2.8	2	2018	Winter
-988	New Hampshire	30.4	-0.9	3	2018	Spring
-989	New Hampshire	38.0	3.3	4	2018	Spring
-990	New Hampshire	57.2	14.0	5	2018	Spring
-991	New Hampshire	61.4	16.3	6	2018	Summer
-992	New Hampshire	69.8	21.0	7	2018	Summer
-993	New Hampshire	69.3	20.7	8	2018	Summer
-994	New Hampshire	61.2	16.2	9	2018	Fall
-995	New Hampshire	45.1	7.3	10	2018	Fall
-996	New Hampshire	31.4	-0.3	11	2018	Fall
-997	New Hampshire	24.9	-3.9	12	2018	Winter
-998	New Hampshire	18.2	-7.7	1	2019	Winter
-999	New Jersey	31.4	-0.3	1	2016	Winter
-1000	New Jersey	36.0	2.2	2	2016	Winter
-1001	New Jersey	47.0	8.3	3	2016	Spring
-1002	New Jersey	50.7	10.4	4	2016	Spring
-1003	New Jersey	60.2	15.7	5	2016	Spring
-1004	New Jersey	70.6	21.4	6	2016	Summer
-1005	New Jersey	77.2	25.1	7	2016	Summer
-1006	New Jersey	76.9	24.9	8	2016	Summer
-1007	New Jersey	69.7	20.9	9	2016	Fall
-1008	New Jersey	56.7	13.7	10	2016	Fall
-1009	New Jersey	46.7	8.2	11	2016	Fall
-1010	New Jersey	36.3	2.4	12	2016	Winter
-1011	New Jersey	36.2	2.3	1	2017	Winter
-1012	New Jersey	40.4	4.7	2	2017	Winter
-1013	New Jersey	38.9	3.8	3	2017	Spring
-1014	New Jersey	55.9	13.3	4	2017	Spring
-1015	New Jersey	60.0	15.6	5	2017	Spring
-1016	New Jersey	70.4	21.3	6	2017	Summer
-1017	New Jersey	75.5	24.2	7	2017	Summer
-1018	New Jersey	71.6	22.0	8	2017	Summer
-1019	New Jersey	68.2	20.1	9	2017	Fall
-1020	New Jersey	60.4	15.8	10	2017	Fall
-1021	New Jersey	44.4	6.9	11	2017	Fall
-1022	New Jersey	33.2	0.7	12	2017	Winter
-1023	New Jersey	29.2	-1.6	1	2018	Winter
-1024	New Jersey	39.4	4.1	2	2018	Winter
-1025	New Jersey	38.3	3.5	3	2018	Spring
-1026	New Jersey	48.0	8.9	4	2018	Spring
-1027	New Jersey	65.2	18.4	5	2018	Spring
-1028	New Jersey	70.1	21.2	6	2018	Summer
-1029	New Jersey	76.1	24.5	7	2018	Summer
-1030	New Jersey	76.8	24.9	8	2018	Summer
-1031	New Jersey	70.2	21.2	9	2018	Fall
-1032	New Jersey	56.4	13.6	10	2018	Fall
-1033	New Jersey	42.5	5.8	11	2018	Fall
-1034	New Jersey	37.8	3.2	12	2018	Winter
-1035	New Jersey	31.6	-0.2	1	2019	Winter
-1036	New Mexico	34.3	1.3	1	2016	Winter
-1037	New Mexico	42.0	5.6	2	2016	Winter
-1038	New Mexico	48.3	9.1	3	2016	Spring
-1039	New Mexico	52.3	11.3	4	2016	Spring
-1040	New Mexico	59.4	15.2	5	2016	Spring
-1041	New Mexico	73.0	22.8	6	2016	Summer
-1042	New Mexico	76.9	24.9	7	2016	Summer
-1043	New Mexico	70.1	21.2	8	2016	Summer
-1044	New Mexico	65.9	18.8	9	2016	Fall
-1045	New Mexico	59.6	15.3	10	2016	Fall
-1046	New Mexico	46.7	8.2	11	2016	Fall
-1047	New Mexico	37.8	3.2	12	2016	Winter
-1048	New Mexico	37.2	2.9	1	2017	Winter
-1049	New Mexico	44.5	6.9	2	2017	Winter
-1050	New Mexico	51.2	10.7	3	2017	Spring
-1051	New Mexico	53.7	12.1	4	2017	Spring
-1052	New Mexico	60.1	15.6	5	2017	Spring
-1053	New Mexico	72.8	22.7	6	2017	Summer
-1054	New Mexico	74.6	23.7	7	2017	Summer
-1055	New Mexico	70.8	21.6	8	2017	Summer
-1056	New Mexico	66.4	19.1	9	2017	Fall
-1057	New Mexico	56.4	13.6	10	2017	Fall
-1058	New Mexico	50.2	10.1	11	2017	Fall
-1059	New Mexico	38.7	3.7	12	2017	Winter
-1060	New Mexico	37.0	2.8	1	2018	Winter
-1061	New Mexico	41.3	5.2	2	2018	Winter
-1062	New Mexico	47.2	8.4	3	2018	Spring
-1063	New Mexico	55.1	12.8	4	2018	Spring
-1064	New Mexico	65.6	18.7	5	2018	Spring
-1065	New Mexico	74.3	23.5	6	2018	Summer
-1066	New Mexico	75.1	23.9	7	2018	Summer
-1067	New Mexico	73.0	22.8	8	2018	Summer
-1068	New Mexico	66.9	19.4	9	2018	Fall
-1069	New Mexico	53.8	12.1	10	2018	Fall
-1070	New Mexico	41.2	5.1	11	2018	Fall
-1071	New Mexico	35.6	2.0	12	2018	Winter
-1072	New Mexico	35.5	1.9	1	2019	Winter
-1073	New York	23.7	-4.6	1	2016	Winter
-1074	New York	26.7	-2.9	2	2016	Winter
-1075	New York	37.7	3.2	3	2016	Spring
-1076	New York	41.3	5.2	4	2016	Spring
-1077	New York	55.7	13.2	5	2016	Spring
-1078	New York	64.1	17.8	6	2016	Summer
-1079	New York	70.4	21.3	7	2016	Summer
-1080	New York	70.9	21.6	8	2016	Summer
-1081	New York	62.9	17.2	9	2016	Fall
-1082	New York	50.5	10.3	10	2016	Fall
-1083	New York	40.2	4.6	11	2016	Fall
-1084	New York	27.6	-2.4	12	2016	Winter
-1085	New York	27.9	-2.3	1	2017	Winter
-1086	New York	30.6	-0.8	2	2017	Winter
-1087	New York	28.2	-2.1	3	2017	Spring
-1088	New York	48.8	9.3	4	2017	Spring
-1089	New York	54.0	12.2	5	2017	Spring
-1090	New York	63.9	17.7	6	2017	Summer
-1091	New York	68.1	20.1	7	2017	Summer
-1092	New York	65.6	18.7	8	2017	Summer
-1093	New York	62.3	16.8	9	2017	Fall
-1094	New York	54.8	12.7	10	2017	Fall
-1095	New York	36.2	2.3	11	2017	Fall
-1096	New York	22.6	-5.2	12	2017	Winter
-1097	New York	19.1	-7.2	1	2018	Winter
-1098	New York	29.4	-1.4	2	2018	Winter
-1099	New York	29.9	-1.2	3	2018	Spring
-1100	New York	37.8	3.2	4	2018	Spring
-1101	New York	60.0	15.6	5	2018	Spring
-1102	New York	63.4	17.4	6	2018	Summer
-1103	New York	71.2	21.8	7	2018	Summer
-1104	New York	70.5	21.4	8	2018	Summer
-1105	New York	63.6	17.6	9	2018	Fall
-1106	New York	47.8	8.8	10	2018	Fall
-1107	New York	33.3	0.7	11	2018	Fall
-1108	New York	28.5	-1.9	12	2018	Winter
-1109	New York	19.5	-6.9	1	2019	Winter
-1110	North Carolina	38.4	3.6	1	2016	Winter
-1111	North Carolina	43.2	6.2	2	2016	Winter
-1112	North Carolina	56.2	13.4	3	2016	Spring
-1113	North Carolina	58.7	14.8	4	2016	Spring
-1114	North Carolina	65.8	18.8	5	2016	Spring
-1115	North Carolina	75.3	24.1	6	2016	Summer
-1116	North Carolina	80.1	26.7	7	2016	Summer
-1117	North Carolina	79.2	26.2	8	2016	Summer
-1118	North Carolina	74.3	23.5	9	2016	Fall
-1119	North Carolina	63.2	17.3	10	2016	Fall
-1120	North Carolina	51.7	10.9	11	2016	Fall
-1121	North Carolina	44.0	6.7	12	2016	Winter
-1122	North Carolina	45.4	7.4	1	2017	Winter
-1123	North Carolina	50.7	10.4	2	2017	Winter
-1124	North Carolina	50.0	10.0	3	2017	Spring
-1125	North Carolina	63.9	17.7	4	2017	Spring
-1126	North Carolina	67.7	19.8	5	2017	Spring
-1127	North Carolina	73.8	23.2	6	2017	Summer
-1128	North Carolina	78.7	25.9	7	2017	Summer
-1129	North Carolina	75.8	24.3	8	2017	Summer
-1130	North Carolina	70.5	21.4	9	2017	Fall
-1131	North Carolina	62.8	17.1	10	2017	Fall
-1132	North Carolina	50.3	10.2	11	2017	Fall
-1133	North Carolina	42.4	5.8	12	2017	Winter
-1134	North Carolina	35.8	2.1	1	2018	Winter
-1135	North Carolina	51.9	11.1	2	2018	Winter
-1136	North Carolina	46.3	7.9	3	2018	Spring
-1137	North Carolina	56.0	13.3	4	2018	Spring
-1138	North Carolina	71.6	22.0	5	2018	Spring
-1139	North Carolina	76.8	24.9	6	2018	Summer
-1140	North Carolina	77.2	25.1	7	2018	Summer
-1141	North Carolina	77.2	25.1	8	2018	Summer
-1142	North Carolina	76.2	24.6	9	2018	Fall
-1143	North Carolina	62.5	16.9	10	2018	Fall
-1144	North Carolina	48.4	9.1	11	2018	Fall
-1145	North Carolina	45.0	7.2	12	2018	Winter
-1146	North Carolina	41.9	5.5	1	2019	Winter
-1147	North Dakota	14.6	-9.7	1	2016	Winter
-1148	North Dakota	25.6	-3.6	2	2016	Winter
-1149	North Dakota	36.3	2.4	3	2016	Spring
-1150	North Dakota	41.8	5.4	4	2016	Spring
-1151	North Dakota	56.6	13.7	5	2016	Spring
-1152	North Dakota	66.0	18.9	6	2016	Summer
-1153	North Dakota	69.3	20.7	7	2016	Summer
-1154	North Dakota	68.0	20.0	8	2016	Summer
-1155	North Dakota	58.6	14.8	9	2016	Fall
-1156	North Dakota	46.1	7.8	10	2016	Fall
-1157	North Dakota	39.3	4.1	11	2016	Fall
-1158	North Dakota	10.2	-12.1	12	2016	Winter
-1159	North Dakota	11.2	-11.6	1	2017	Winter
-1160	North Dakota	20.5	-6.4	2	2017	Winter
-1161	North Dakota	27.4	-2.6	3	2017	Spring
-1162	North Dakota	42.7	5.9	4	2017	Spring
-1163	North Dakota	54.8	12.7	5	2017	Spring
-1164	North Dakota	64.8	18.2	6	2017	Summer
-1165	North Dakota	72.2	22.3	7	2017	Summer
-1166	North Dakota	65.2	18.4	8	2017	Summer
-1167	North Dakota	58.3	14.6	9	2017	Fall
-1168	North Dakota	45.0	7.2	10	2017	Fall
-1169	North Dakota	26.4	-3.1	11	2017	Fall
-1170	North Dakota	15.6	-9.1	12	2017	Winter
-1171	North Dakota	11.8	-11.2	1	2018	Winter
-1172	North Dakota	5.4	-14.8	2	2018	Winter
-1173	North Dakota	24.6	-4.1	3	2018	Spring
-1174	North Dakota	33.2	0.7	4	2018	Spring
-1175	North Dakota	60.2	15.7	5	2018	Spring
-1176	North Dakota	67.4	19.7	6	2018	Summer
-1177	North Dakota	69.2	20.7	7	2018	Summer
-1178	North Dakota	67.6	19.8	8	2018	Summer
-1179	North Dakota	55.0	12.8	9	2018	Fall
-1180	North Dakota	39.0	3.9	10	2018	Fall
-1181	North Dakota	22.9	-5.1	11	2018	Fall
-1182	North Dakota	20.8	-6.2	12	2018	Winter
-1183	North Dakota	9.8	-12.3	1	2019	Winter
-1184	Ohio	27.2	-2.7	1	2016	Winter
-1185	Ohio	33.6	0.9	2	2016	Winter
-1186	Ohio	46.5	8.1	3	2016	Spring
-1187	Ohio	50.2	10.1	4	2016	Spring
-1188	Ohio	59.7	15.4	5	2016	Spring
-1189	Ohio	71.2	21.8	6	2016	Summer
-1190	Ohio	74.8	23.8	7	2016	Summer
-1191	Ohio	76.0	24.4	8	2016	Summer
-1192	Ohio	69.2	20.7	9	2016	Fall
-1193	Ohio	57.7	14.3	10	2016	Fall
-1194	Ohio	45.8	7.7	11	2016	Fall
-1195	Ohio	31.0	-0.6	12	2016	Winter
-1196	Ohio	34.6	1.4	1	2017	Winter
-1197	Ohio	40.5	4.7	2	2017	Winter
-1198	Ohio	40.4	4.7	3	2017	Spring
-1199	Ohio	56.6	13.7	4	2017	Spring
-1200	Ohio	60.1	15.6	5	2017	Spring
-1201	Ohio	69.6	20.9	6	2017	Summer
-1202	Ohio	73.0	22.8	7	2017	Summer
-1203	Ohio	69.7	20.9	8	2017	Summer
-1204	Ohio	65.8	18.8	9	2017	Fall
-1205	Ohio	57.4	14.1	10	2017	Fall
-1206	Ohio	41.8	5.4	11	2017	Fall
-1207	Ohio	29.2	-1.6	12	2017	Winter
-1208	Ohio	25.0	-3.9	1	2018	Winter
-1209	Ohio	36.6	2.6	2	2018	Winter
-1210	Ohio	36.4	2.4	3	2018	Spring
-1211	Ohio	45.0	7.2	4	2018	Spring
-1212	Ohio	68.0	20.0	5	2018	Spring
-1213	Ohio	71.4	21.9	6	2018	Summer
-1214	Ohio	73.8	23.2	7	2018	Summer
-1215	Ohio	73.7	23.2	8	2018	Summer
-1216	Ohio	69.6	20.9	9	2018	Fall
-1217	Ohio	54.3	12.4	10	2018	Fall
-1218	Ohio	37.3	2.9	11	2018	Fall
-1219	Ohio	35.1	1.7	12	2018	Winter
-1220	Ohio	27.4	-2.6	1	2019	Winter
-1221	Oklahoma	38.2	3.4	1	2016	Winter
-1222	Oklahoma	47.4	8.6	2	2016	Winter
-1223	Oklahoma	54.7	12.6	3	2016	Spring
-1224	Oklahoma	61.4	16.3	4	2016	Spring
-1225	Oklahoma	66.2	19.0	5	2016	Spring
-1226	Oklahoma	79.2	26.2	6	2016	Summer
-1227	Oklahoma	83.2	28.4	7	2016	Summer
-1228	Oklahoma	80.8	27.1	8	2016	Summer
-1229	Oklahoma	75.3	24.1	9	2016	Fall
-1230	Oklahoma	67.1	19.5	10	2016	Fall
-1231	Oklahoma	55.4	13.0	11	2016	Fall
-1232	Oklahoma	38.8	3.8	12	2016	Winter
-1233	Oklahoma	40.9	4.9	1	2017	Winter
-1234	Oklahoma	50.5	10.3	2	2017	Winter
-1235	Oklahoma	56.2	13.4	3	2017	Spring
-1236	Oklahoma	61.4	16.3	4	2017	Spring
-1237	Oklahoma	66.9	19.4	5	2017	Spring
-1238	Oklahoma	77.3	25.2	6	2017	Summer
-1239	Oklahoma	82.5	28.1	7	2017	Summer
-1240	Oklahoma	77.3	25.2	8	2017	Summer
-1241	Oklahoma	73.3	22.9	9	2017	Fall
-1242	Oklahoma	62.0	16.7	10	2017	Fall
-1243	Oklahoma	52.9	11.6	11	2017	Fall
-1244	Oklahoma	40.5	4.7	12	2017	Winter
-1245	Oklahoma	36.6	2.6	1	2018	Winter
-1246	Oklahoma	40.9	4.9	2	2018	Winter
-1247	Oklahoma	52.9	11.6	3	2018	Spring
-1248	Oklahoma	54.1	12.3	4	2018	Spring
-1249	Oklahoma	75.0	23.9	5	2018	Spring
-1250	Oklahoma	80.6	27.0	6	2018	Summer
-1251	Oklahoma	82.8	28.2	7	2018	Summer
-1252	Oklahoma	79.9	26.6	8	2018	Summer
-1253	Oklahoma	73.9	23.3	9	2018	Fall
-1254	Oklahoma	60.1	15.6	10	2018	Fall
-1255	Oklahoma	44.6	7.0	11	2018	Fall
-1256	Oklahoma	40.9	4.9	12	2018	Winter
-1257	Oklahoma	38.3	3.5	1	2019	Winter
-1258	Oregon	33.1	0.6	1	2016	Winter
-1259	Oregon	40.2	4.6	2	2016	Winter
-1260	Oregon	41.2	5.1	3	2016	Spring
-1261	Oregon	50.1	10.1	4	2016	Spring
-1262	Oregon	53.2	11.8	5	2016	Spring
-1263	Oregon	60.5	15.8	6	2016	Summer
-1264	Oregon	64.4	18.0	7	2016	Summer
-1265	Oregon	66.7	19.3	8	2016	Summer
-1266	Oregon	57.1	13.9	9	2016	Fall
-1267	Oregon	48.1	8.9	10	2016	Fall
-1268	Oregon	43.2	6.2	11	2016	Fall
-1269	Oregon	27.4	-2.6	12	2016	Winter
-1270	Oregon	26.7	-2.9	1	2017	Winter
-1271	Oregon	34.8	1.6	2	2017	Winter
-1272	Oregon	41.6	5.3	3	2017	Spring
-1273	Oregon	42.9	6.1	4	2017	Spring
-1274	Oregon	52.9	11.6	5	2017	Spring
-1275	Oregon	59.9	15.5	6	2017	Summer
-1276	Oregon	69.2	20.7	7	2017	Summer
-1277	Oregon	69.6	20.9	8	2017	Summer
-1278	Oregon	59.6	15.3	9	2017	Fall
-1279	Oregon	47.0	8.3	10	2017	Fall
-1280	Oregon	39.3	4.1	11	2017	Fall
-1281	Oregon	32.9	0.5	12	2017	Winter
-1282	Oregon	37.5	3.1	1	2018	Winter
-1283	Oregon	33.2	0.7	2	2018	Winter
-1284	Oregon	38.4	3.6	3	2018	Spring
-1285	Oregon	45.1	7.3	4	2018	Spring
-1286	Oregon	55.5	13.1	5	2018	Spring
-1287	Oregon	58.6	14.8	6	2018	Summer
-1288	Oregon	69.0	20.6	7	2018	Summer
-1289	Oregon	66.5	19.2	8	2018	Summer
-1290	Oregon	57.4	14.1	9	2018	Fall
-1291	Oregon	48.8	9.3	10	2018	Fall
-1292	Oregon	39.4	4.1	11	2018	Fall
-1293	Oregon	32.2	0.1	12	2018	Winter
-1294	Oregon	35.3	1.8	1	2019	Winter
-1295	Pennsylvania	25.4	-3.7	1	2016	Winter
-1296	Pennsylvania	30.7	-0.7	2	2016	Winter
-1297	Pennsylvania	43.3	6.3	3	2016	Spring
-1298	Pennsylvania	47.0	8.3	4	2016	Spring
-1299	Pennsylvania	57.4	14.1	5	2016	Spring
-1300	Pennsylvania	67.4	19.7	6	2016	Summer
-1301	Pennsylvania	73.0	22.8	7	2016	Summer
-1302	Pennsylvania	73.4	23.0	8	2016	Summer
-1303	Pennsylvania	66.2	19.0	9	2016	Fall
-1304	Pennsylvania	53.6	12.0	10	2016	Fall
-1305	Pennsylvania	42.6	5.9	11	2016	Fall
-1306	Pennsylvania	31.2	-0.4	12	2016	Winter
-1307	Pennsylvania	31.8	-0.1	1	2017	Winter
-1308	Pennsylvania	36.6	2.6	2	2017	Winter
-1309	Pennsylvania	35.3	1.8	3	2017	Spring
-1310	Pennsylvania	53.7	12.1	4	2017	Spring
-1311	Pennsylvania	57.1	13.9	5	2017	Spring
-1312	Pennsylvania	66.8	19.3	6	2017	Summer
-1313	Pennsylvania	71.4	21.9	7	2017	Summer
-1314	Pennsylvania	67.4	19.7	8	2017	Summer
-1315	Pennsylvania	63.8	17.7	9	2017	Fall
-1316	Pennsylvania	56.2	13.4	10	2017	Fall
-1317	Pennsylvania	39.2	4.0	11	2017	Fall
-1318	Pennsylvania	28.0	-2.2	12	2017	Winter
-1319	Pennsylvania	23.1	-4.9	1	2018	Winter
-1320	Pennsylvania	34.3	1.3	2	2018	Winter
-1321	Pennsylvania	33.1	0.6	3	2018	Spring
-1322	Pennsylvania	43.3	6.3	4	2018	Spring
-1323	Pennsylvania	64.0	17.8	5	2018	Spring
-1324	Pennsylvania	66.7	19.3	6	2018	Summer
-1325	Pennsylvania	71.7	22.1	7	2018	Summer
-1326	Pennsylvania	72.1	22.3	8	2018	Summer
-1327	Pennsylvania	66.7	19.3	9	2018	Fall
-1328	Pennsylvania	52.3	11.3	10	2018	Fall
-1329	Pennsylvania	36.7	2.6	11	2018	Fall
-1330	Pennsylvania	33.5	0.8	12	2018	Winter
-1331	Pennsylvania	25.9	-3.4	1	2019	Winter
-1332	Rhode Island	31.3	-0.4	1	2016	Winter
-1333	Rhode Island	33.1	0.6	2	2016	Winter
-1334	Rhode Island	42.9	6.1	3	2016	Spring
-1335	Rhode Island	46.2	7.9	4	2016	Spring
-1336	Rhode Island	57.9	14.4	5	2016	Spring
-1337	Rhode Island	66.9	19.4	6	2016	Summer
-1338	Rhode Island	73.8	23.2	7	2016	Summer
-1339	Rhode Island	73.9	23.3	8	2016	Summer
-1340	Rhode Island	66.4	19.1	9	2016	Fall
-1341	Rhode Island	54.7	12.6	10	2016	Fall
-1342	Rhode Island	45.2	7.3	11	2016	Fall
-1343	Rhode Island	34.2	1.2	12	2016	Winter
-1344	Rhode Island	34.2	1.2	1	2017	Winter
-1345	Rhode Island	35.2	1.8	2	2017	Winter
-1346	Rhode Island	34.1	1.2	3	2017	Spring
-1347	Rhode Island	51.5	10.8	4	2017	Spring
-1348	Rhode Island	56.5	13.6	5	2017	Spring
-1349	Rhode Island	66.8	19.3	6	2017	Summer
-1350	Rhode Island	71.1	21.7	7	2017	Summer
-1351	Rhode Island	69.8	21.0	8	2017	Summer
-1352	Rhode Island	66.4	19.1	9	2017	Fall
-1353	Rhode Island	59.6	15.3	10	2017	Fall
-1354	Rhode Island	43.1	6.2	11	2017	Fall
-1355	Rhode Island	30.1	-1.1	12	2017	Winter
-1356	Rhode Island	27.6	-2.4	1	2018	Winter
-1357	Rhode Island	37.6	3.1	2	2018	Winter
-1358	Rhode Island	37.3	2.9	3	2018	Spring
-1359	Rhode Island	44.4	6.9	4	2018	Spring
-1360	Rhode Island	61.4	16.3	5	2018	Spring
-1361	Rhode Island	65.9	18.8	6	2018	Summer
-1362	Rhode Island	73.8	23.2	7	2018	Summer
-1363	Rhode Island	75.1	23.9	8	2018	Summer
-1364	Rhode Island	66.4	19.1	9	2018	Fall
-1365	Rhode Island	52.6	11.4	10	2018	Fall
-1366	Rhode Island	40.9	4.9	11	2018	Fall
-1367	Rhode Island	35.2	1.8	12	2018	Winter
-1368	Rhode Island	29.0	-1.7	1	2019	Winter
-1369	South Carolina	43.0	6.1	1	2016	Winter
-1370	South Carolina	48.0	8.9	2	2016	Winter
-1371	South Carolina	60.6	15.9	3	2016	Spring
-1372	South Carolina	63.1	17.3	4	2016	Spring
-1373	South Carolina	70.1	21.2	5	2016	Spring
-1374	South Carolina	79.8	26.6	6	2016	Summer
-1375	South Carolina	83.7	28.7	7	2016	Summer
-1376	South Carolina	81.9	27.7	8	2016	Summer
-1377	South Carolina	77.1	25.1	9	2016	Fall
-1378	South Carolina	66.4	19.1	10	2016	Fall
-1379	South Carolina	55.6	13.1	11	2016	Fall
-1380	South Carolina	49.0	9.4	12	2016	Winter
-1381	South Carolina	51.4	10.8	1	2017	Winter
-1382	South Carolina	55.5	13.1	2	2017	Winter
-1383	South Carolina	55.5	13.1	3	2017	Spring
-1384	South Carolina	67.0	19.4	4	2017	Spring
-1385	South Carolina	71.5	21.9	5	2017	Spring
-1386	South Carolina	76.9	24.9	6	2017	Summer
-1387	South Carolina	81.0	27.2	7	2017	Summer
-1388	South Carolina	79.4	26.3	8	2017	Summer
-1389	South Carolina	74.3	23.5	9	2017	Fall
-1390	South Carolina	66.2	19.0	10	2017	Fall
-1391	South Carolina	54.3	12.4	11	2017	Fall
-1392	South Carolina	47.8	8.8	12	2017	Winter
-1393	South Carolina	40.6	4.8	1	2018	Winter
-1394	South Carolina	57.3	14.1	2	2018	Winter
-1395	South Carolina	51.9	11.1	3	2018	Spring
-1396	South Carolina	59.9	15.5	4	2018	Spring
-1397	South Carolina	73.8	23.2	5	2018	Spring
-1398	South Carolina	80.2	26.8	6	2018	Summer
-1399	South Carolina	80.2	26.8	7	2018	Summer
-1400	South Carolina	79.9	26.6	8	2018	Summer
-1401	South Carolina	79.4	26.3	9	2018	Fall
-1402	South Carolina	66.9	19.4	10	2018	Fall
-1403	South Carolina	51.9	11.1	11	2018	Fall
-1404	South Carolina	48.6	9.2	12	2018	Winter
-1405	South Carolina	46.7	8.2	1	2019	Winter
-1406	South Dakota	19.8	-6.8	1	2016	Winter
-1407	South Dakota	31.2	-0.4	2	2016	Winter
-1408	South Dakota	40.1	4.5	3	2016	Spring
-1409	South Dakota	46.3	7.9	4	2016	Spring
-1410	South Dakota	56.7	13.7	5	2016	Spring
-1411	South Dakota	70.7	21.5	6	2016	Summer
-1412	South Dakota	73.0	22.8	7	2016	Summer
-1413	South Dakota	71.0	21.7	8	2016	Summer
-1414	South Dakota	62.4	16.9	9	2016	Fall
-1415	South Dakota	51.6	10.9	10	2016	Fall
-1416	South Dakota	42.0	5.6	11	2016	Fall
-1417	South Dakota	15.4	-9.2	12	2016	Winter
-1418	South Dakota	16.5	-8.6	1	2017	Winter
-1419	South Dakota	29.4	-1.4	2	2017	Winter
-1420	South Dakota	35.5	1.9	3	2017	Spring
-1421	South Dakota	46.1	7.8	4	2017	Spring
-1422	South Dakota	56.0	13.3	5	2017	Spring
-1423	South Dakota	68.1	20.1	6	2017	Summer
-1424	South Dakota	76.0	24.4	7	2017	Summer
-1425	South Dakota	67.4	19.7	8	2017	Summer
-1426	South Dakota	61.8	16.6	9	2017	Fall
-1427	South Dakota	48.0	8.9	10	2017	Fall
-1428	South Dakota	34.7	1.5	11	2017	Fall
-1429	South Dakota	21.7	-5.7	12	2017	Winter
-1430	South Dakota	18.1	-7.7	1	2018	Winter
-1431	South Dakota	11.6	-11.3	2	2018	Winter
-1432	South Dakota	30.4	-0.9	3	2018	Spring
-1433	South Dakota	36.7	2.6	4	2018	Spring
-1434	South Dakota	62.1	16.7	5	2018	Spring
-1435	South Dakota	69.3	20.7	6	2018	Summer
-1436	South Dakota	72.2	22.3	7	2018	Summer
-1437	South Dakota	70.0	21.1	8	2018	Summer
-1438	South Dakota	61.5	16.4	9	2018	Fall
-1439	South Dakota	43.2	6.2	10	2018	Fall
-1440	South Dakota	29.3	-1.5	11	2018	Fall
-1441	South Dakota	25.3	-3.7	12	2018	Winter
-1442	South Dakota	18.1	-7.7	1	2019	Winter
-1443	Tennessee	34.8	1.6	1	2016	Winter
-1444	Tennessee	42.5	5.8	2	2016	Winter
-1445	Tennessee	53.9	12.2	3	2016	Spring
-1446	Tennessee	59.5	15.3	4	2016	Spring
-1447	Tennessee	65.3	18.5	5	2016	Spring
-1448	Tennessee	76.5	24.7	6	2016	Summer
-1449	Tennessee	79.8	26.6	7	2016	Summer
-1450	Tennessee	79.0	26.1	8	2016	Summer
-1451	Tennessee	74.1	23.4	9	2016	Fall
-1452	Tennessee	64.6	18.1	10	2016	Fall
-1453	Tennessee	52.7	11.5	11	2016	Fall
-1454	Tennessee	40.9	4.9	12	2016	Winter
-1455	Tennessee	44.9	7.2	1	2017	Winter
-1456	Tennessee	48.9	9.4	2	2017	Winter
-1457	Tennessee	51.1	10.6	3	2017	Spring
-1458	Tennessee	63.1	17.3	4	2017	Spring
-1459	Tennessee	66.6	19.2	5	2017	Spring
-1460	Tennessee	73.0	22.8	6	2017	Summer
-1461	Tennessee	78.1	25.6	7	2017	Summer
-1462	Tennessee	74.6	23.7	8	2017	Summer
-1463	Tennessee	69.1	20.6	9	2017	Fall
-1464	Tennessee	60.8	16.0	10	2017	Fall
-1465	Tennessee	49.9	9.9	11	2017	Fall
-1466	Tennessee	39.5	4.2	12	2017	Winter
-1467	Tennessee	32.9	0.5	1	2018	Winter
-1468	Tennessee	48.5	9.2	2	2018	Winter
-1469	Tennessee	48.1	8.9	3	2018	Spring
-1470	Tennessee	52.8	11.6	4	2018	Spring
-1471	Tennessee	72.2	22.3	5	2018	Spring
-1472	Tennessee	76.4	24.7	6	2018	Summer
-1473	Tennessee	78.1	25.6	7	2018	Summer
-1474	Tennessee	76.5	24.7	8	2018	Summer
-1475	Tennessee	74.9	23.8	9	2018	Fall
-1476	Tennessee	61.0	16.1	10	2018	Fall
-1477	Tennessee	44.4	6.9	11	2018	Fall
-1478	Tennessee	42.7	5.9	12	2018	Winter
-1479	Tennessee	39.3	4.1	1	2019	Winter
-1480	Texas	46.4	8.0	1	2016	Winter
-1481	Texas	54.4	12.4	2	2016	Winter
-1482	Texas	61.2	16.2	3	2016	Spring
-1483	Texas	66.1	18.9	4	2016	Spring
-1484	Texas	71.6	22.0	5	2016	Spring
-1485	Texas	80.1	26.7	6	2016	Summer
-1486	Texas	85.4	29.7	7	2016	Summer
-1487	Texas	81.5	27.5	8	2016	Summer
-1488	Texas	77.6	25.3	9	2016	Fall
-1489	Texas	70.9	21.6	10	2016	Fall
-1490	Texas	61.0	16.1	11	2016	Fall
-1491	Texas	49.6	9.8	12	2016	Winter
-1492	Texas	50.8	10.4	1	2017	Winter
-1493	Texas	58.4	14.7	2	2017	Winter
-1494	Texas	63.6	17.6	3	2017	Spring
-1495	Texas	67.1	19.5	4	2017	Spring
-1496	Texas	72.0	22.2	5	2017	Spring
-1497	Texas	80.6	27.0	6	2017	Summer
-1498	Texas	83.6	28.7	7	2017	Summer
-1499	Texas	80.6	27.0	8	2017	Summer
-1500	Texas	76.5	24.7	9	2017	Fall
-1501	Texas	66.5	19.2	10	2017	Fall
-1502	Texas	60.3	15.7	11	2017	Fall
-1503	Texas	47.8	8.8	12	2017	Winter
-1504	Texas	43.9	6.6	1	2018	Winter
-1505	Texas	52.3	11.3	2	2018	Winter
-1506	Texas	61.7	16.5	3	2018	Spring
-1507	Texas	63.0	17.2	4	2018	Spring
-1508	Texas	78.0	25.6	5	2018	Spring
-1509	Texas	83.9	28.8	6	2018	Summer
-1510	Texas	84.5	29.2	7	2018	Summer
-1511	Texas	83.1	28.4	8	2018	Summer
-1512	Texas	76.3	24.6	9	2018	Fall
-1513	Texas	65.4	18.6	10	2018	Fall
-1514	Texas	52.0	11.1	11	2018	Fall
-1515	Texas	48.3	9.1	12	2018	Winter
-1516	Texas	47.2	8.4	1	2019	Winter
-1517	Utah	26.6	-3.0	1	2016	Winter
-1518	Utah	33.7	0.9	2	2016	Winter
-1519	Utah	42.2	5.7	3	2016	Spring
-1520	Utah	47.9	8.8	4	2016	Spring
-1521	Utah	54.4	12.4	5	2016	Spring
-1522	Utah	70.9	21.6	6	2016	Summer
-1523	Utah	73.7	23.2	7	2016	Summer
-1524	Utah	70.1	21.2	8	2016	Summer
-1525	Utah	61.1	16.2	9	2016	Fall
-1526	Utah	53.2	11.8	10	2016	Fall
-1527	Utah	41.6	5.3	11	2016	Fall
-1528	Utah	27.4	-2.6	12	2016	Winter
-1529	Utah	25.9	-3.4	1	2017	Winter
-1530	Utah	36.5	2.5	2	2017	Winter
-1531	Utah	45.3	7.4	3	2017	Spring
-1532	Utah	46.0	7.8	4	2017	Spring
-1533	Utah	55.6	13.1	5	2017	Spring
-1534	Utah	69.5	20.8	6	2017	Summer
-1535	Utah	75.0	23.9	7	2017	Summer
-1536	Utah	71.6	22.0	8	2017	Summer
-1537	Utah	60.7	15.9	9	2017	Fall
-1538	Utah	48.1	8.9	10	2017	Fall
-1539	Utah	43.0	6.1	11	2017	Fall
-1540	Utah	31.4	-0.3	12	2017	Winter
-1541	Utah	32.8	0.4	1	2018	Winter
-1542	Utah	32.2	0.1	2	2018	Winter
-1543	Utah	39.2	4.0	3	2018	Spring
-1544	Utah	49.0	9.4	4	2018	Spring
-1545	Utah	58.2	14.6	5	2018	Spring
-1546	Utah	69.2	20.7	6	2018	Summer
-1547	Utah	76.1	24.5	7	2018	Summer
-1548	Utah	72.4	22.4	8	2018	Summer
-1549	Utah	65.8	18.8	9	2018	Fall
-1550	Utah	47.5	8.6	10	2018	Fall
-1551	Utah	35.0	1.7	11	2018	Fall
-1552	Utah	27.5	-2.5	12	2018	Winter
-1553	Utah	27.0	-2.8	1	2019	Winter
-1554	Vermont	20.9	-6.2	1	2016	Winter
-1555	Vermont	23.9	-4.5	2	2016	Winter
-1556	Vermont	33.6	0.9	3	2016	Spring
-1557	Vermont	38.2	3.4	4	2016	Spring
-1558	Vermont	54.0	12.2	5	2016	Spring
-1559	Vermont	62.0	16.7	6	2016	Summer
-1560	Vermont	67.4	19.7	7	2016	Summer
-1561	Vermont	67.5	19.7	8	2016	Summer
-1562	Vermont	59.9	15.5	9	2016	Fall
-1563	Vermont	47.7	8.7	10	2016	Fall
-1564	Vermont	36.8	2.7	11	2016	Fall
-1565	Vermont	23.9	-4.5	12	2016	Winter
-1566	Vermont	24.8	-4.0	1	2017	Winter
-1567	Vermont	25.6	-3.6	2	2017	Winter
-1568	Vermont	23.5	-4.7	3	2017	Spring
-1569	Vermont	45.2	7.3	4	2017	Spring
-1570	Vermont	51.8	11.0	5	2017	Spring
-1571	Vermont	61.5	16.4	6	2017	Summer
-1572	Vermont	65.2	18.4	7	2017	Summer
-1573	Vermont	63.3	17.4	8	2017	Summer
-1574	Vermont	60.8	16.0	9	2017	Fall
-1575	Vermont	53.0	11.7	10	2017	Fall
-1576	Vermont	33.0	0.6	11	2017	Fall
-1577	Vermont	17.9	-7.8	12	2017	Winter
-1578	Vermont	16.5	-8.6	1	2018	Winter
-1579	Vermont	25.5	-3.6	2	2018	Winter
-1580	Vermont	28.2	-2.1	3	2018	Spring
-1581	Vermont	36.1	2.3	4	2018	Spring
-1582	Vermont	56.4	13.6	5	2018	Spring
-1583	Vermont	60.1	15.6	6	2018	Summer
-1584	Vermont	69.2	20.7	7	2018	Summer
-1585	Vermont	68.4	20.2	8	2018	Summer
-1586	Vermont	60.7	15.9	9	2018	Fall
-1587	Vermont	44.5	6.9	10	2018	Fall
-1588	Vermont	30.2	-1.0	11	2018	Fall
-1589	Vermont	23.0	-5.0	12	2018	Winter
-1590	Vermont	14.9	-9.5	1	2019	Winter
-1591	Virginia	33.1	0.6	1	2016	Winter
-1592	Virginia	38.4	3.6	2	2016	Winter
-1593	Virginia	51.8	11.0	3	2016	Spring
-1594	Virginia	55.1	12.8	4	2016	Spring
-1595	Virginia	61.9	16.6	5	2016	Spring
-1596	Virginia	71.8	22.1	6	2016	Summer
-1597	Virginia	77.3	25.2	7	2016	Summer
-1598	Virginia	77.0	25.0	8	2016	Summer
-1599	Virginia	71.8	22.1	9	2016	Fall
-1600	Virginia	59.8	15.4	10	2016	Fall
-1601	Virginia	48.3	9.1	11	2016	Fall
-1602	Virginia	39.1	3.9	12	2016	Winter
-1603	Virginia	40.1	4.5	1	2017	Winter
-1604	Virginia	46.0	7.8	2	2017	Winter
-1605	Virginia	45.9	7.7	3	2017	Spring
-1606	Virginia	60.6	15.9	4	2017	Spring
-1607	Virginia	63.4	17.4	5	2017	Spring
-1608	Virginia	71.2	21.8	6	2017	Summer
-1609	Virginia	76.8	24.9	7	2017	Summer
-1610	Virginia	72.8	22.7	8	2017	Summer
-1611	Virginia	67.4	19.7	9	2017	Fall
-1612	Virginia	60.2	15.7	10	2017	Fall
-1613	Virginia	46.1	7.8	11	2017	Fall
-1614	Virginia	37.2	2.9	12	2017	Winter
-1615	Virginia	31.8	-0.1	1	2018	Winter
-1616	Virginia	45.1	7.3	2	2018	Winter
-1617	Virginia	41.2	5.1	3	2018	Spring
-1618	Virginia	52.2	11.2	4	2018	Spring
-1619	Virginia	69.8	21.0	5	2018	Spring
-1620	Virginia	73.2	22.9	6	2018	Summer
-1621	Virginia	75.1	23.9	7	2018	Summer
-1622	Virginia	75.3	24.1	8	2018	Summer
-1623	Virginia	72.9	22.7	9	2018	Fall
-1624	Virginia	59.0	15.0	10	2018	Fall
-1625	Virginia	43.8	6.6	11	2018	Fall
-1626	Virginia	39.7	4.3	12	2018	Winter
-1627	Virginia	36.3	2.4	1	2019	Winter
-1628	Washington	33.0	0.6	1	2016	Winter
-1629	Washington	39.1	3.9	2	2016	Winter
-1630	Washington	41.8	5.4	3	2016	Spring
-1631	Washington	51.6	10.9	4	2016	Spring
-1632	Washington	55.1	12.8	5	2016	Spring
-1633	Washington	59.9	15.5	6	2016	Summer
-1634	Washington	63.6	17.6	7	2016	Summer
-1635	Washington	65.9	18.8	8	2016	Summer
-1636	Washington	56.4	13.6	9	2016	Fall
-1637	Washington	47.4	8.6	10	2016	Fall
-1638	Washington	43.0	6.1	11	2016	Fall
-1639	Washington	26.1	-3.3	12	2016	Winter
-1640	Washington	24.8	-4.0	1	2017	Winter
-1641	Washington	31.0	-0.6	2	2017	Winter
-1642	Washington	39.3	4.1	3	2017	Spring
-1643	Washington	44.2	6.8	4	2017	Spring
-1644	Washington	53.7	12.1	5	2017	Spring
-1645	Washington	59.5	15.3	6	2017	Summer
-1646	Washington	67.1	19.5	7	2017	Summer
-1647	Washington	68.6	20.3	8	2017	Summer
-1648	Washington	59.8	15.4	9	2017	Fall
-1649	Washington	46.2	7.9	10	2017	Fall
-1650	Washington	37.7	3.2	11	2017	Fall
-1651	Washington	29.9	-1.2	12	2017	Winter
-1652	Washington	35.3	1.8	1	2018	Winter
-1653	Washington	32.4	0.2	2	2018	Winter
-1654	Washington	38.7	3.7	3	2018	Spring
-1655	Washington	45.2	7.3	4	2018	Spring
-1656	Washington	57.5	14.2	5	2018	Spring
-1657	Washington	58.2	14.6	6	2018	Summer
-1658	Washington	67.4	19.7	7	2018	Summer
-1659	Washington	66.0	18.9	8	2018	Summer
-1660	Washington	56.4	13.6	9	2018	Fall
-1661	Washington	47.4	8.6	10	2018	Fall
-1662	Washington	38.6	3.7	11	2018	Fall
-1663	Washington	33.1	0.6	12	2018	Winter
-1664	Washington	34.2	1.2	1	2019	Winter
-1665	West Virginia	27.6	-2.4	1	2016	Winter
-1666	West Virginia	34.9	1.6	2	2016	Winter
-1667	West Virginia	48.5	9.2	3	2016	Spring
-1668	West Virginia	53.0	11.7	4	2016	Spring
-1669	West Virginia	59.5	15.3	5	2016	Spring
-1670	West Virginia	69.5	20.8	6	2016	Summer
-1671	West Virginia	73.7	23.2	7	2016	Summer
-1672	West Virginia	75.1	23.9	8	2016	Summer
-1673	West Virginia	69.4	20.8	9	2016	Fall
-1674	West Virginia	57.3	14.1	10	2016	Fall
-1675	West Virginia	45.6	7.6	11	2016	Fall
-1676	West Virginia	35.6	2.0	12	2016	Winter
-1677	West Virginia	37.5	3.1	1	2017	Winter
-1678	West Virginia	42.1	5.6	2	2017	Winter
-1679	West Virginia	42.3	5.7	3	2017	Spring
-1680	West Virginia	57.5	14.2	4	2017	Spring
-1681	West Virginia	61.0	16.1	5	2017	Spring
-1682	West Virginia	67.7	19.8	6	2017	Summer
-1683	West Virginia	72.4	22.4	7	2017	Summer
-1684	West Virginia	69.3	20.7	8	2017	Summer
-1685	West Virginia	64.6	18.1	9	2017	Fall
-1686	West Virginia	57.5	14.2	10	2017	Fall
-1687	West Virginia	43.2	6.2	11	2017	Fall
-1688	West Virginia	33.0	0.6	12	2017	Winter
-1689	West Virginia	27.0	-2.8	1	2018	Winter
-1690	West Virginia	41.7	5.4	2	2018	Winter
-1691	West Virginia	38.0	3.3	3	2018	Spring
-1692	West Virginia	47.7	8.7	4	2018	Spring
-1693	West Virginia	67.9	19.9	5	2018	Spring
-1694	West Virginia	70.1	21.2	6	2018	Summer
-1695	West Virginia	72.5	22.5	7	2018	Summer
-1696	West Virginia	72.4	22.4	8	2018	Summer
-1697	West Virginia	70.4	21.3	9	2018	Fall
-1698	West Virginia	55.3	12.9	10	2018	Fall
-1699	West Virginia	40.0	4.4	11	2018	Fall
-1700	West Virginia	36.8	2.7	12	2018	Winter
-1701	West Virginia	32.0	0.0	1	2019	Winter
-1702	Wisconsin	16.2	-8.8	1	2016	Winter
-1703	Wisconsin	22.6	-5.2	2	2016	Winter
-1704	Wisconsin	36.8	2.7	3	2016	Spring
-1705	Wisconsin	42.9	6.1	4	2016	Spring
-1706	Wisconsin	56.1	13.4	5	2016	Spring
-1707	Wisconsin	65.8	18.8	6	2016	Summer
-1708	Wisconsin	69.9	21.1	7	2016	Summer
-1709	Wisconsin	69.5	20.8	8	2016	Summer
-1710	Wisconsin	62.6	17.0	9	2016	Fall
-1711	Wisconsin	50.4	10.2	10	2016	Fall
-1712	Wisconsin	41.6	5.3	11	2016	Fall
-1713	Wisconsin	19.9	-6.7	12	2016	Winter
-1714	Wisconsin	19.4	-7.0	1	2017	Winter
-1715	Wisconsin	27.8	-2.3	2	2017	Winter
-1716	Wisconsin	30.2	-1.0	3	2017	Spring
-1717	Wisconsin	46.4	8.0	4	2017	Spring
-1718	Wisconsin	53.3	11.8	5	2017	Spring
-1719	Wisconsin	65.6	18.7	6	2017	Summer
-1720	Wisconsin	68.8	20.4	7	2017	Summer
-1721	Wisconsin	64.2	17.9	8	2017	Summer
-1722	Wisconsin	62.2	16.8	9	2017	Fall
-1723	Wisconsin	50.0	10.0	10	2017	Fall
-1724	Wisconsin	31.4	-0.3	11	2017	Fall
-1725	Wisconsin	17.3	-8.2	12	2017	Winter
-1726	Wisconsin	15.2	-9.3	1	2018	Winter
-1727	Wisconsin	16.1	-8.8	2	2018	Winter
-1728	Wisconsin	29.7	-1.3	3	2018	Spring
-1729	Wisconsin	33.5	0.8	4	2018	Spring
-1730	Wisconsin	62.0	16.7	5	2018	Spring
-1731	Wisconsin	66.5	19.2	6	2018	Summer
-1732	Wisconsin	69.8	21.0	7	2018	Summer
-1733	Wisconsin	68.5	20.3	8	2018	Summer
-1734	Wisconsin	61.3	16.3	9	2018	Fall
-1735	Wisconsin	43.6	6.4	10	2018	Fall
-1736	Wisconsin	27.3	-2.6	11	2018	Fall
-1737	Wisconsin	25.1	-3.8	12	2018	Winter
-1738	Wisconsin	13.1	-10.5	1	2019	Winter
-1739	Wyoming	22.7	-5.2	1	2016	Winter
-1740	Wyoming	30.1	-1.1	2	2016	Winter
-1741	Wyoming	34.5	1.4	3	2016	Spring
-1742	Wyoming	41.8	5.4	4	2016	Spring
-1743	Wyoming	47.9	8.8	5	2016	Spring
-1744	Wyoming	63.8	17.7	6	2016	Summer
-1745	Wyoming	66.8	19.3	7	2016	Summer
-1746	Wyoming	63.5	17.5	8	2016	Summer
-1747	Wyoming	55.4	13.0	9	2016	Fall
-1748	Wyoming	46.5	8.1	10	2016	Fall
-1749	Wyoming	37.1	2.8	11	2016	Fall
-1750	Wyoming	16.8	-8.4	12	2016	Winter
-1751	Wyoming	16.7	-8.5	1	2017	Winter
-1752	Wyoming	27.8	-2.3	2	2017	Winter
-1753	Wyoming	38.4	3.6	3	2017	Spring
-1754	Wyoming	40.1	4.5	4	2017	Spring
-1755	Wyoming	49.2	9.6	5	2017	Spring
-1756	Wyoming	60.0	15.6	6	2017	Summer
-1757	Wyoming	68.9	20.5	7	2017	Summer
-1758	Wyoming	63.5	17.5	8	2017	Summer
-1759	Wyoming	54.2	12.3	9	2017	Fall
-1760	Wyoming	41.1	5.1	10	2017	Fall
-1761	Wyoming	34.7	1.5	11	2017	Fall
-1762	Wyoming	23.8	-4.6	12	2017	Winter
-1763	Wyoming	25.1	-3.8	1	2018	Winter
-1764	Wyoming	19.3	-7.1	2	2018	Winter
-1765	Wyoming	32.3	0.2	3	2018	Spring
-1766	Wyoming	39.8	4.3	4	2018	Spring
-1767	Wyoming	52.9	11.6	5	2018	Spring
-1768	Wyoming	60.4	15.8	6	2018	Summer
-1769	Wyoming	67.3	19.6	7	2018	Summer
-1770	Wyoming	63.5	17.5	8	2018	Summer
-1771	Wyoming	57.2	14.0	9	2018	Fall
-1772	Wyoming	41.0	5.0	10	2018	Fall
-1773	Wyoming	28.5	-1.9	11	2018	Fall
-1774	Wyoming	21.4	-5.9	12	2018	Winter
-1775	Wyoming	22.1	-5.5	1	2019	Winter
-1776	Alaska	17.2	-8.2	1	2016	Winter
-1777	Alaska	17.3	-8.2	2	2016	Winter
-1778	Alaska	18.7	-7.4	3	2016	Spring
-1779	Alaska	33.3	0.7	4	2016	Spring
-1780	Alaska	44.0	6.7	5	2016	Spring
-1781	Alaska	51.8	11.0	6	2016	Summer
-1782	Alaska	55.6	13.1	7	2016	Summer
-1783	Alaska	53.2	11.8	8	2016	Summer
-1784	Alaska	42.3	5.7	9	2016	Fall
-1785	Alaska	29.7	-1.3	10	2016	Fall
-1786	Alaska	13.3	-10.4	11	2016	Fall
-1787	Alaska	6.2	-14.3	12	2016	Winter
-1788	Alaska	4.5	-15.3	1	2017	Winter
-1789	Alaska	6.6	-14.1	2	2017	Winter
-1790	Alaska	4.9	-15.1	3	2017	Spring
-1791	Alaska	29.6	-1.3	4	2017	Spring
-1792	Alaska	40.8	4.9	5	2017	Spring
-1793	Alaska	51.4	10.8	6	2017	Summer
-1794	Alaska	56.2	13.4	7	2017	Summer
-1795	Alaska	50.2	10.1	8	2017	Summer
-1796	Alaska	42.6	5.9	9	2017	Fall
-1797	Alaska	30.2	-1.0	10	2017	Fall
-1798	Alaska	15.8	-9.0	11	2017	Fall
-1799	Alaska	19.1	-7.2	12	2017	Winter
-1800	Alaska	6.6	-14.1	1	2018	Winter
-1801	Alaska	12.6	-10.8	2	2018	Winter
-1802	Alaska	18.0	-7.8	3	2018	Spring
-1803	Alaska	26.9	-2.8	4	2018	Spring
-1804	Alaska	39.5	4.2	5	2018	Spring
-1805	Alaska	50.0	10.0	6	2018	Summer
-1806	Alaska	55.6	13.1	7	2018	Summer
-1807	Alaska	49.7	9.8	8	2018	Summer
-1808	Alaska	44.3	6.8	9	2018	Fall
-1809	Alaska	33.8	1.0	10	2018	Fall
-1810	Alaska	19.1	-7.2	11	2018	Fall
-1811	Alaska	9.1	-12.7	12	2018	Winter
-1812	Alaska	7.6	-13.6	1	2019	Winter
+State,Temp in F,Temp in C,Month,Year,Season
+Alabama,43.0,6.1,1,2016,Winter
+Alabama,49.8,9.9,2,2016,Winter
+Alabama,59.7,15.4,3,2016,Spring
+Alabama,63.6,17.6,4,2016,Spring
+Alabama,70.2,21.2,5,2016,Spring
+Alabama,79.2,26.2,6,2016,Summer
+Alabama,82.0,27.8,7,2016,Summer
+Alabama,81.6,27.6,8,2016,Summer
+Alabama,78.6,25.9,9,2016,Fall
+Alabama,68.5,20.3,10,2016,Fall
+Alabama,57.8,14.3,11,2016,Fall
+Alabama,50.1,10.1,12,2016,Winter
+Alabama,52.4,11.3,1,2017,Winter
+Alabama,55.6,13.1,2,2017,Winter
+Alabama,58.4,14.7,3,2017,Spring
+Alabama,67.2,19.6,4,2017,Spring
+Alabama,69.9,21.1,5,2017,Spring
+Alabama,75.8,24.3,6,2017,Summer
+Alabama,80.6,27.0,7,2017,Summer
+Alabama,78.8,26.0,8,2017,Summer
+Alabama,73.4,23.0,9,2017,Fall
+Alabama,65.8,18.8,10,2017,Fall
+Alabama,55.6,13.1,11,2017,Fall
+Alabama,46.9,8.3,12,2017,Winter
+Alabama,40.4,4.7,1,2018,Winter
+Alabama,58.0,14.4,2,2018,Winter
+Alabama,55.3,12.9,3,2018,Spring
+Alabama,59.4,15.2,4,2018,Spring
+Alabama,74.5,23.6,5,2018,Spring
+Alabama,79.3,26.3,6,2018,Summer
+Alabama,80.7,27.1,7,2018,Summer
+Alabama,79.5,26.4,8,2018,Summer
+Alabama,79.4,26.3,9,2018,Fall
+Alabama,67.5,19.7,10,2018,Fall
+Alabama,50.3,10.2,11,2018,Fall
+Alabama,49.0,9.4,12,2018,Winter
+Alabama,46.5,8.1,1,2019,Winter
+Arizona,41.8,5.4,1,2016,Winter
+Arizona,50.6,10.3,2,2016,Winter
+Arizona,54.9,12.7,3,2016,Spring
+Arizona,58.5,14.7,4,2016,Spring
+Arizona,64.6,18.1,5,2016,Spring
+Arizona,80.3,26.8,6,2016,Summer
+Arizona,82.4,28.0,7,2016,Summer
+Arizona,77.5,25.3,8,2016,Summer
+Arizona,71.6,22.0,9,2016,Fall
+Arizona,66.1,18.9,10,2016,Fall
+Arizona,53.1,11.7,11,2016,Fall
+Arizona,44.7,7.1,12,2016,Winter
+Arizona,42.3,5.7,1,2017,Winter
+Arizona,49.4,9.7,2,2017,Winter
+Arizona,56.6,13.7,3,2017,Spring
+Arizona,59.9,15.5,4,2017,Spring
+Arizona,66.1,18.9,5,2017,Spring
+Arizona,79.8,26.6,6,2017,Summer
+Arizona,81.5,27.5,7,2017,Summer
+Arizona,79.1,26.2,8,2017,Summer
+Arizona,72.4,22.4,9,2017,Fall
+Arizona,65.1,18.4,10,2017,Fall
+Arizona,57.6,14.2,11,2017,Fall
+Arizona,46.6,8.1,12,2017,Winter
+Arizona,47.6,8.7,1,2018,Winter
+Arizona,46.8,8.2,2,2018,Winter
+Arizona,52.3,11.3,3,2018,Spring
+Arizona,62.9,17.2,4,2018,Spring
+Arizona,68.5,20.3,5,2018,Spring
+Arizona,78.6,25.9,6,2018,Summer
+Arizona,82.2,27.9,7,2018,Summer
+Arizona,80.2,26.8,8,2018,Summer
+Arizona,76.0,24.4,9,2018,Fall
+Arizona,59.9,15.5,10,2018,Fall
+Arizona,49.4,9.7,11,2018,Fall
+Arizona,42.8,6.0,12,2018,Winter
+Arizona,42.4,5.8,1,2019,Winter
+Arkansas,39.5,4.2,1,2016,Winter
+Arkansas,46.9,8.3,2,2016,Winter
+Arkansas,55.5,13.1,3,2016,Spring
+Arkansas,62.5,16.9,4,2016,Spring
+Arkansas,67.2,19.6,5,2016,Spring
+Arkansas,78.9,26.1,6,2016,Summer
+Arkansas,82.0,27.8,7,2016,Summer
+Arkansas,80.0,26.7,8,2016,Summer
+Arkansas,75.8,24.3,9,2016,Fall
+Arkansas,67.0,19.4,10,2016,Fall
+Arkansas,55.7,13.2,11,2016,Fall
+Arkansas,42.5,5.8,12,2016,Winter
+Arkansas,45.2,7.3,1,2017,Winter
+Arkansas,52.5,11.4,2,2017,Winter
+Arkansas,55.7,13.2,3,2017,Spring
+Arkansas,64.2,17.9,4,2017,Spring
+Arkansas,67.7,19.8,5,2017,Spring
+Arkansas,75.5,24.2,6,2017,Summer
+Arkansas,80.6,27.0,7,2017,Summer
+Arkansas,76.9,24.9,8,2017,Summer
+Arkansas,73.2,22.9,9,2017,Fall
+Arkansas,62.9,17.2,10,2017,Fall
+Arkansas,53.7,12.1,11,2017,Fall
+Arkansas,42.4,5.8,12,2017,Winter
+Arkansas,35.7,2.1,1,2018,Winter
+Arkansas,45.9,7.7,2,2018,Winter
+Arkansas,53.9,12.2,3,2018,Spring
+Arkansas,55.2,12.9,4,2018,Spring
+Arkansas,75.0,23.9,5,2018,Spring
+Arkansas,80.1,26.7,6,2018,Summer
+Arkansas,81.8,27.7,7,2018,Summer
+Arkansas,78.8,26.0,8,2018,Summer
+Arkansas,75.0,23.9,9,2018,Fall
+Arkansas,62.6,17.0,10,2018,Fall
+Arkansas,45.8,7.7,11,2018,Fall
+Arkansas,44.2,6.8,12,2018,Winter
+Arkansas,40.8,4.9,1,2019,Winter
+California,44.5,6.9,1,2016,Winter
+California,51.8,11.0,2,2016,Winter
+California,52.5,11.4,3,2016,Spring
+California,57.9,14.4,4,2016,Spring
+California,62.2,16.8,5,2016,Spring
+California,73.5,23.1,6,2016,Summer
+California,76.8,24.9,7,2016,Summer
+California,76.2,24.6,8,2016,Summer
+California,69.5,20.8,9,2016,Fall
+California,60.5,15.8,10,2016,Fall
+California,52.8,11.6,11,2016,Fall
+California,43.4,6.3,12,2016,Winter
+California,42.2,5.7,1,2017,Winter
+California,47.3,8.5,2,2017,Winter
+California,53.4,11.9,3,2017,Spring
+California,55.6,13.1,4,2017,Spring
+California,63.4,17.4,5,2017,Spring
+California,72.8,22.7,6,2017,Summer
+California,78.8,26.0,7,2017,Summer
+California,77.9,25.5,8,2017,Summer
+California,69.8,21.0,9,2017,Fall
+California,62.0,16.7,10,2017,Fall
+California,53.4,11.9,11,2017,Fall
+California,47.5,8.6,12,2017,Winter
+California,48.8,9.3,1,2018,Winter
+California,46.5,8.1,2,2018,Winter
+California,48.9,9.4,3,2018,Spring
+California,57.1,13.9,4,2018,Spring
+California,63.0,17.2,5,2018,Spring
+California,71.4,21.9,6,2018,Summer
+California,79.6,26.4,7,2018,Summer
+California,76.4,24.7,8,2018,Summer
+California,71.1,21.7,9,2018,Fall
+California,60.9,16.1,10,2018,Fall
+California,52.6,11.4,11,2018,Fall
+California,44.7,7.1,12,2018,Winter
+California,46.0,7.8,1,2019,Winter
+Colorado,25.6,-3.6,1,2016,Winter
+Colorado,32.4,0.2,2,2016,Winter
+Colorado,37.9,3.3,3,2016,Spring
+Colorado,43.7,6.5,4,2016,Spring
+Colorado,50.8,10.4,5,2016,Spring
+Colorado,66.4,19.1,6,2016,Summer
+Colorado,69.2,20.7,7,2016,Summer
+Colorado,64.5,18.1,8,2016,Summer
+Colorado,59.7,15.4,9,2016,Fall
+Colorado,51.8,11.0,10,2016,Fall
+Colorado,40.2,4.6,11,2016,Fall
+Colorado,25.2,-3.8,12,2016,Winter
+Colorado,25.3,-3.7,1,2017,Winter
+Colorado,35.4,1.9,2,2017,Winter
+Colorado,42.5,5.8,3,2017,Spring
+Colorado,44.3,6.8,4,2017,Spring
+Colorado,51.5,10.8,5,2017,Spring
+Colorado,64.8,18.2,6,2017,Summer
+Colorado,69.4,20.8,7,2017,Summer
+Colorado,64.7,18.2,8,2017,Summer
+Colorado,59.1,15.1,9,2017,Fall
+Colorado,46.7,8.2,10,2017,Fall
+Colorado,41.3,5.2,11,2017,Fall
+Colorado,30.1,-1.1,12,2017,Winter
+Colorado,29.7,-1.3,1,2018,Winter
+Colorado,28.6,-1.9,2,2018,Winter
+Colorado,37.8,3.2,3,2018,Spring
+Colorado,43.9,6.6,4,2018,Spring
+Colorado,57.2,14.0,5,2018,Spring
+Colorado,66.4,19.1,6,2018,Summer
+Colorado,69.9,21.1,7,2018,Summer
+Colorado,66.2,19.0,8,2018,Summer
+Colorado,61.8,16.6,9,2018,Fall
+Colorado,45.0,7.2,10,2018,Fall
+Colorado,32.6,0.3,11,2018,Fall
+Colorado,26.6,-3.0,12,2018,Winter
+Colorado,25.9,-3.4,1,2019,Winter
+Connecticut,29.7,-1.3,1,2016,Winter
+Connecticut,32.0,0.0,2,2016,Winter
+Connecticut,43.2,6.2,3,2016,Spring
+Connecticut,46.8,8.2,4,2016,Spring
+Connecticut,58.4,14.7,5,2016,Spring
+Connecticut,67.4,19.7,6,2016,Summer
+Connecticut,74.1,23.4,7,2016,Summer
+Connecticut,73.9,23.3,8,2016,Summer
+Connecticut,66.2,19.0,9,2016,Fall
+Connecticut,53.5,11.9,10,2016,Fall
+Connecticut,43.5,6.4,11,2016,Fall
+Connecticut,32.6,0.3,12,2016,Winter
+Connecticut,32.7,0.4,1,2017,Winter
+Connecticut,34.6,1.4,2,2017,Winter
+Connecticut,33.4,0.8,3,2017,Spring
+Connecticut,51.8,11.0,4,2017,Spring
+Connecticut,56.7,13.7,5,2017,Spring
+Connecticut,67.0,19.4,6,2017,Summer
+Connecticut,71.5,21.9,7,2017,Summer
+Connecticut,69.1,20.6,8,2017,Summer
+Connecticut,66.0,18.9,9,2017,Fall
+Connecticut,58.6,14.8,10,2017,Fall
+Connecticut,41.0,5.0,11,2017,Fall
+Connecticut,28.7,-1.8,12,2017,Winter
+Connecticut,25.4,-3.7,1,2018,Winter
+Connecticut,35.6,2.0,2,2018,Winter
+Connecticut,36.4,2.4,3,2018,Spring
+Connecticut,43.4,6.3,4,2018,Spring
+Connecticut,62.1,16.7,5,2018,Spring
+Connecticut,66.3,19.1,6,2018,Summer
+Connecticut,73.9,23.3,7,2018,Summer
+Connecticut,74.3,23.5,8,2018,Summer
+Connecticut,66.1,18.9,9,2018,Fall
+Connecticut,52.3,11.3,10,2018,Fall
+Connecticut,39.1,3.9,11,2018,Fall
+Connecticut,33.9,1.1,12,2018,Winter
+Connecticut,27.1,-2.7,1,2019,Winter
+Delaware,34.3,1.3,1,2016,Winter
+Delaware,38.5,3.6,2,2016,Winter
+Delaware,49.7,9.8,3,2016,Spring
+Delaware,53.1,11.7,4,2016,Spring
+Delaware,61.7,16.5,5,2016,Spring
+Delaware,72.4,22.4,6,2016,Summer
+Delaware,79.6,26.4,7,2016,Summer
+Delaware,78.6,25.9,8,2016,Summer
+Delaware,72.0,22.2,9,2016,Fall
+Delaware,60.3,15.7,10,2016,Fall
+Delaware,49.0,9.4,11,2016,Fall
+Delaware,39.2,4.0,12,2016,Winter
+Delaware,39.1,3.9,1,2017,Winter
+Delaware,44.4,6.9,2,2017,Winter
+Delaware,43.8,6.6,3,2017,Spring
+Delaware,59.6,15.3,4,2017,Spring
+Delaware,62.8,17.1,5,2017,Spring
+Delaware,73.6,23.1,6,2017,Summer
+Delaware,78.4,25.8,7,2017,Summer
+Delaware,74.0,23.3,8,2017,Summer
+Delaware,69.8,21.0,9,2017,Fall
+Delaware,62.4,16.9,10,2017,Fall
+Delaware,47.5,8.6,11,2017,Fall
+Delaware,36.1,2.3,12,2017,Winter
+Delaware,32.4,0.2,1,2018,Winter
+Delaware,42.8,6.0,2,2018,Winter
+Delaware,40.2,4.6,3,2018,Spring
+Delaware,51.2,10.7,4,2018,Spring
+Delaware,67.9,19.9,5,2018,Spring
+Delaware,72.6,22.6,6,2018,Summer
+Delaware,77.2,25.1,7,2018,Summer
+Delaware,78.5,25.8,8,2018,Summer
+Delaware,73.2,22.9,9,2018,Fall
+Delaware,59.8,15.4,10,2018,Fall
+Delaware,45.0,7.2,11,2018,Fall
+Delaware,40.8,4.9,12,2018,Winter
+Delaware,34.6,1.4,1,2019,Winter
+Florida,56.9,13.8,1,2016,Winter
+Florida,59.4,15.2,2,2016,Winter
+Florida,68.8,20.4,3,2016,Spring
+Florida,71.2,21.8,4,2016,Spring
+Florida,76.2,24.6,5,2016,Spring
+Florida,81.9,27.7,6,2016,Summer
+Florida,84.0,28.9,7,2016,Summer
+Florida,83.0,28.3,8,2016,Summer
+Florida,81.1,27.3,9,2016,Fall
+Florida,74.6,23.7,10,2016,Fall
+Florida,66.6,19.2,11,2016,Fall
+Florida,65.9,18.8,12,2016,Winter
+Florida,62.8,17.1,1,2017,Winter
+Florida,65.5,18.6,2,2017,Winter
+Florida,66.2,19.0,3,2017,Spring
+Florida,72.3,22.4,4,2017,Spring
+Florida,77.1,25.1,5,2017,Spring
+Florida,80.2,26.8,6,2017,Summer
+Florida,82.8,28.2,7,2017,Summer
+Florida,82.8,28.2,8,2017,Summer
+Florida,80.4,26.9,9,2017,Fall
+Florida,74.9,23.8,10,2017,Fall
+Florida,67.4,19.7,11,2017,Fall
+Florida,61.7,16.5,12,2017,Winter
+Florida,55.0,12.8,1,2018,Winter
+Florida,69.2,20.7,2,2018,Winter
+Florida,63.0,17.2,3,2018,Spring
+Florida,70.2,21.2,4,2018,Spring
+Florida,76.5,24.7,5,2018,Spring
+Florida,81.6,27.6,6,2018,Summer
+Florida,82.4,28.0,7,2018,Summer
+Florida,82.2,27.9,8,2018,Summer
+Florida,82.3,27.9,9,2018,Fall
+Florida,76.5,24.7,10,2018,Fall
+Florida,66.8,19.3,11,2018,Fall
+Florida,61.8,16.6,12,2018,Winter
+Florida,58.5,14.7,1,2019,Winter
+Georgia,44.4,6.9,1,2016,Winter
+Georgia,50.0,10.0,2,2016,Winter
+Georgia,60.9,16.1,3,2016,Spring
+Georgia,63.9,17.7,4,2016,Spring
+Georgia,70.8,21.6,5,2016,Spring
+Georgia,79.7,26.5,6,2016,Summer
+Georgia,82.8,28.2,7,2016,Summer
+Georgia,81.6,27.6,8,2016,Summer
+Georgia,77.5,25.3,9,2016,Fall
+Georgia,67.8,19.9,10,2016,Fall
+Georgia,58.0,14.4,11,2016,Fall
+Georgia,52.1,11.2,12,2016,Winter
+Georgia,53.2,11.8,1,2017,Winter
+Georgia,56.5,13.6,2,2017,Winter
+Georgia,58.0,14.4,3,2017,Spring
+Georgia,67.5,19.7,4,2017,Spring
+Georgia,71.4,21.9,5,2017,Spring
+Georgia,76.6,24.8,6,2017,Summer
+Georgia,80.6,27.0,7,2017,Summer
+Georgia,79.4,26.3,8,2017,Summer
+Georgia,74.0,23.3,9,2017,Fall
+Georgia,67.0,19.4,10,2017,Fall
+Georgia,56.4,13.6,11,2017,Fall
+Georgia,49.3,9.6,12,2017,Winter
+Georgia,42.4,5.8,1,2018,Winter
+Georgia,59.1,15.1,2,2018,Winter
+Georgia,54.5,12.5,3,2018,Spring
+Georgia,60.5,15.8,4,2018,Spring
+Georgia,73.7,23.2,5,2018,Spring
+Georgia,79.3,26.3,6,2018,Summer
+Georgia,80.1,26.7,7,2018,Summer
+Georgia,79.3,26.3,8,2018,Summer
+Georgia,79.8,26.6,9,2018,Fall
+Georgia,68.3,20.2,10,2018,Fall
+Georgia,53.2,11.8,11,2018,Fall
+Georgia,50.2,10.1,12,2018,Winter
+Georgia,48.2,9.0,1,2019,Winter
+Idaho,25.8,-3.4,1,2016,Winter
+Idaho,31.9,-0.1,2,2016,Winter
+Idaho,37.0,2.8,3,2016,Spring
+Idaho,47.0,8.3,4,2016,Spring
+Idaho,50.6,10.3,5,2016,Spring
+Idaho,61.2,16.2,6,2016,Summer
+Idaho,64.8,18.2,7,2016,Summer
+Idaho,64.7,18.2,8,2016,Summer
+Idaho,54.6,12.6,9,2016,Fall
+Idaho,45.7,7.6,10,2016,Fall
+Idaho,38.7,3.7,11,2016,Fall
+Idaho,19.1,-7.2,12,2016,Winter
+Idaho,18.5,-7.5,1,2017,Winter
+Idaho,29.5,-1.4,2,2017,Winter
+Idaho,38.5,3.6,3,2017,Spring
+Idaho,40.3,4.6,4,2017,Spring
+Idaho,50.6,10.3,5,2017,Spring
+Idaho,59.1,15.1,6,2017,Summer
+Idaho,70.0,21.1,7,2017,Summer
+Idaho,66.9,19.4,8,2017,Summer
+Idaho,55.7,13.2,9,2017,Fall
+Idaho,41.9,5.5,10,2017,Fall
+Idaho,34.9,1.6,11,2017,Fall
+Idaho,25.2,-3.8,12,2017,Winter
+Idaho,30.4,-0.9,1,2018,Winter
+Idaho,26.2,-3.2,2,2018,Winter
+Idaho,33.7,0.9,3,2018,Spring
+Idaho,42.4,5.8,4,2018,Spring
+Idaho,53.9,12.2,5,2018,Spring
+Idaho,57.7,14.3,6,2018,Summer
+Idaho,68.4,20.2,7,2018,Summer
+Idaho,65.0,18.3,8,2018,Summer
+Idaho,56.2,13.4,9,2018,Fall
+Idaho,44.1,6.7,10,2018,Fall
+Idaho,32.0,0.0,11,2018,Fall
+Idaho,24.3,-4.3,12,2018,Winter
+Idaho,26.2,-3.2,1,2019,Winter
+Illinois,26.9,-2.8,1,2016,Winter
+Illinois,33.8,1.0,2,2016,Winter
+Illinois,47.3,8.5,3,2016,Spring
+Illinois,53.0,11.7,4,2016,Spring
+Illinois,62.0,16.7,5,2016,Spring
+Illinois,74.8,23.8,6,2016,Summer
+Illinois,75.6,24.2,7,2016,Summer
+Illinois,75.7,24.3,8,2016,Summer
+Illinois,70.8,21.6,9,2016,Fall
+Illinois,59.9,15.5,10,2016,Fall
+Illinois,48.1,8.9,11,2016,Fall
+Illinois,28.9,-1.7,12,2016,Winter
+Illinois,32.1,0.1,1,2017,Winter
+Illinois,41.1,5.1,2,2017,Winter
+Illinois,43.2,6.2,3,2017,Spring
+Illinois,56.5,13.6,4,2017,Spring
+Illinois,61.9,16.6,5,2017,Spring
+Illinois,72.7,22.6,6,2017,Summer
+Illinois,76.1,24.5,7,2017,Summer
+Illinois,70.5,21.4,8,2017,Summer
+Illinois,68.8,20.4,9,2017,Fall
+Illinois,58.1,14.5,10,2017,Fall
+Illinois,41.9,5.5,11,2017,Fall
+Illinois,29.8,-1.2,12,2017,Winter
+Illinois,24.1,-4.4,1,2018,Winter
+Illinois,31.8,-0.1,2,2018,Winter
+Illinois,39.2,4.0,3,2018,Spring
+Illinois,44.8,7.1,4,2018,Spring
+Illinois,70.7,21.5,5,2018,Spring
+Illinois,74.9,23.8,6,2018,Summer
+Illinois,75.0,23.9,7,2018,Summer
+Illinois,74.7,23.7,8,2018,Summer
+Illinois,70.3,21.3,9,2018,Fall
+Illinois,54.2,12.3,10,2018,Fall
+Illinois,35.6,2.0,11,2018,Fall
+Illinois,34.4,1.3,12,2018,Winter
+Illinois,25.4,-3.7,1,2019,Winter
+Indiana,27.5,-2.5,1,2016,Winter
+Indiana,33.9,1.1,2,2016,Winter
+Indiana,47.3,8.5,3,2016,Spring
+Indiana,52.0,11.1,4,2016,Spring
+Indiana,60.6,15.9,5,2016,Spring
+Indiana,72.9,22.7,6,2016,Summer
+Indiana,74.6,23.7,7,2016,Summer
+Indiana,75.7,24.3,8,2016,Summer
+Indiana,69.9,21.1,9,2016,Fall
+Indiana,59.5,15.3,10,2016,Fall
+Indiana,47.0,8.3,11,2016,Fall
+Indiana,29.8,-1.2,12,2016,Winter
+Indiana,33.8,1.0,1,2017,Winter
+Indiana,41.3,5.2,2,2017,Winter
+Indiana,42.6,5.9,3,2017,Spring
+Indiana,57.0,13.9,4,2017,Spring
+Indiana,60.9,16.1,5,2017,Spring
+Indiana,71.1,21.7,6,2017,Summer
+Indiana,74.2,23.4,7,2017,Summer
+Indiana,70.0,21.1,8,2017,Summer
+Indiana,67.2,19.6,9,2017,Fall
+Indiana,57.6,14.2,10,2017,Fall
+Indiana,42.4,5.8,11,2017,Fall
+Indiana,29.6,-1.3,12,2017,Winter
+Indiana,24.5,-4.2,1,2018,Winter
+Indiana,35.1,1.7,2,2018,Winter
+Indiana,38.3,3.5,3,2018,Spring
+Indiana,45.2,7.3,4,2018,Spring
+Indiana,69.7,20.9,5,2018,Spring
+Indiana,73.4,23.0,6,2018,Summer
+Indiana,74.2,23.4,7,2018,Summer
+Indiana,74.0,23.3,8,2018,Summer
+Indiana,69.8,21.0,9,2018,Fall
+Indiana,54.9,12.7,10,2018,Fall
+Indiana,36.9,2.7,11,2018,Fall
+Indiana,35.4,1.9,12,2018,Winter
+Indiana,26.9,-2.8,1,2019,Winter
+Iowa,19.6,-6.9,1,2016,Winter
+Iowa,28.6,-1.9,2,2016,Winter
+Iowa,42.4,5.8,3,2016,Spring
+Iowa,50.1,10.1,4,2016,Spring
+Iowa,59.5,15.3,5,2016,Spring
+Iowa,73.0,22.8,6,2016,Summer
+Iowa,72.8,22.7,7,2016,Summer
+Iowa,72.0,22.2,8,2016,Summer
+Iowa,67.3,19.6,9,2016,Fall
+Iowa,55.3,12.9,10,2016,Fall
+Iowa,45.1,7.3,11,2016,Fall
+Iowa,22.9,-5.1,12,2016,Winter
+Iowa,24.2,-4.3,1,2017,Winter
+Iowa,34.5,1.4,2,2017,Winter
+Iowa,37.5,3.1,3,2017,Spring
+Iowa,51.1,10.6,4,2017,Spring
+Iowa,58.5,14.7,5,2017,Spring
+Iowa,71.1,21.7,6,2017,Summer
+Iowa,74.7,23.7,7,2017,Summer
+Iowa,67.8,19.9,8,2017,Summer
+Iowa,66.7,19.3,9,2017,Fall
+Iowa,53.3,11.8,10,2017,Fall
+Iowa,36.2,2.3,11,2017,Fall
+Iowa,24.4,-4.2,12,2017,Winter
+Iowa,17.8,-7.9,1,2018,Winter
+Iowa,20.5,-6.4,2,2018,Winter
+Iowa,35.2,1.8,3,2018,Spring
+Iowa,39.3,4.1,4,2018,Spring
+Iowa,67.0,19.4,5,2018,Spring
+Iowa,73.1,22.8,6,2018,Summer
+Iowa,73.1,22.8,7,2018,Summer
+Iowa,71.8,22.1,8,2018,Summer
+Iowa,65.9,18.8,9,2018,Fall
+Iowa,48.2,9.0,10,2018,Fall
+Iowa,30.0,-1.1,11,2018,Fall
+Iowa,28.0,-2.2,12,2018,Winter
+Iowa,18.7,-7.4,1,2019,Winter
+Kansas,32.0,0.0,1,2016,Winter
+Kansas,40.8,4.9,2,2016,Winter
+Kansas,49.7,9.8,3,2016,Spring
+Kansas,56.3,13.5,4,2016,Spring
+Kansas,61.6,16.4,5,2016,Spring
+Kansas,77.5,25.3,6,2016,Summer
+Kansas,79.7,26.5,7,2016,Summer
+Kansas,76.4,24.7,8,2016,Summer
+Kansas,70.8,21.6,9,2016,Fall
+Kansas,61.5,16.4,10,2016,Fall
+Kansas,49.9,9.9,11,2016,Fall
+Kansas,29.8,-1.2,12,2016,Winter
+Kansas,33.0,0.6,1,2017,Winter
+Kansas,43.1,6.2,2,2017,Winter
+Kansas,48.9,9.4,3,2017,Spring
+Kansas,55.6,13.1,4,2017,Spring
+Kansas,62.2,16.8,5,2017,Spring
+Kansas,75.1,23.9,6,2017,Summer
+Kansas,80.1,26.7,7,2017,Summer
+Kansas,73.1,22.8,8,2017,Summer
+Kansas,70.5,21.4,9,2017,Fall
+Kansas,57.6,14.2,10,2017,Fall
+Kansas,45.2,7.3,11,2017,Fall
+Kansas,33.6,0.9,12,2017,Winter
+Kansas,29.9,-1.2,1,2018,Winter
+Kansas,31.9,-0.1,2,2018,Winter
+Kansas,45.9,7.7,3,2018,Spring
+Kansas,47.6,8.7,4,2018,Spring
+Kansas,71.1,21.7,5,2018,Spring
+Kansas,78.1,25.6,6,2018,Summer
+Kansas,78.7,25.9,7,2018,Summer
+Kansas,75.7,24.3,8,2018,Summer
+Kansas,70.1,21.2,9,2018,Fall
+Kansas,53.6,12.0,10,2018,Fall
+Kansas,38.2,3.4,11,2018,Fall
+Kansas,34.3,1.3,12,2018,Winter
+Kansas,31.3,-0.4,1,2019,Winter
+Kentucky,31.6,-0.2,1,2016,Winter
+Kentucky,38.9,3.8,2,2016,Winter
+Kentucky,51.8,11.0,3,2016,Spring
+Kentucky,57.3,14.1,4,2016,Spring
+Kentucky,62.9,17.2,5,2016,Spring
+Kentucky,74.9,23.8,6,2016,Summer
+Kentucky,77.9,25.5,7,2016,Summer
+Kentucky,78.0,25.6,8,2016,Summer
+Kentucky,72.2,22.3,9,2016,Fall
+Kentucky,62.7,17.1,10,2016,Fall
+Kentucky,49.9,9.9,11,2016,Fall
+Kentucky,37.0,2.8,12,2016,Winter
+Kentucky,40.9,4.9,1,2017,Winter
+Kentucky,46.2,7.9,2,2017,Winter
+Kentucky,47.9,8.8,3,2017,Spring
+Kentucky,61.5,16.4,4,2017,Spring
+Kentucky,65.0,18.3,5,2017,Spring
+Kentucky,71.7,22.1,6,2017,Summer
+Kentucky,76.9,24.9,7,2017,Summer
+Kentucky,73.1,22.8,8,2017,Summer
+Kentucky,68.3,20.2,9,2017,Fall
+Kentucky,59.4,15.2,10,2017,Fall
+Kentucky,47.1,8.4,11,2017,Fall
+Kentucky,35.8,2.1,12,2017,Winter
+Kentucky,30.0,-1.1,1,2018,Winter
+Kentucky,44.6,7.0,2,2018,Winter
+Kentucky,44.1,6.7,3,2018,Spring
+Kentucky,50.7,10.4,4,2018,Spring
+Kentucky,71.9,22.2,5,2018,Spring
+Kentucky,75.5,24.2,6,2018,Summer
+Kentucky,76.6,24.8,7,2018,Summer
+Kentucky,75.8,24.3,8,2018,Summer
+Kentucky,73.1,22.8,9,2018,Fall
+Kentucky,58.9,14.9,10,2018,Fall
+Kentucky,41.9,5.5,11,2018,Fall
+Kentucky,40.5,4.7,12,2018,Winter
+Kentucky,35.1,1.7,1,2019,Winter
+Louisiana,48.8,9.3,1,2016,Winter
+Louisiana,55.1,12.8,2,2016,Winter
+Louisiana,63.8,17.7,3,2016,Spring
+Louisiana,68.2,20.1,4,2016,Spring
+Louisiana,73.3,22.9,5,2016,Spring
+Louisiana,80.9,27.2,6,2016,Summer
+Louisiana,83.7,28.7,7,2016,Summer
+Louisiana,82.4,28.0,8,2016,Summer
+Louisiana,80.2,26.8,9,2016,Fall
+Louisiana,71.4,21.9,10,2016,Fall
+Louisiana,62.4,16.9,11,2016,Fall
+Louisiana,54.7,12.6,12,2016,Winter
+Louisiana,56.8,13.8,1,2017,Winter
+Louisiana,61.7,16.5,2,2017,Winter
+Louisiana,64.4,18.0,3,2017,Spring
+Louisiana,69.4,20.8,4,2017,Spring
+Louisiana,71.8,22.1,5,2017,Spring
+Louisiana,78.5,25.8,6,2017,Summer
+Louisiana,82.4,28.0,7,2017,Summer
+Louisiana,81.0,27.2,8,2017,Summer
+Louisiana,77.0,25.0,9,2017,Fall
+Louisiana,69.2,20.7,10,2017,Fall
+Louisiana,61.6,16.4,11,2017,Fall
+Louisiana,50.8,10.4,12,2017,Winter
+Louisiana,44.2,6.8,1,2018,Winter
+Louisiana,60.5,15.8,2,2018,Winter
+Louisiana,62.2,16.8,3,2018,Spring
+Louisiana,62.7,17.1,4,2018,Spring
+Louisiana,77.7,25.4,5,2018,Spring
+Louisiana,82.1,27.8,6,2018,Summer
+Louisiana,83.5,28.6,7,2018,Summer
+Louisiana,82.0,27.8,8,2018,Summer
+Louisiana,80.1,26.7,9,2018,Fall
+Louisiana,70.7,21.5,10,2018,Fall
+Louisiana,54.8,12.7,11,2018,Fall
+Louisiana,52.6,11.4,12,2018,Winter
+Louisiana,49.9,9.9,1,2019,Winter
+Maine,20.1,-6.6,1,2016,Winter
+Maine,21.9,-5.6,2,2016,Winter
+Maine,29.2,-1.6,3,2016,Spring
+Maine,37.3,2.9,4,2016,Spring
+Maine,52.8,11.6,5,2016,Spring
+Maine,60.5,15.8,6,2016,Summer
+Maine,67.0,19.4,7,2016,Summer
+Maine,66.6,19.2,8,2016,Summer
+Maine,59.1,15.1,9,2016,Fall
+Maine,46.9,8.3,10,2016,Fall
+Maine,37.2,2.9,11,2016,Fall
+Maine,20.5,-6.4,12,2016,Winter
+Maine,21.5,-5.8,1,2017,Winter
+Maine,20.6,-6.3,2,2017,Winter
+Maine,22.2,-5.4,3,2017,Spring
+Maine,42.0,5.6,4,2017,Spring
+Maine,50.7,10.4,5,2017,Spring
+Maine,61.0,16.1,6,2017,Summer
+Maine,65.2,18.4,7,2017,Summer
+Maine,63.3,17.4,8,2017,Summer
+Maine,61.1,16.2,9,2017,Fall
+Maine,52.0,11.1,10,2017,Fall
+Maine,32.4,0.2,11,2017,Fall
+Maine,16.4,-8.7,12,2017,Winter
+Maine,15.0,-9.4,1,2018,Winter
+Maine,22.6,-5.2,2,2018,Winter
+Maine,28.9,-1.7,3,2018,Spring
+Maine,36.6,2.6,4,2018,Spring
+Maine,53.6,12.0,5,2018,Spring
+Maine,59.0,15.0,6,2018,Summer
+Maine,68.9,20.5,7,2018,Summer
+Maine,68.1,20.1,8,2018,Summer
+Maine,58.0,14.4,9,2018,Fall
+Maine,41.9,5.5,10,2018,Fall
+Maine,28.8,-1.8,11,2018,Fall
+Maine,20.4,-6.4,12,2018,Winter
+Maine,14.2,-9.9,1,2019,Winter
+Maryland,32.1,0.1,1,2016,Winter
+Maryland,36.9,2.7,2,2016,Winter
+Maryland,49.4,9.7,3,2016,Spring
+Maryland,53.1,11.7,4,2016,Spring
+Maryland,60.9,16.1,5,2016,Spring
+Maryland,72.2,22.3,6,2016,Summer
+Maryland,78.4,25.8,7,2016,Summer
+Maryland,78.0,25.6,8,2016,Summer
+Maryland,71.5,21.9,9,2016,Fall
+Maryland,59.4,15.2,10,2016,Fall
+Maryland,47.7,8.7,11,2016,Fall
+Maryland,38.0,3.3,12,2016,Winter
+Maryland,38.3,3.5,1,2017,Winter
+Maryland,43.7,6.5,2,2017,Winter
+Maryland,43.1,6.2,3,2017,Spring
+Maryland,59.5,15.3,4,2017,Spring
+Maryland,62.2,16.8,5,2017,Spring
+Maryland,72.6,22.6,6,2017,Summer
+Maryland,77.4,25.2,7,2017,Summer
+Maryland,72.8,22.7,8,2017,Summer
+Maryland,68.3,20.2,9,2017,Fall
+Maryland,61.2,16.2,10,2017,Fall
+Maryland,45.8,7.7,11,2017,Fall
+Maryland,35.3,1.8,12,2017,Winter
+Maryland,31.0,-0.6,1,2018,Winter
+Maryland,41.6,5.3,2,2018,Winter
+Maryland,39.2,4.0,3,2018,Spring
+Maryland,50.6,10.3,4,2018,Spring
+Maryland,68.6,20.3,5,2018,Spring
+Maryland,72.0,22.2,6,2018,Summer
+Maryland,76.2,24.6,7,2018,Summer
+Maryland,77.0,25.0,8,2018,Summer
+Maryland,72.6,22.6,9,2018,Fall
+Maryland,59.0,15.0,10,2018,Fall
+Maryland,43.4,6.3,11,2018,Fall
+Maryland,39.2,4.0,12,2018,Winter
+Maryland,33.6,0.9,1,2019,Winter
+Massachusetts,28.5,-1.9,1,2016,Winter
+Massachusetts,30.9,-0.6,2,2016,Winter
+Massachusetts,41.0,5.0,3,2016,Spring
+Massachusetts,45.0,7.2,4,2016,Spring
+Massachusetts,57.2,14.0,5,2016,Spring
+Massachusetts,66.1,18.9,6,2016,Summer
+Massachusetts,72.6,22.6,7,2016,Summer
+Massachusetts,72.5,22.5,8,2016,Summer
+Massachusetts,64.6,18.1,9,2016,Fall
+Massachusetts,52.2,11.2,10,2016,Fall
+Massachusetts,42.2,5.7,11,2016,Fall
+Massachusetts,31.0,-0.6,12,2016,Winter
+Massachusetts,31.5,-0.3,1,2017,Winter
+Massachusetts,33.0,0.6,2,2017,Winter
+Massachusetts,31.5,-0.3,3,2017,Spring
+Massachusetts,50.2,10.1,4,2017,Spring
+Massachusetts,55.2,12.9,5,2017,Spring
+Massachusetts,66.0,18.9,6,2017,Summer
+Massachusetts,70.0,21.1,7,2017,Summer
+Massachusetts,68.0,20.0,8,2017,Summer
+Massachusetts,65.1,18.4,9,2017,Fall
+Massachusetts,57.5,14.2,10,2017,Fall
+Massachusetts,40.3,4.6,11,2017,Fall
+Massachusetts,26.6,-3.0,12,2017,Winter
+Massachusetts,24.5,-4.2,1,2018,Winter
+Massachusetts,34.2,1.2,2,2018,Winter
+Massachusetts,34.9,1.6,3,2018,Spring
+Massachusetts,42.3,5.7,4,2018,Spring
+Massachusetts,60.8,16.0,5,2018,Spring
+Massachusetts,64.8,18.2,6,2018,Summer
+Massachusetts,73.2,22.9,7,2018,Summer
+Massachusetts,73.5,23.1,8,2018,Summer
+Massachusetts,65.2,18.4,9,2018,Fall
+Massachusetts,50.3,10.2,10,2018,Fall
+Massachusetts,37.8,3.2,11,2018,Fall
+Massachusetts,32.1,0.1,12,2018,Winter
+Massachusetts,25.9,-3.4,1,2019,Winter
+Michigan,22.3,-5.4,1,2016,Winter
+Michigan,25.3,-3.7,2,2016,Winter
+Michigan,36.1,2.3,3,2016,Spring
+Michigan,40.8,4.9,4,2016,Spring
+Michigan,55.4,13.0,5,2016,Spring
+Michigan,64.7,18.2,6,2016,Summer
+Michigan,70.3,21.3,7,2016,Summer
+Michigan,70.8,21.6,8,2016,Summer
+Michigan,63.5,17.5,9,2016,Fall
+Michigan,51.6,10.9,10,2016,Fall
+Michigan,42.6,5.9,11,2016,Fall
+Michigan,25.0,-3.9,12,2016,Winter
+Michigan,25.2,-3.8,1,2017,Winter
+Michigan,29.9,-1.2,2,2017,Winter
+Michigan,30.7,-0.7,3,2017,Spring
+Michigan,47.2,8.4,4,2017,Spring
+Michigan,53.0,11.7,5,2017,Spring
+Michigan,65.3,18.5,6,2017,Summer
+Michigan,68.5,20.3,7,2017,Summer
+Michigan,65.2,18.4,8,2017,Summer
+Michigan,62.6,17.0,9,2017,Fall
+Michigan,52.5,11.4,10,2017,Fall
+Michigan,34.5,1.4,11,2017,Fall
+Michigan,20.9,-6.2,12,2017,Winter
+Michigan,20.0,-6.7,1,2018,Winter
+Michigan,23.0,-5.0,2,2018,Winter
+Michigan,29.6,-1.3,3,2018,Spring
+Michigan,35.3,1.8,4,2018,Spring
+Michigan,60.3,15.7,5,2018,Spring
+Michigan,65.2,18.4,6,2018,Summer
+Michigan,70.5,21.4,7,2018,Summer
+Michigan,69.8,21.0,8,2018,Summer
+Michigan,62.4,16.9,9,2018,Fall
+Michigan,45.9,7.7,10,2018,Fall
+Michigan,30.8,-0.7,11,2018,Fall
+Michigan,28.7,-1.8,12,2018,Winter
+Michigan,16.8,-8.4,1,2019,Winter
+Minnesota,12.6,-10.8,1,2016,Winter
+Minnesota,19.9,-6.7,2,2016,Winter
+Minnesota,35.7,2.1,3,2016,Spring
+Minnesota,42.5,5.8,4,2016,Spring
+Minnesota,56.7,13.7,5,2016,Spring
+Minnesota,65.6,18.7,6,2016,Summer
+Minnesota,69.3,20.7,7,2016,Summer
+Minnesota,68.1,20.1,8,2016,Summer
+Minnesota,60.7,15.9,9,2016,Fall
+Minnesota,48.2,9.0,10,2016,Fall
+Minnesota,40.2,4.6,11,2016,Fall
+Minnesota,15.3,-9.3,12,2016,Winter
+Minnesota,14.6,-9.7,1,2017,Winter
+Minnesota,23.9,-4.5,2,2017,Winter
+Minnesota,28.2,-2.1,3,2017,Spring
+Minnesota,44.4,6.9,4,2017,Spring
+Minnesota,53.6,12.0,5,2017,Spring
+Minnesota,65.0,18.3,6,2017,Summer
+Minnesota,69.2,20.7,7,2017,Summer
+Minnesota,64.0,17.8,8,2017,Summer
+Minnesota,60.8,16.0,9,2017,Fall
+Minnesota,47.1,8.4,10,2017,Fall
+Minnesota,27.4,-2.6,11,2017,Fall
+Minnesota,13.4,-10.3,12,2017,Winter
+Minnesota,10.4,-12.0,1,2018,Winter
+Minnesota,8.6,-13.0,2,2018,Winter
+Minnesota,27.5,-2.5,3,2018,Spring
+Minnesota,32.7,0.4,4,2018,Spring
+Minnesota,61.1,16.2,5,2018,Spring
+Minnesota,67.0,19.4,6,2018,Summer
+Minnesota,69.6,20.9,7,2018,Summer
+Minnesota,67.4,19.7,8,2018,Summer
+Minnesota,59.0,15.0,9,2018,Fall
+Minnesota,40.7,4.8,10,2018,Fall
+Minnesota,22.8,-5.1,11,2018,Fall
+Minnesota,20.2,-6.6,12,2018,Winter
+Minnesota,6.6,-14.1,1,2019,Winter
+Mississippi,43.7,6.5,1,2016,Winter
+Mississippi,50.9,10.5,2,2016,Winter
+Mississippi,60.2,15.7,3,2016,Spring
+Mississippi,65.2,18.4,4,2016,Spring
+Mississippi,70.5,21.4,5,2016,Spring
+Mississippi,80.2,26.8,6,2016,Summer
+Mississippi,82.4,28.0,7,2016,Summer
+Mississippi,82.0,27.8,8,2016,Summer
+Mississippi,79.0,26.1,9,2016,Fall
+Mississippi,69.2,20.7,10,2016,Fall
+Mississippi,58.2,14.6,11,2016,Fall
+Mississippi,49.4,9.7,12,2016,Winter
+Mississippi,52.9,11.6,1,2017,Winter
+Mississippi,57.1,13.9,2,2017,Winter
+Mississippi,60.1,15.6,3,2017,Spring
+Mississippi,67.3,19.6,4,2017,Spring
+Mississippi,70.1,21.2,5,2017,Spring
+Mississippi,76.7,24.8,6,2017,Summer
+Mississippi,81.2,27.3,7,2017,Summer
+Mississippi,79.3,26.3,8,2017,Summer
+Mississippi,74.5,23.6,9,2017,Fall
+Mississippi,66.2,19.0,10,2017,Fall
+Mississippi,56.8,13.8,11,2017,Fall
+Mississippi,47.1,8.4,12,2017,Winter
+Mississippi,40.0,4.4,1,2018,Winter
+Mississippi,56.8,13.8,2,2018,Winter
+Mississippi,57.1,13.9,3,2018,Spring
+Mississippi,58.8,14.9,4,2018,Spring
+Mississippi,75.8,24.3,5,2018,Spring
+Mississippi,80.6,27.0,6,2018,Summer
+Mississippi,81.8,27.7,7,2018,Summer
+Mississippi,80.2,26.8,8,2018,Summer
+Mississippi,78.8,26.0,9,2018,Fall
+Mississippi,67.3,19.6,10,2018,Fall
+Mississippi,50.5,10.3,11,2018,Fall
+Mississippi,48.9,9.4,12,2018,Winter
+Mississippi,46.2,7.9,1,2019,Winter
+Missouri,30.9,-0.6,1,2016,Winter
+Missouri,39.1,3.9,2,2016,Winter
+Missouri,50.4,10.2,3,2016,Spring
+Missouri,57.3,14.1,4,2016,Spring
+Missouri,62.7,17.1,5,2016,Spring
+Missouri,76.9,24.9,6,2016,Summer
+Missouri,78.1,25.6,7,2016,Summer
+Missouri,76.7,24.8,8,2016,Summer
+Missouri,71.7,22.1,9,2016,Fall
+Missouri,62.1,16.7,10,2016,Fall
+Missouri,51.0,10.6,11,2016,Fall
+Missouri,32.4,0.2,12,2016,Winter
+Missouri,35.4,1.9,1,2017,Winter
+Missouri,45.1,7.3,2,2017,Winter
+Missouri,48.4,9.1,3,2017,Spring
+Missouri,58.5,14.7,4,2017,Spring
+Missouri,64.1,17.8,5,2017,Spring
+Missouri,73.5,23.1,6,2017,Summer
+Missouri,78.8,26.0,7,2017,Summer
+Missouri,72.1,22.3,8,2017,Summer
+Missouri,70.4,21.3,9,2017,Fall
+Missouri,59.0,15.0,10,2017,Fall
+Missouri,46.2,7.9,11,2017,Fall
+Missouri,34.3,1.3,12,2017,Winter
+Missouri,28.0,-2.2,1,2018,Winter
+Missouri,35.6,2.0,2,2018,Winter
+Missouri,44.0,6.7,3,2018,Spring
+Missouri,48.2,9.0,4,2018,Spring
+Missouri,72.5,22.5,5,2018,Spring
+Missouri,77.4,25.2,6,2018,Summer
+Missouri,78.2,25.7,7,2018,Summer
+Missouri,76.4,24.7,8,2018,Summer
+Missouri,71.3,21.8,9,2018,Fall
+Missouri,56.5,13.6,10,2018,Fall
+Missouri,37.6,3.1,11,2018,Fall
+Missouri,36.9,2.7,12,2018,Winter
+Missouri,31.0,-0.6,1,2019,Winter
+Montana,23.4,-4.8,1,2016,Winter
+Montana,33.6,0.9,2,2016,Winter
+Montana,37.4,3.0,3,2016,Spring
+Montana,45.0,7.2,4,2016,Spring
+Montana,51.0,10.6,5,2016,Spring
+Montana,62.4,16.9,6,2016,Summer
+Montana,65.9,18.8,7,2016,Summer
+Montana,64.4,18.0,8,2016,Summer
+Montana,54.8,12.7,9,2016,Fall
+Montana,44.3,6.8,10,2016,Fall
+Montana,39.1,3.9,11,2016,Fall
+Montana,14.2,-9.9,12,2016,Winter
+Montana,15.2,-9.3,1,2017,Winter
+Montana,25.4,-3.7,2,2017,Winter
+Montana,35.8,2.1,3,2017,Spring
+Montana,42.1,5.6,4,2017,Spring
+Montana,52.3,11.3,5,2017,Spring
+Montana,60.6,15.9,6,2017,Summer
+Montana,71.6,22.0,7,2017,Summer
+Montana,65.5,18.6,8,2017,Summer
+Montana,55.2,12.9,9,2017,Fall
+Montana,42.6,5.9,10,2017,Fall
+Montana,30.7,-0.7,11,2017,Fall
+Montana,21.1,-6.1,12,2017,Winter
+Montana,21.7,-5.7,1,2018,Winter
+Montana,11.4,-11.4,2,2018,Winter
+Montana,28.2,-2.1,3,2018,Spring
+Montana,37.9,3.3,4,2018,Spring
+Montana,55.6,13.1,5,2018,Spring
+Montana,59.2,15.1,6,2018,Summer
+Montana,66.7,19.3,7,2018,Summer
+Montana,64.4,18.0,8,2018,Summer
+Montana,53.0,11.7,9,2018,Fall
+Montana,41.6,5.3,10,2018,Fall
+Montana,30.2,-1.0,11,2018,Fall
+Montana,25.0,-3.9,12,2018,Winter
+Montana,24.8,-4.0,1,2019,Winter
+Nebraska,26.0,-3.3,1,2016,Winter
+Nebraska,35.0,1.7,2,2016,Winter
+Nebraska,43.9,6.6,3,2016,Spring
+Nebraska,49.9,9.9,4,2016,Spring
+Nebraska,57.2,14.0,5,2016,Spring
+Nebraska,73.3,22.9,6,2016,Summer
+Nebraska,74.2,23.4,7,2016,Summer
+Nebraska,71.8,22.1,8,2016,Summer
+Nebraska,65.0,18.3,9,2016,Fall
+Nebraska,55.4,13.0,10,2016,Fall
+Nebraska,44.3,6.8,11,2016,Fall
+Nebraska,23.8,-4.6,12,2016,Winter
+Nebraska,24.8,-4.0,1,2017,Winter
+Nebraska,35.4,1.9,2,2017,Winter
+Nebraska,42.2,5.7,3,2017,Spring
+Nebraska,49.7,9.8,4,2017,Spring
+Nebraska,57.0,13.9,5,2017,Spring
+Nebraska,70.7,21.5,6,2017,Summer
+Nebraska,76.8,24.9,7,2017,Summer
+Nebraska,69.0,20.6,8,2017,Summer
+Nebraska,65.0,18.3,9,2017,Fall
+Nebraska,51.0,10.6,10,2017,Fall
+Nebraska,39.9,4.4,11,2017,Fall
+Nebraska,26.6,-3.0,12,2017,Winter
+Nebraska,23.1,-4.9,1,2018,Winter
+Nebraska,21.7,-5.7,2,2018,Winter
+Nebraska,38.5,3.6,3,2018,Spring
+Nebraska,41.2,5.1,4,2018,Spring
+Nebraska,63.8,17.7,5,2018,Spring
+Nebraska,72.3,22.4,6,2018,Summer
+Nebraska,73.5,23.1,7,2018,Summer
+Nebraska,70.8,21.6,8,2018,Summer
+Nebraska,65.7,18.7,9,2018,Fall
+Nebraska,47.1,8.4,10,2018,Fall
+Nebraska,33.4,0.8,11,2018,Fall
+Nebraska,28.0,-2.2,12,2018,Winter
+Nebraska,26.3,-3.2,1,2019,Winter
+Nevada,31.1,-0.5,1,2016,Winter
+Nevada,38.0,3.3,2,2016,Winter
+Nevada,44.2,6.8,3,2016,Spring
+Nevada,50.1,10.1,4,2016,Spring
+Nevada,55.1,12.8,5,2016,Spring
+Nevada,69.7,20.9,6,2016,Summer
+Nevada,73.7,23.2,7,2016,Summer
+Nevada,72.1,22.3,8,2016,Summer
+Nevada,62.3,16.8,9,2016,Fall
+Nevada,53.2,11.8,10,2016,Fall
+Nevada,43.2,6.2,11,2016,Fall
+Nevada,30.5,-0.8,12,2016,Winter
+Nevada,29.1,-1.6,1,2017,Winter
+Nevada,38.1,3.4,2,2017,Winter
+Nevada,45.7,7.6,3,2017,Spring
+Nevada,47.1,8.4,4,2017,Spring
+Nevada,57.1,13.9,5,2017,Spring
+Nevada,68.6,20.3,6,2017,Summer
+Nevada,76.2,24.6,7,2017,Summer
+Nevada,73.5,23.1,8,2017,Summer
+Nevada,61.6,16.4,9,2017,Fall
+Nevada,50.4,10.2,10,2017,Fall
+Nevada,44.4,6.9,11,2017,Fall
+Nevada,34.8,1.6,12,2017,Winter
+Nevada,38.5,3.6,1,2018,Winter
+Nevada,33.7,0.9,2,2018,Winter
+Nevada,39.5,4.2,3,2018,Spring
+Nevada,50.0,10.0,4,2018,Spring
+Nevada,57.7,14.3,5,2018,Spring
+Nevada,67.8,19.9,6,2018,Summer
+Nevada,77.0,25.0,7,2018,Summer
+Nevada,73.2,22.9,8,2018,Summer
+Nevada,65.0,18.3,9,2018,Fall
+Nevada,50.3,10.2,10,2018,Fall
+Nevada,39.4,4.1,11,2018,Fall
+Nevada,32.0,0.0,12,2018,Winter
+Nevada,34.0,1.1,1,2019,Winter
+New Hampshire,22.9,-5.1,1,2016,Winter
+New Hampshire,25.6,-3.6,2,2016,Winter
+New Hampshire,35.2,1.8,3,2016,Spring
+New Hampshire,40.2,4.6,4,2016,Spring
+New Hampshire,54.8,12.7,5,2016,Spring
+New Hampshire,62.6,17.0,6,2016,Summer
+New Hampshire,68.5,20.3,7,2016,Summer
+New Hampshire,68.2,20.1,8,2016,Summer
+New Hampshire,60.5,15.8,9,2016,Fall
+New Hampshire,48.0,8.9,10,2016,Fall
+New Hampshire,37.9,3.3,11,2016,Fall
+New Hampshire,24.4,-4.2,12,2016,Winter
+New Hampshire,25.7,-3.5,1,2017,Winter
+New Hampshire,26.7,-2.9,2,2017,Winter
+New Hampshire,25.3,-3.7,3,2017,Spring
+New Hampshire,45.8,7.7,4,2017,Spring
+New Hampshire,52.2,11.2,5,2017,Spring
+New Hampshire,62.6,17.0,6,2017,Summer
+New Hampshire,66.5,19.2,7,2017,Summer
+New Hampshire,64.1,17.8,8,2017,Summer
+New Hampshire,62.2,16.8,9,2017,Fall
+New Hampshire,53.9,12.2,10,2017,Fall
+New Hampshire,34.6,1.4,11,2017,Fall
+New Hampshire,19.6,-6.9,12,2017,Winter
+New Hampshire,18.4,-7.6,1,2018,Winter
+New Hampshire,27.0,-2.8,2,2018,Winter
+New Hampshire,30.4,-0.9,3,2018,Spring
+New Hampshire,38.0,3.3,4,2018,Spring
+New Hampshire,57.2,14.0,5,2018,Spring
+New Hampshire,61.4,16.3,6,2018,Summer
+New Hampshire,69.8,21.0,7,2018,Summer
+New Hampshire,69.3,20.7,8,2018,Summer
+New Hampshire,61.2,16.2,9,2018,Fall
+New Hampshire,45.1,7.3,10,2018,Fall
+New Hampshire,31.4,-0.3,11,2018,Fall
+New Hampshire,24.9,-3.9,12,2018,Winter
+New Hampshire,18.2,-7.7,1,2019,Winter
+New Jersey,31.4,-0.3,1,2016,Winter
+New Jersey,36.0,2.2,2,2016,Winter
+New Jersey,47.0,8.3,3,2016,Spring
+New Jersey,50.7,10.4,4,2016,Spring
+New Jersey,60.2,15.7,5,2016,Spring
+New Jersey,70.6,21.4,6,2016,Summer
+New Jersey,77.2,25.1,7,2016,Summer
+New Jersey,76.9,24.9,8,2016,Summer
+New Jersey,69.7,20.9,9,2016,Fall
+New Jersey,56.7,13.7,10,2016,Fall
+New Jersey,46.7,8.2,11,2016,Fall
+New Jersey,36.3,2.4,12,2016,Winter
+New Jersey,36.2,2.3,1,2017,Winter
+New Jersey,40.4,4.7,2,2017,Winter
+New Jersey,38.9,3.8,3,2017,Spring
+New Jersey,55.9,13.3,4,2017,Spring
+New Jersey,60.0,15.6,5,2017,Spring
+New Jersey,70.4,21.3,6,2017,Summer
+New Jersey,75.5,24.2,7,2017,Summer
+New Jersey,71.6,22.0,8,2017,Summer
+New Jersey,68.2,20.1,9,2017,Fall
+New Jersey,60.4,15.8,10,2017,Fall
+New Jersey,44.4,6.9,11,2017,Fall
+New Jersey,33.2,0.7,12,2017,Winter
+New Jersey,29.2,-1.6,1,2018,Winter
+New Jersey,39.4,4.1,2,2018,Winter
+New Jersey,38.3,3.5,3,2018,Spring
+New Jersey,48.0,8.9,4,2018,Spring
+New Jersey,65.2,18.4,5,2018,Spring
+New Jersey,70.1,21.2,6,2018,Summer
+New Jersey,76.1,24.5,7,2018,Summer
+New Jersey,76.8,24.9,8,2018,Summer
+New Jersey,70.2,21.2,9,2018,Fall
+New Jersey,56.4,13.6,10,2018,Fall
+New Jersey,42.5,5.8,11,2018,Fall
+New Jersey,37.8,3.2,12,2018,Winter
+New Jersey,31.6,-0.2,1,2019,Winter
+New Mexico,34.3,1.3,1,2016,Winter
+New Mexico,42.0,5.6,2,2016,Winter
+New Mexico,48.3,9.1,3,2016,Spring
+New Mexico,52.3,11.3,4,2016,Spring
+New Mexico,59.4,15.2,5,2016,Spring
+New Mexico,73.0,22.8,6,2016,Summer
+New Mexico,76.9,24.9,7,2016,Summer
+New Mexico,70.1,21.2,8,2016,Summer
+New Mexico,65.9,18.8,9,2016,Fall
+New Mexico,59.6,15.3,10,2016,Fall
+New Mexico,46.7,8.2,11,2016,Fall
+New Mexico,37.8,3.2,12,2016,Winter
+New Mexico,37.2,2.9,1,2017,Winter
+New Mexico,44.5,6.9,2,2017,Winter
+New Mexico,51.2,10.7,3,2017,Spring
+New Mexico,53.7,12.1,4,2017,Spring
+New Mexico,60.1,15.6,5,2017,Spring
+New Mexico,72.8,22.7,6,2017,Summer
+New Mexico,74.6,23.7,7,2017,Summer
+New Mexico,70.8,21.6,8,2017,Summer
+New Mexico,66.4,19.1,9,2017,Fall
+New Mexico,56.4,13.6,10,2017,Fall
+New Mexico,50.2,10.1,11,2017,Fall
+New Mexico,38.7,3.7,12,2017,Winter
+New Mexico,37.0,2.8,1,2018,Winter
+New Mexico,41.3,5.2,2,2018,Winter
+New Mexico,47.2,8.4,3,2018,Spring
+New Mexico,55.1,12.8,4,2018,Spring
+New Mexico,65.6,18.7,5,2018,Spring
+New Mexico,74.3,23.5,6,2018,Summer
+New Mexico,75.1,23.9,7,2018,Summer
+New Mexico,73.0,22.8,8,2018,Summer
+New Mexico,66.9,19.4,9,2018,Fall
+New Mexico,53.8,12.1,10,2018,Fall
+New Mexico,41.2,5.1,11,2018,Fall
+New Mexico,35.6,2.0,12,2018,Winter
+New Mexico,35.5,1.9,1,2019,Winter
+New York,23.7,-4.6,1,2016,Winter
+New York,26.7,-2.9,2,2016,Winter
+New York,37.7,3.2,3,2016,Spring
+New York,41.3,5.2,4,2016,Spring
+New York,55.7,13.2,5,2016,Spring
+New York,64.1,17.8,6,2016,Summer
+New York,70.4,21.3,7,2016,Summer
+New York,70.9,21.6,8,2016,Summer
+New York,62.9,17.2,9,2016,Fall
+New York,50.5,10.3,10,2016,Fall
+New York,40.2,4.6,11,2016,Fall
+New York,27.6,-2.4,12,2016,Winter
+New York,27.9,-2.3,1,2017,Winter
+New York,30.6,-0.8,2,2017,Winter
+New York,28.2,-2.1,3,2017,Spring
+New York,48.8,9.3,4,2017,Spring
+New York,54.0,12.2,5,2017,Spring
+New York,63.9,17.7,6,2017,Summer
+New York,68.1,20.1,7,2017,Summer
+New York,65.6,18.7,8,2017,Summer
+New York,62.3,16.8,9,2017,Fall
+New York,54.8,12.7,10,2017,Fall
+New York,36.2,2.3,11,2017,Fall
+New York,22.6,-5.2,12,2017,Winter
+New York,19.1,-7.2,1,2018,Winter
+New York,29.4,-1.4,2,2018,Winter
+New York,29.9,-1.2,3,2018,Spring
+New York,37.8,3.2,4,2018,Spring
+New York,60.0,15.6,5,2018,Spring
+New York,63.4,17.4,6,2018,Summer
+New York,71.2,21.8,7,2018,Summer
+New York,70.5,21.4,8,2018,Summer
+New York,63.6,17.6,9,2018,Fall
+New York,47.8,8.8,10,2018,Fall
+New York,33.3,0.7,11,2018,Fall
+New York,28.5,-1.9,12,2018,Winter
+New York,19.5,-6.9,1,2019,Winter
+North Carolina,38.4,3.6,1,2016,Winter
+North Carolina,43.2,6.2,2,2016,Winter
+North Carolina,56.2,13.4,3,2016,Spring
+North Carolina,58.7,14.8,4,2016,Spring
+North Carolina,65.8,18.8,5,2016,Spring
+North Carolina,75.3,24.1,6,2016,Summer
+North Carolina,80.1,26.7,7,2016,Summer
+North Carolina,79.2,26.2,8,2016,Summer
+North Carolina,74.3,23.5,9,2016,Fall
+North Carolina,63.2,17.3,10,2016,Fall
+North Carolina,51.7,10.9,11,2016,Fall
+North Carolina,44.0,6.7,12,2016,Winter
+North Carolina,45.4,7.4,1,2017,Winter
+North Carolina,50.7,10.4,2,2017,Winter
+North Carolina,50.0,10.0,3,2017,Spring
+North Carolina,63.9,17.7,4,2017,Spring
+North Carolina,67.7,19.8,5,2017,Spring
+North Carolina,73.8,23.2,6,2017,Summer
+North Carolina,78.7,25.9,7,2017,Summer
+North Carolina,75.8,24.3,8,2017,Summer
+North Carolina,70.5,21.4,9,2017,Fall
+North Carolina,62.8,17.1,10,2017,Fall
+North Carolina,50.3,10.2,11,2017,Fall
+North Carolina,42.4,5.8,12,2017,Winter
+North Carolina,35.8,2.1,1,2018,Winter
+North Carolina,51.9,11.1,2,2018,Winter
+North Carolina,46.3,7.9,3,2018,Spring
+North Carolina,56.0,13.3,4,2018,Spring
+North Carolina,71.6,22.0,5,2018,Spring
+North Carolina,76.8,24.9,6,2018,Summer
+North Carolina,77.2,25.1,7,2018,Summer
+North Carolina,77.2,25.1,8,2018,Summer
+North Carolina,76.2,24.6,9,2018,Fall
+North Carolina,62.5,16.9,10,2018,Fall
+North Carolina,48.4,9.1,11,2018,Fall
+North Carolina,45.0,7.2,12,2018,Winter
+North Carolina,41.9,5.5,1,2019,Winter
+North Dakota,14.6,-9.7,1,2016,Winter
+North Dakota,25.6,-3.6,2,2016,Winter
+North Dakota,36.3,2.4,3,2016,Spring
+North Dakota,41.8,5.4,4,2016,Spring
+North Dakota,56.6,13.7,5,2016,Spring
+North Dakota,66.0,18.9,6,2016,Summer
+North Dakota,69.3,20.7,7,2016,Summer
+North Dakota,68.0,20.0,8,2016,Summer
+North Dakota,58.6,14.8,9,2016,Fall
+North Dakota,46.1,7.8,10,2016,Fall
+North Dakota,39.3,4.1,11,2016,Fall
+North Dakota,10.2,-12.1,12,2016,Winter
+North Dakota,11.2,-11.6,1,2017,Winter
+North Dakota,20.5,-6.4,2,2017,Winter
+North Dakota,27.4,-2.6,3,2017,Spring
+North Dakota,42.7,5.9,4,2017,Spring
+North Dakota,54.8,12.7,5,2017,Spring
+North Dakota,64.8,18.2,6,2017,Summer
+North Dakota,72.2,22.3,7,2017,Summer
+North Dakota,65.2,18.4,8,2017,Summer
+North Dakota,58.3,14.6,9,2017,Fall
+North Dakota,45.0,7.2,10,2017,Fall
+North Dakota,26.4,-3.1,11,2017,Fall
+North Dakota,15.6,-9.1,12,2017,Winter
+North Dakota,11.8,-11.2,1,2018,Winter
+North Dakota,5.4,-14.8,2,2018,Winter
+North Dakota,24.6,-4.1,3,2018,Spring
+North Dakota,33.2,0.7,4,2018,Spring
+North Dakota,60.2,15.7,5,2018,Spring
+North Dakota,67.4,19.7,6,2018,Summer
+North Dakota,69.2,20.7,7,2018,Summer
+North Dakota,67.6,19.8,8,2018,Summer
+North Dakota,55.0,12.8,9,2018,Fall
+North Dakota,39.0,3.9,10,2018,Fall
+North Dakota,22.9,-5.1,11,2018,Fall
+North Dakota,20.8,-6.2,12,2018,Winter
+North Dakota,9.8,-12.3,1,2019,Winter
+Ohio,27.2,-2.7,1,2016,Winter
+Ohio,33.6,0.9,2,2016,Winter
+Ohio,46.5,8.1,3,2016,Spring
+Ohio,50.2,10.1,4,2016,Spring
+Ohio,59.7,15.4,5,2016,Spring
+Ohio,71.2,21.8,6,2016,Summer
+Ohio,74.8,23.8,7,2016,Summer
+Ohio,76.0,24.4,8,2016,Summer
+Ohio,69.2,20.7,9,2016,Fall
+Ohio,57.7,14.3,10,2016,Fall
+Ohio,45.8,7.7,11,2016,Fall
+Ohio,31.0,-0.6,12,2016,Winter
+Ohio,34.6,1.4,1,2017,Winter
+Ohio,40.5,4.7,2,2017,Winter
+Ohio,40.4,4.7,3,2017,Spring
+Ohio,56.6,13.7,4,2017,Spring
+Ohio,60.1,15.6,5,2017,Spring
+Ohio,69.6,20.9,6,2017,Summer
+Ohio,73.0,22.8,7,2017,Summer
+Ohio,69.7,20.9,8,2017,Summer
+Ohio,65.8,18.8,9,2017,Fall
+Ohio,57.4,14.1,10,2017,Fall
+Ohio,41.8,5.4,11,2017,Fall
+Ohio,29.2,-1.6,12,2017,Winter
+Ohio,25.0,-3.9,1,2018,Winter
+Ohio,36.6,2.6,2,2018,Winter
+Ohio,36.4,2.4,3,2018,Spring
+Ohio,45.0,7.2,4,2018,Spring
+Ohio,68.0,20.0,5,2018,Spring
+Ohio,71.4,21.9,6,2018,Summer
+Ohio,73.8,23.2,7,2018,Summer
+Ohio,73.7,23.2,8,2018,Summer
+Ohio,69.6,20.9,9,2018,Fall
+Ohio,54.3,12.4,10,2018,Fall
+Ohio,37.3,2.9,11,2018,Fall
+Ohio,35.1,1.7,12,2018,Winter
+Ohio,27.4,-2.6,1,2019,Winter
+Oklahoma,38.2,3.4,1,2016,Winter
+Oklahoma,47.4,8.6,2,2016,Winter
+Oklahoma,54.7,12.6,3,2016,Spring
+Oklahoma,61.4,16.3,4,2016,Spring
+Oklahoma,66.2,19.0,5,2016,Spring
+Oklahoma,79.2,26.2,6,2016,Summer
+Oklahoma,83.2,28.4,7,2016,Summer
+Oklahoma,80.8,27.1,8,2016,Summer
+Oklahoma,75.3,24.1,9,2016,Fall
+Oklahoma,67.1,19.5,10,2016,Fall
+Oklahoma,55.4,13.0,11,2016,Fall
+Oklahoma,38.8,3.8,12,2016,Winter
+Oklahoma,40.9,4.9,1,2017,Winter
+Oklahoma,50.5,10.3,2,2017,Winter
+Oklahoma,56.2,13.4,3,2017,Spring
+Oklahoma,61.4,16.3,4,2017,Spring
+Oklahoma,66.9,19.4,5,2017,Spring
+Oklahoma,77.3,25.2,6,2017,Summer
+Oklahoma,82.5,28.1,7,2017,Summer
+Oklahoma,77.3,25.2,8,2017,Summer
+Oklahoma,73.3,22.9,9,2017,Fall
+Oklahoma,62.0,16.7,10,2017,Fall
+Oklahoma,52.9,11.6,11,2017,Fall
+Oklahoma,40.5,4.7,12,2017,Winter
+Oklahoma,36.6,2.6,1,2018,Winter
+Oklahoma,40.9,4.9,2,2018,Winter
+Oklahoma,52.9,11.6,3,2018,Spring
+Oklahoma,54.1,12.3,4,2018,Spring
+Oklahoma,75.0,23.9,5,2018,Spring
+Oklahoma,80.6,27.0,6,2018,Summer
+Oklahoma,82.8,28.2,7,2018,Summer
+Oklahoma,79.9,26.6,8,2018,Summer
+Oklahoma,73.9,23.3,9,2018,Fall
+Oklahoma,60.1,15.6,10,2018,Fall
+Oklahoma,44.6,7.0,11,2018,Fall
+Oklahoma,40.9,4.9,12,2018,Winter
+Oklahoma,38.3,3.5,1,2019,Winter
+Oregon,33.1,0.6,1,2016,Winter
+Oregon,40.2,4.6,2,2016,Winter
+Oregon,41.2,5.1,3,2016,Spring
+Oregon,50.1,10.1,4,2016,Spring
+Oregon,53.2,11.8,5,2016,Spring
+Oregon,60.5,15.8,6,2016,Summer
+Oregon,64.4,18.0,7,2016,Summer
+Oregon,66.7,19.3,8,2016,Summer
+Oregon,57.1,13.9,9,2016,Fall
+Oregon,48.1,8.9,10,2016,Fall
+Oregon,43.2,6.2,11,2016,Fall
+Oregon,27.4,-2.6,12,2016,Winter
+Oregon,26.7,-2.9,1,2017,Winter
+Oregon,34.8,1.6,2,2017,Winter
+Oregon,41.6,5.3,3,2017,Spring
+Oregon,42.9,6.1,4,2017,Spring
+Oregon,52.9,11.6,5,2017,Spring
+Oregon,59.9,15.5,6,2017,Summer
+Oregon,69.2,20.7,7,2017,Summer
+Oregon,69.6,20.9,8,2017,Summer
+Oregon,59.6,15.3,9,2017,Fall
+Oregon,47.0,8.3,10,2017,Fall
+Oregon,39.3,4.1,11,2017,Fall
+Oregon,32.9,0.5,12,2017,Winter
+Oregon,37.5,3.1,1,2018,Winter
+Oregon,33.2,0.7,2,2018,Winter
+Oregon,38.4,3.6,3,2018,Spring
+Oregon,45.1,7.3,4,2018,Spring
+Oregon,55.5,13.1,5,2018,Spring
+Oregon,58.6,14.8,6,2018,Summer
+Oregon,69.0,20.6,7,2018,Summer
+Oregon,66.5,19.2,8,2018,Summer
+Oregon,57.4,14.1,9,2018,Fall
+Oregon,48.8,9.3,10,2018,Fall
+Oregon,39.4,4.1,11,2018,Fall
+Oregon,32.2,0.1,12,2018,Winter
+Oregon,35.3,1.8,1,2019,Winter
+Pennsylvania,25.4,-3.7,1,2016,Winter
+Pennsylvania,30.7,-0.7,2,2016,Winter
+Pennsylvania,43.3,6.3,3,2016,Spring
+Pennsylvania,47.0,8.3,4,2016,Spring
+Pennsylvania,57.4,14.1,5,2016,Spring
+Pennsylvania,67.4,19.7,6,2016,Summer
+Pennsylvania,73.0,22.8,7,2016,Summer
+Pennsylvania,73.4,23.0,8,2016,Summer
+Pennsylvania,66.2,19.0,9,2016,Fall
+Pennsylvania,53.6,12.0,10,2016,Fall
+Pennsylvania,42.6,5.9,11,2016,Fall
+Pennsylvania,31.2,-0.4,12,2016,Winter
+Pennsylvania,31.8,-0.1,1,2017,Winter
+Pennsylvania,36.6,2.6,2,2017,Winter
+Pennsylvania,35.3,1.8,3,2017,Spring
+Pennsylvania,53.7,12.1,4,2017,Spring
+Pennsylvania,57.1,13.9,5,2017,Spring
+Pennsylvania,66.8,19.3,6,2017,Summer
+Pennsylvania,71.4,21.9,7,2017,Summer
+Pennsylvania,67.4,19.7,8,2017,Summer
+Pennsylvania,63.8,17.7,9,2017,Fall
+Pennsylvania,56.2,13.4,10,2017,Fall
+Pennsylvania,39.2,4.0,11,2017,Fall
+Pennsylvania,28.0,-2.2,12,2017,Winter
+Pennsylvania,23.1,-4.9,1,2018,Winter
+Pennsylvania,34.3,1.3,2,2018,Winter
+Pennsylvania,33.1,0.6,3,2018,Spring
+Pennsylvania,43.3,6.3,4,2018,Spring
+Pennsylvania,64.0,17.8,5,2018,Spring
+Pennsylvania,66.7,19.3,6,2018,Summer
+Pennsylvania,71.7,22.1,7,2018,Summer
+Pennsylvania,72.1,22.3,8,2018,Summer
+Pennsylvania,66.7,19.3,9,2018,Fall
+Pennsylvania,52.3,11.3,10,2018,Fall
+Pennsylvania,36.7,2.6,11,2018,Fall
+Pennsylvania,33.5,0.8,12,2018,Winter
+Pennsylvania,25.9,-3.4,1,2019,Winter
+Rhode Island,31.3,-0.4,1,2016,Winter
+Rhode Island,33.1,0.6,2,2016,Winter
+Rhode Island,42.9,6.1,3,2016,Spring
+Rhode Island,46.2,7.9,4,2016,Spring
+Rhode Island,57.9,14.4,5,2016,Spring
+Rhode Island,66.9,19.4,6,2016,Summer
+Rhode Island,73.8,23.2,7,2016,Summer
+Rhode Island,73.9,23.3,8,2016,Summer
+Rhode Island,66.4,19.1,9,2016,Fall
+Rhode Island,54.7,12.6,10,2016,Fall
+Rhode Island,45.2,7.3,11,2016,Fall
+Rhode Island,34.2,1.2,12,2016,Winter
+Rhode Island,34.2,1.2,1,2017,Winter
+Rhode Island,35.2,1.8,2,2017,Winter
+Rhode Island,34.1,1.2,3,2017,Spring
+Rhode Island,51.5,10.8,4,2017,Spring
+Rhode Island,56.5,13.6,5,2017,Spring
+Rhode Island,66.8,19.3,6,2017,Summer
+Rhode Island,71.1,21.7,7,2017,Summer
+Rhode Island,69.8,21.0,8,2017,Summer
+Rhode Island,66.4,19.1,9,2017,Fall
+Rhode Island,59.6,15.3,10,2017,Fall
+Rhode Island,43.1,6.2,11,2017,Fall
+Rhode Island,30.1,-1.1,12,2017,Winter
+Rhode Island,27.6,-2.4,1,2018,Winter
+Rhode Island,37.6,3.1,2,2018,Winter
+Rhode Island,37.3,2.9,3,2018,Spring
+Rhode Island,44.4,6.9,4,2018,Spring
+Rhode Island,61.4,16.3,5,2018,Spring
+Rhode Island,65.9,18.8,6,2018,Summer
+Rhode Island,73.8,23.2,7,2018,Summer
+Rhode Island,75.1,23.9,8,2018,Summer
+Rhode Island,66.4,19.1,9,2018,Fall
+Rhode Island,52.6,11.4,10,2018,Fall
+Rhode Island,40.9,4.9,11,2018,Fall
+Rhode Island,35.2,1.8,12,2018,Winter
+Rhode Island,29.0,-1.7,1,2019,Winter
+South Carolina,43.0,6.1,1,2016,Winter
+South Carolina,48.0,8.9,2,2016,Winter
+South Carolina,60.6,15.9,3,2016,Spring
+South Carolina,63.1,17.3,4,2016,Spring
+South Carolina,70.1,21.2,5,2016,Spring
+South Carolina,79.8,26.6,6,2016,Summer
+South Carolina,83.7,28.7,7,2016,Summer
+South Carolina,81.9,27.7,8,2016,Summer
+South Carolina,77.1,25.1,9,2016,Fall
+South Carolina,66.4,19.1,10,2016,Fall
+South Carolina,55.6,13.1,11,2016,Fall
+South Carolina,49.0,9.4,12,2016,Winter
+South Carolina,51.4,10.8,1,2017,Winter
+South Carolina,55.5,13.1,2,2017,Winter
+South Carolina,55.5,13.1,3,2017,Spring
+South Carolina,67.0,19.4,4,2017,Spring
+South Carolina,71.5,21.9,5,2017,Spring
+South Carolina,76.9,24.9,6,2017,Summer
+South Carolina,81.0,27.2,7,2017,Summer
+South Carolina,79.4,26.3,8,2017,Summer
+South Carolina,74.3,23.5,9,2017,Fall
+South Carolina,66.2,19.0,10,2017,Fall
+South Carolina,54.3,12.4,11,2017,Fall
+South Carolina,47.8,8.8,12,2017,Winter
+South Carolina,40.6,4.8,1,2018,Winter
+South Carolina,57.3,14.1,2,2018,Winter
+South Carolina,51.9,11.1,3,2018,Spring
+South Carolina,59.9,15.5,4,2018,Spring
+South Carolina,73.8,23.2,5,2018,Spring
+South Carolina,80.2,26.8,6,2018,Summer
+South Carolina,80.2,26.8,7,2018,Summer
+South Carolina,79.9,26.6,8,2018,Summer
+South Carolina,79.4,26.3,9,2018,Fall
+South Carolina,66.9,19.4,10,2018,Fall
+South Carolina,51.9,11.1,11,2018,Fall
+South Carolina,48.6,9.2,12,2018,Winter
+South Carolina,46.7,8.2,1,2019,Winter
+South Dakota,19.8,-6.8,1,2016,Winter
+South Dakota,31.2,-0.4,2,2016,Winter
+South Dakota,40.1,4.5,3,2016,Spring
+South Dakota,46.3,7.9,4,2016,Spring
+South Dakota,56.7,13.7,5,2016,Spring
+South Dakota,70.7,21.5,6,2016,Summer
+South Dakota,73.0,22.8,7,2016,Summer
+South Dakota,71.0,21.7,8,2016,Summer
+South Dakota,62.4,16.9,9,2016,Fall
+South Dakota,51.6,10.9,10,2016,Fall
+South Dakota,42.0,5.6,11,2016,Fall
+South Dakota,15.4,-9.2,12,2016,Winter
+South Dakota,16.5,-8.6,1,2017,Winter
+South Dakota,29.4,-1.4,2,2017,Winter
+South Dakota,35.5,1.9,3,2017,Spring
+South Dakota,46.1,7.8,4,2017,Spring
+South Dakota,56.0,13.3,5,2017,Spring
+South Dakota,68.1,20.1,6,2017,Summer
+South Dakota,76.0,24.4,7,2017,Summer
+South Dakota,67.4,19.7,8,2017,Summer
+South Dakota,61.8,16.6,9,2017,Fall
+South Dakota,48.0,8.9,10,2017,Fall
+South Dakota,34.7,1.5,11,2017,Fall
+South Dakota,21.7,-5.7,12,2017,Winter
+South Dakota,18.1,-7.7,1,2018,Winter
+South Dakota,11.6,-11.3,2,2018,Winter
+South Dakota,30.4,-0.9,3,2018,Spring
+South Dakota,36.7,2.6,4,2018,Spring
+South Dakota,62.1,16.7,5,2018,Spring
+South Dakota,69.3,20.7,6,2018,Summer
+South Dakota,72.2,22.3,7,2018,Summer
+South Dakota,70.0,21.1,8,2018,Summer
+South Dakota,61.5,16.4,9,2018,Fall
+South Dakota,43.2,6.2,10,2018,Fall
+South Dakota,29.3,-1.5,11,2018,Fall
+South Dakota,25.3,-3.7,12,2018,Winter
+South Dakota,18.1,-7.7,1,2019,Winter
+Tennessee,34.8,1.6,1,2016,Winter
+Tennessee,42.5,5.8,2,2016,Winter
+Tennessee,53.9,12.2,3,2016,Spring
+Tennessee,59.5,15.3,4,2016,Spring
+Tennessee,65.3,18.5,5,2016,Spring
+Tennessee,76.5,24.7,6,2016,Summer
+Tennessee,79.8,26.6,7,2016,Summer
+Tennessee,79.0,26.1,8,2016,Summer
+Tennessee,74.1,23.4,9,2016,Fall
+Tennessee,64.6,18.1,10,2016,Fall
+Tennessee,52.7,11.5,11,2016,Fall
+Tennessee,40.9,4.9,12,2016,Winter
+Tennessee,44.9,7.2,1,2017,Winter
+Tennessee,48.9,9.4,2,2017,Winter
+Tennessee,51.1,10.6,3,2017,Spring
+Tennessee,63.1,17.3,4,2017,Spring
+Tennessee,66.6,19.2,5,2017,Spring
+Tennessee,73.0,22.8,6,2017,Summer
+Tennessee,78.1,25.6,7,2017,Summer
+Tennessee,74.6,23.7,8,2017,Summer
+Tennessee,69.1,20.6,9,2017,Fall
+Tennessee,60.8,16.0,10,2017,Fall
+Tennessee,49.9,9.9,11,2017,Fall
+Tennessee,39.5,4.2,12,2017,Winter
+Tennessee,32.9,0.5,1,2018,Winter
+Tennessee,48.5,9.2,2,2018,Winter
+Tennessee,48.1,8.9,3,2018,Spring
+Tennessee,52.8,11.6,4,2018,Spring
+Tennessee,72.2,22.3,5,2018,Spring
+Tennessee,76.4,24.7,6,2018,Summer
+Tennessee,78.1,25.6,7,2018,Summer
+Tennessee,76.5,24.7,8,2018,Summer
+Tennessee,74.9,23.8,9,2018,Fall
+Tennessee,61.0,16.1,10,2018,Fall
+Tennessee,44.4,6.9,11,2018,Fall
+Tennessee,42.7,5.9,12,2018,Winter
+Tennessee,39.3,4.1,1,2019,Winter
+Texas,46.4,8.0,1,2016,Winter
+Texas,54.4,12.4,2,2016,Winter
+Texas,61.2,16.2,3,2016,Spring
+Texas,66.1,18.9,4,2016,Spring
+Texas,71.6,22.0,5,2016,Spring
+Texas,80.1,26.7,6,2016,Summer
+Texas,85.4,29.7,7,2016,Summer
+Texas,81.5,27.5,8,2016,Summer
+Texas,77.6,25.3,9,2016,Fall
+Texas,70.9,21.6,10,2016,Fall
+Texas,61.0,16.1,11,2016,Fall
+Texas,49.6,9.8,12,2016,Winter
+Texas,50.8,10.4,1,2017,Winter
+Texas,58.4,14.7,2,2017,Winter
+Texas,63.6,17.6,3,2017,Spring
+Texas,67.1,19.5,4,2017,Spring
+Texas,72.0,22.2,5,2017,Spring
+Texas,80.6,27.0,6,2017,Summer
+Texas,83.6,28.7,7,2017,Summer
+Texas,80.6,27.0,8,2017,Summer
+Texas,76.5,24.7,9,2017,Fall
+Texas,66.5,19.2,10,2017,Fall
+Texas,60.3,15.7,11,2017,Fall
+Texas,47.8,8.8,12,2017,Winter
+Texas,43.9,6.6,1,2018,Winter
+Texas,52.3,11.3,2,2018,Winter
+Texas,61.7,16.5,3,2018,Spring
+Texas,63.0,17.2,4,2018,Spring
+Texas,78.0,25.6,5,2018,Spring
+Texas,83.9,28.8,6,2018,Summer
+Texas,84.5,29.2,7,2018,Summer
+Texas,83.1,28.4,8,2018,Summer
+Texas,76.3,24.6,9,2018,Fall
+Texas,65.4,18.6,10,2018,Fall
+Texas,52.0,11.1,11,2018,Fall
+Texas,48.3,9.1,12,2018,Winter
+Texas,47.2,8.4,1,2019,Winter
+Utah,26.6,-3.0,1,2016,Winter
+Utah,33.7,0.9,2,2016,Winter
+Utah,42.2,5.7,3,2016,Spring
+Utah,47.9,8.8,4,2016,Spring
+Utah,54.4,12.4,5,2016,Spring
+Utah,70.9,21.6,6,2016,Summer
+Utah,73.7,23.2,7,2016,Summer
+Utah,70.1,21.2,8,2016,Summer
+Utah,61.1,16.2,9,2016,Fall
+Utah,53.2,11.8,10,2016,Fall
+Utah,41.6,5.3,11,2016,Fall
+Utah,27.4,-2.6,12,2016,Winter
+Utah,25.9,-3.4,1,2017,Winter
+Utah,36.5,2.5,2,2017,Winter
+Utah,45.3,7.4,3,2017,Spring
+Utah,46.0,7.8,4,2017,Spring
+Utah,55.6,13.1,5,2017,Spring
+Utah,69.5,20.8,6,2017,Summer
+Utah,75.0,23.9,7,2017,Summer
+Utah,71.6,22.0,8,2017,Summer
+Utah,60.7,15.9,9,2017,Fall
+Utah,48.1,8.9,10,2017,Fall
+Utah,43.0,6.1,11,2017,Fall
+Utah,31.4,-0.3,12,2017,Winter
+Utah,32.8,0.4,1,2018,Winter
+Utah,32.2,0.1,2,2018,Winter
+Utah,39.2,4.0,3,2018,Spring
+Utah,49.0,9.4,4,2018,Spring
+Utah,58.2,14.6,5,2018,Spring
+Utah,69.2,20.7,6,2018,Summer
+Utah,76.1,24.5,7,2018,Summer
+Utah,72.4,22.4,8,2018,Summer
+Utah,65.8,18.8,9,2018,Fall
+Utah,47.5,8.6,10,2018,Fall
+Utah,35.0,1.7,11,2018,Fall
+Utah,27.5,-2.5,12,2018,Winter
+Utah,27.0,-2.8,1,2019,Winter
+Vermont,20.9,-6.2,1,2016,Winter
+Vermont,23.9,-4.5,2,2016,Winter
+Vermont,33.6,0.9,3,2016,Spring
+Vermont,38.2,3.4,4,2016,Spring
+Vermont,54.0,12.2,5,2016,Spring
+Vermont,62.0,16.7,6,2016,Summer
+Vermont,67.4,19.7,7,2016,Summer
+Vermont,67.5,19.7,8,2016,Summer
+Vermont,59.9,15.5,9,2016,Fall
+Vermont,47.7,8.7,10,2016,Fall
+Vermont,36.8,2.7,11,2016,Fall
+Vermont,23.9,-4.5,12,2016,Winter
+Vermont,24.8,-4.0,1,2017,Winter
+Vermont,25.6,-3.6,2,2017,Winter
+Vermont,23.5,-4.7,3,2017,Spring
+Vermont,45.2,7.3,4,2017,Spring
+Vermont,51.8,11.0,5,2017,Spring
+Vermont,61.5,16.4,6,2017,Summer
+Vermont,65.2,18.4,7,2017,Summer
+Vermont,63.3,17.4,8,2017,Summer
+Vermont,60.8,16.0,9,2017,Fall
+Vermont,53.0,11.7,10,2017,Fall
+Vermont,33.0,0.6,11,2017,Fall
+Vermont,17.9,-7.8,12,2017,Winter
+Vermont,16.5,-8.6,1,2018,Winter
+Vermont,25.5,-3.6,2,2018,Winter
+Vermont,28.2,-2.1,3,2018,Spring
+Vermont,36.1,2.3,4,2018,Spring
+Vermont,56.4,13.6,5,2018,Spring
+Vermont,60.1,15.6,6,2018,Summer
+Vermont,69.2,20.7,7,2018,Summer
+Vermont,68.4,20.2,8,2018,Summer
+Vermont,60.7,15.9,9,2018,Fall
+Vermont,44.5,6.9,10,2018,Fall
+Vermont,30.2,-1.0,11,2018,Fall
+Vermont,23.0,-5.0,12,2018,Winter
+Vermont,14.9,-9.5,1,2019,Winter
+Virginia,33.1,0.6,1,2016,Winter
+Virginia,38.4,3.6,2,2016,Winter
+Virginia,51.8,11.0,3,2016,Spring
+Virginia,55.1,12.8,4,2016,Spring
+Virginia,61.9,16.6,5,2016,Spring
+Virginia,71.8,22.1,6,2016,Summer
+Virginia,77.3,25.2,7,2016,Summer
+Virginia,77.0,25.0,8,2016,Summer
+Virginia,71.8,22.1,9,2016,Fall
+Virginia,59.8,15.4,10,2016,Fall
+Virginia,48.3,9.1,11,2016,Fall
+Virginia,39.1,3.9,12,2016,Winter
+Virginia,40.1,4.5,1,2017,Winter
+Virginia,46.0,7.8,2,2017,Winter
+Virginia,45.9,7.7,3,2017,Spring
+Virginia,60.6,15.9,4,2017,Spring
+Virginia,63.4,17.4,5,2017,Spring
+Virginia,71.2,21.8,6,2017,Summer
+Virginia,76.8,24.9,7,2017,Summer
+Virginia,72.8,22.7,8,2017,Summer
+Virginia,67.4,19.7,9,2017,Fall
+Virginia,60.2,15.7,10,2017,Fall
+Virginia,46.1,7.8,11,2017,Fall
+Virginia,37.2,2.9,12,2017,Winter
+Virginia,31.8,-0.1,1,2018,Winter
+Virginia,45.1,7.3,2,2018,Winter
+Virginia,41.2,5.1,3,2018,Spring
+Virginia,52.2,11.2,4,2018,Spring
+Virginia,69.8,21.0,5,2018,Spring
+Virginia,73.2,22.9,6,2018,Summer
+Virginia,75.1,23.9,7,2018,Summer
+Virginia,75.3,24.1,8,2018,Summer
+Virginia,72.9,22.7,9,2018,Fall
+Virginia,59.0,15.0,10,2018,Fall
+Virginia,43.8,6.6,11,2018,Fall
+Virginia,39.7,4.3,12,2018,Winter
+Virginia,36.3,2.4,1,2019,Winter
+Washington,33.0,0.6,1,2016,Winter
+Washington,39.1,3.9,2,2016,Winter
+Washington,41.8,5.4,3,2016,Spring
+Washington,51.6,10.9,4,2016,Spring
+Washington,55.1,12.8,5,2016,Spring
+Washington,59.9,15.5,6,2016,Summer
+Washington,63.6,17.6,7,2016,Summer
+Washington,65.9,18.8,8,2016,Summer
+Washington,56.4,13.6,9,2016,Fall
+Washington,47.4,8.6,10,2016,Fall
+Washington,43.0,6.1,11,2016,Fall
+Washington,26.1,-3.3,12,2016,Winter
+Washington,24.8,-4.0,1,2017,Winter
+Washington,31.0,-0.6,2,2017,Winter
+Washington,39.3,4.1,3,2017,Spring
+Washington,44.2,6.8,4,2017,Spring
+Washington,53.7,12.1,5,2017,Spring
+Washington,59.5,15.3,6,2017,Summer
+Washington,67.1,19.5,7,2017,Summer
+Washington,68.6,20.3,8,2017,Summer
+Washington,59.8,15.4,9,2017,Fall
+Washington,46.2,7.9,10,2017,Fall
+Washington,37.7,3.2,11,2017,Fall
+Washington,29.9,-1.2,12,2017,Winter
+Washington,35.3,1.8,1,2018,Winter
+Washington,32.4,0.2,2,2018,Winter
+Washington,38.7,3.7,3,2018,Spring
+Washington,45.2,7.3,4,2018,Spring
+Washington,57.5,14.2,5,2018,Spring
+Washington,58.2,14.6,6,2018,Summer
+Washington,67.4,19.7,7,2018,Summer
+Washington,66.0,18.9,8,2018,Summer
+Washington,56.4,13.6,9,2018,Fall
+Washington,47.4,8.6,10,2018,Fall
+Washington,38.6,3.7,11,2018,Fall
+Washington,33.1,0.6,12,2018,Winter
+Washington,34.2,1.2,1,2019,Winter
+West Virginia,27.6,-2.4,1,2016,Winter
+West Virginia,34.9,1.6,2,2016,Winter
+West Virginia,48.5,9.2,3,2016,Spring
+West Virginia,53.0,11.7,4,2016,Spring
+West Virginia,59.5,15.3,5,2016,Spring
+West Virginia,69.5,20.8,6,2016,Summer
+West Virginia,73.7,23.2,7,2016,Summer
+West Virginia,75.1,23.9,8,2016,Summer
+West Virginia,69.4,20.8,9,2016,Fall
+West Virginia,57.3,14.1,10,2016,Fall
+West Virginia,45.6,7.6,11,2016,Fall
+West Virginia,35.6,2.0,12,2016,Winter
+West Virginia,37.5,3.1,1,2017,Winter
+West Virginia,42.1,5.6,2,2017,Winter
+West Virginia,42.3,5.7,3,2017,Spring
+West Virginia,57.5,14.2,4,2017,Spring
+West Virginia,61.0,16.1,5,2017,Spring
+West Virginia,67.7,19.8,6,2017,Summer
+West Virginia,72.4,22.4,7,2017,Summer
+West Virginia,69.3,20.7,8,2017,Summer
+West Virginia,64.6,18.1,9,2017,Fall
+West Virginia,57.5,14.2,10,2017,Fall
+West Virginia,43.2,6.2,11,2017,Fall
+West Virginia,33.0,0.6,12,2017,Winter
+West Virginia,27.0,-2.8,1,2018,Winter
+West Virginia,41.7,5.4,2,2018,Winter
+West Virginia,38.0,3.3,3,2018,Spring
+West Virginia,47.7,8.7,4,2018,Spring
+West Virginia,67.9,19.9,5,2018,Spring
+West Virginia,70.1,21.2,6,2018,Summer
+West Virginia,72.5,22.5,7,2018,Summer
+West Virginia,72.4,22.4,8,2018,Summer
+West Virginia,70.4,21.3,9,2018,Fall
+West Virginia,55.3,12.9,10,2018,Fall
+West Virginia,40.0,4.4,11,2018,Fall
+West Virginia,36.8,2.7,12,2018,Winter
+West Virginia,32.0,0.0,1,2019,Winter
+Wisconsin,16.2,-8.8,1,2016,Winter
+Wisconsin,22.6,-5.2,2,2016,Winter
+Wisconsin,36.8,2.7,3,2016,Spring
+Wisconsin,42.9,6.1,4,2016,Spring
+Wisconsin,56.1,13.4,5,2016,Spring
+Wisconsin,65.8,18.8,6,2016,Summer
+Wisconsin,69.9,21.1,7,2016,Summer
+Wisconsin,69.5,20.8,8,2016,Summer
+Wisconsin,62.6,17.0,9,2016,Fall
+Wisconsin,50.4,10.2,10,2016,Fall
+Wisconsin,41.6,5.3,11,2016,Fall
+Wisconsin,19.9,-6.7,12,2016,Winter
+Wisconsin,19.4,-7.0,1,2017,Winter
+Wisconsin,27.8,-2.3,2,2017,Winter
+Wisconsin,30.2,-1.0,3,2017,Spring
+Wisconsin,46.4,8.0,4,2017,Spring
+Wisconsin,53.3,11.8,5,2017,Spring
+Wisconsin,65.6,18.7,6,2017,Summer
+Wisconsin,68.8,20.4,7,2017,Summer
+Wisconsin,64.2,17.9,8,2017,Summer
+Wisconsin,62.2,16.8,9,2017,Fall
+Wisconsin,50.0,10.0,10,2017,Fall
+Wisconsin,31.4,-0.3,11,2017,Fall
+Wisconsin,17.3,-8.2,12,2017,Winter
+Wisconsin,15.2,-9.3,1,2018,Winter
+Wisconsin,16.1,-8.8,2,2018,Winter
+Wisconsin,29.7,-1.3,3,2018,Spring
+Wisconsin,33.5,0.8,4,2018,Spring
+Wisconsin,62.0,16.7,5,2018,Spring
+Wisconsin,66.5,19.2,6,2018,Summer
+Wisconsin,69.8,21.0,7,2018,Summer
+Wisconsin,68.5,20.3,8,2018,Summer
+Wisconsin,61.3,16.3,9,2018,Fall
+Wisconsin,43.6,6.4,10,2018,Fall
+Wisconsin,27.3,-2.6,11,2018,Fall
+Wisconsin,25.1,-3.8,12,2018,Winter
+Wisconsin,13.1,-10.5,1,2019,Winter
+Wyoming,22.7,-5.2,1,2016,Winter
+Wyoming,30.1,-1.1,2,2016,Winter
+Wyoming,34.5,1.4,3,2016,Spring
+Wyoming,41.8,5.4,4,2016,Spring
+Wyoming,47.9,8.8,5,2016,Spring
+Wyoming,63.8,17.7,6,2016,Summer
+Wyoming,66.8,19.3,7,2016,Summer
+Wyoming,63.5,17.5,8,2016,Summer
+Wyoming,55.4,13.0,9,2016,Fall
+Wyoming,46.5,8.1,10,2016,Fall
+Wyoming,37.1,2.8,11,2016,Fall
+Wyoming,16.8,-8.4,12,2016,Winter
+Wyoming,16.7,-8.5,1,2017,Winter
+Wyoming,27.8,-2.3,2,2017,Winter
+Wyoming,38.4,3.6,3,2017,Spring
+Wyoming,40.1,4.5,4,2017,Spring
+Wyoming,49.2,9.6,5,2017,Spring
+Wyoming,60.0,15.6,6,2017,Summer
+Wyoming,68.9,20.5,7,2017,Summer
+Wyoming,63.5,17.5,8,2017,Summer
+Wyoming,54.2,12.3,9,2017,Fall
+Wyoming,41.1,5.1,10,2017,Fall
+Wyoming,34.7,1.5,11,2017,Fall
+Wyoming,23.8,-4.6,12,2017,Winter
+Wyoming,25.1,-3.8,1,2018,Winter
+Wyoming,19.3,-7.1,2,2018,Winter
+Wyoming,32.3,0.2,3,2018,Spring
+Wyoming,39.8,4.3,4,2018,Spring
+Wyoming,52.9,11.6,5,2018,Spring
+Wyoming,60.4,15.8,6,2018,Summer
+Wyoming,67.3,19.6,7,2018,Summer
+Wyoming,63.5,17.5,8,2018,Summer
+Wyoming,57.2,14.0,9,2018,Fall
+Wyoming,41.0,5.0,10,2018,Fall
+Wyoming,28.5,-1.9,11,2018,Fall
+Wyoming,21.4,-5.9,12,2018,Winter
+Wyoming,22.1,-5.5,1,2019,Winter
+Alaska,17.2,-8.2,1,2016,Winter
+Alaska,17.3,-8.2,2,2016,Winter
+Alaska,18.7,-7.4,3,2016,Spring
+Alaska,33.3,0.7,4,2016,Spring
+Alaska,44.0,6.7,5,2016,Spring
+Alaska,51.8,11.0,6,2016,Summer
+Alaska,55.6,13.1,7,2016,Summer
+Alaska,53.2,11.8,8,2016,Summer
+Alaska,42.3,5.7,9,2016,Fall
+Alaska,29.7,-1.3,10,2016,Fall
+Alaska,13.3,-10.4,11,2016,Fall
+Alaska,6.2,-14.3,12,2016,Winter
+Alaska,4.5,-15.3,1,2017,Winter
+Alaska,6.6,-14.1,2,2017,Winter
+Alaska,4.9,-15.1,3,2017,Spring
+Alaska,29.6,-1.3,4,2017,Spring
+Alaska,40.8,4.9,5,2017,Spring
+Alaska,51.4,10.8,6,2017,Summer
+Alaska,56.2,13.4,7,2017,Summer
+Alaska,50.2,10.1,8,2017,Summer
+Alaska,42.6,5.9,9,2017,Fall
+Alaska,30.2,-1.0,10,2017,Fall
+Alaska,15.8,-9.0,11,2017,Fall
+Alaska,19.1,-7.2,12,2017,Winter
+Alaska,6.6,-14.1,1,2018,Winter
+Alaska,12.6,-10.8,2,2018,Winter
+Alaska,18.0,-7.8,3,2018,Spring
+Alaska,26.9,-2.8,4,2018,Spring
+Alaska,39.5,4.2,5,2018,Spring
+Alaska,50.0,10.0,6,2018,Summer
+Alaska,55.6,13.1,7,2018,Summer
+Alaska,49.7,9.8,8,2018,Summer
+Alaska,44.3,6.8,9,2018,Fall
+Alaska,33.8,1.0,10,2018,Fall
+Alaska,19.1,-7.2,11,2018,Fall
+Alaska,9.1,-12.7,12,2018,Winter
+Alaska,7.6,-13.6,1,2019,Winter
