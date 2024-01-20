@@ -11,3 +11,19 @@ Data ethics encompasses the moral obligation in collecting, protecting, sharing 
 
 
 
+## Data Visualization Track
+For this track, our group is presenting using data visualizations. Here are the specific requirements:
+1.	Our project includes visualizations created with:
+  -Python (Matplotlib)
+  -JavaScript ( Plotly )
+  -Streamlit as visualization that was not covered in class. 
+4.	Data was extracted from PostgreSQL and SQLite
+5.	Our project includes Streamlit as the library that we did not cover.
+6.	Data is powered by a dataset with over 100 records.
+7.	This project includes a user-driven interaction.
+8.	The final visualization includes multiple views.
+
+## Work Cited
+The Devastator. “US Travel Check – Ins – Analysis. In Depth Study of Location, Date, Temperature, USindex, and Crime Rates.” nd.  https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis?select=Temperature.csv
+	
+
