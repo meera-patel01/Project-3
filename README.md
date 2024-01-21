@@ -7,9 +7,9 @@ We gathered temperature, location, date, and crime data to create a website with
 ## Ethical Considerations 
 Data ethics encompasses the moral obligation in collecting, protecting, sharing and using data. Researchers must consider the rights and privacy of individuals whose data is being collected. Ethical considerations that we took into account when collecting our data include:
 -	Respect ethical guidelines and privacy concerns when using datasets. 
--	Ensure that research complies with data protection regulations and that users do not misuse or misrepresent the data. 
+-	Complies with data protection regulations and users do not misuse or misrepresent the data. 
 -	Be transparent about any limitations or biases in the dataset.
--	Crediting original author of the data
+-	Crediting original author of the data.
   
 While most data posted on social media platforms like Instagram, is assumed to be in the public domain as users agree to allow third parties to use data when agreeing to the terms of use; there were ethical considerations taken into account such as users’ name privacy and safety. 
 
