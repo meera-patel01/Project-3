@@ -10,6 +10,7 @@ Data ethics encompasses the moral obligation in collecting, protecting, sharing 
 -	Ensure that research complies with data protection regulations and that users do not misuse or misrepresent the data. 
 -	Be transparent about any limitations or biases in the dataset.
 -	Crediting original author of the data
+  
 While most data posted on social media platforms like Instagram, is assumed to be in the public domain as users agree to allow third parties to use data when agreeing to the terms of use; there were ethical considerations taken into account such as users’ name privacy and safety. 
 
 
