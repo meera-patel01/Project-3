@@ -1,5 +1,7 @@
 # Project-3
 
+## Project Summary
+We gathered temperature, location, date, and crime data to create a website with interactive dropdowns and tools to visualize the given data inputs. Our Project 3 objectives were to gather weather and travel information to analyze travel trends and data from 2016-2018 and draw correlations and connections to see if weather, crime or time of year influence travelers' decisions on where to go during a given time.
 
 
 ## Ethical Considerations 
