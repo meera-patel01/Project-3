@@ -1,9 +1,7 @@
 # Project-3
 
 ## Project Summary
-The dataset we collected provided a comprehensive analysis into US travel check-ins from Instagram. It includes extensive data scraped from Instagram, such as the location of check-in, crime rate per state, average temperature, latitude and longitude coordinates for every entry. This data helped us discover the ever-changing trends on how travelers choose their vacation destinations.
-
-Our project 3 objectives were to analyze the data we’ve collected from 2016-2018 and draw correlations and connections to see if weather, crime rate, or time of year influence traveler’s decisions on where to go during a given time. We created a website with interactive dropdowns and tools to visualize the given data inputs. 
+The dataset we collected provided a comprehensive analysis into US travel check-ins from Instagram. It includes extensive data scraped from Instagram, such as the location of check-in, crime rate per state, average temperature, latitude and longitude coordinates for every entry. This data helped us discover the ever-changing trends on how travelers choose their vacation destinations. We created a website with interactive dropdowns and tools to visualize the given data inputs. 
 
 ## Navigating the Website
 1.	Install Streamlit and Folium
