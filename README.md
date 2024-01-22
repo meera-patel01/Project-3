@@ -40,6 +40,7 @@ For this track, our group is presenting using data visualizations. Here are the 
 8.	The final visualization includes multiple views.
 
 ## Work Cited
+### Data
 The Devastator. “US Travel Check – Ins – Analysis. In Depth Study of Location, Date, Temperature, USindex, and Crime Rates.” nd.  https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis?select=Temperature.csv
 
 ### Python Libraries
