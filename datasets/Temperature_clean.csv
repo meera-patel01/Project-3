@@ -1,0 +1,1814 @@
+State,Temp in F,Temp in C,Month,Year,Season
+Alabama,43.0,6.1,1,2016,Winter
+Alabama,49.8,9.9,2,2016,Winter
+Alabama,59.7,15.4,3,2016,Spring
+Alabama,63.6,17.6,4,2016,Spring
+Alabama,70.2,21.2,5,2016,Spring
+Alabama,79.2,26.2,6,2016,Summer
+Alabama,82.0,27.8,7,2016,Summer
+Alabama,81.6,27.6,8,2016,Summer
+Alabama,78.6,25.9,9,2016,Fall
+Alabama,68.5,20.3,10,2016,Fall
+Alabama,57.8,14.3,11,2016,Fall
+Alabama,50.1,10.1,12,2016,Winter
+Alabama,52.4,11.3,1,2017,Winter
+Alabama,55.6,13.1,2,2017,Winter
+Alabama,58.4,14.7,3,2017,Spring
+Alabama,67.2,19.6,4,2017,Spring
+Alabama,69.9,21.1,5,2017,Spring
+Alabama,75.8,24.3,6,2017,Summer
+Alabama,80.6,27.0,7,2017,Summer
+Alabama,78.8,26.0,8,2017,Summer
+Alabama,73.4,23.0,9,2017,Fall
+Alabama,65.8,18.8,10,2017,Fall
+Alabama,55.6,13.1,11,2017,Fall
+Alabama,46.9,8.3,12,2017,Winter
+Alabama,40.4,4.7,1,2018,Winter
+Alabama,58.0,14.4,2,2018,Winter
+Alabama,55.3,12.9,3,2018,Spring
+Alabama,59.4,15.2,4,2018,Spring
+Alabama,74.5,23.6,5,2018,Spring
+Alabama,79.3,26.3,6,2018,Summer
+Alabama,80.7,27.1,7,2018,Summer
+Alabama,79.5,26.4,8,2018,Summer
+Alabama,79.4,26.3,9,2018,Fall
+Alabama,67.5,19.7,10,2018,Fall
+Alabama,50.3,10.2,11,2018,Fall
+Alabama,49.0,9.4,12,2018,Winter
+Alabama,46.5,8.1,1,2019,Winter
+Arizona,41.8,5.4,1,2016,Winter
+Arizona,50.6,10.3,2,2016,Winter
+Arizona,54.9,12.7,3,2016,Spring
+Arizona,58.5,14.7,4,2016,Spring
+Arizona,64.6,18.1,5,2016,Spring
+Arizona,80.3,26.8,6,2016,Summer
+Arizona,82.4,28.0,7,2016,Summer
+Arizona,77.5,25.3,8,2016,Summer
+Arizona,71.6,22.0,9,2016,Fall
+Arizona,66.1,18.9,10,2016,Fall
+Arizona,53.1,11.7,11,2016,Fall
+Arizona,44.7,7.1,12,2016,Winter
+Arizona,42.3,5.7,1,2017,Winter
+Arizona,49.4,9.7,2,2017,Winter
+Arizona,56.6,13.7,3,2017,Spring
+Arizona,59.9,15.5,4,2017,Spring
+Arizona,66.1,18.9,5,2017,Spring
+Arizona,79.8,26.6,6,2017,Summer
+Arizona,81.5,27.5,7,2017,Summer
+Arizona,79.1,26.2,8,2017,Summer
+Arizona,72.4,22.4,9,2017,Fall
+Arizona,65.1,18.4,10,2017,Fall
+Arizona,57.6,14.2,11,2017,Fall
+Arizona,46.6,8.1,12,2017,Winter
+Arizona,47.6,8.7,1,2018,Winter
+Arizona,46.8,8.2,2,2018,Winter
+Arizona,52.3,11.3,3,2018,Spring
+Arizona,62.9,17.2,4,2018,Spring
+Arizona,68.5,20.3,5,2018,Spring
+Arizona,78.6,25.9,6,2018,Summer
+Arizona,82.2,27.9,7,2018,Summer
+Arizona,80.2,26.8,8,2018,Summer
+Arizona,76.0,24.4,9,2018,Fall
+Arizona,59.9,15.5,10,2018,Fall
+Arizona,49.4,9.7,11,2018,Fall
+Arizona,42.8,6.0,12,2018,Winter
+Arizona,42.4,5.8,1,2019,Winter
+Arkansas,39.5,4.2,1,2016,Winter
+Arkansas,46.9,8.3,2,2016,Winter
+Arkansas,55.5,13.1,3,2016,Spring
+Arkansas,62.5,16.9,4,2016,Spring
+Arkansas,67.2,19.6,5,2016,Spring
+Arkansas,78.9,26.1,6,2016,Summer
+Arkansas,82.0,27.8,7,2016,Summer
+Arkansas,80.0,26.7,8,2016,Summer
+Arkansas,75.8,24.3,9,2016,Fall
+Arkansas,67.0,19.4,10,2016,Fall
+Arkansas,55.7,13.2,11,2016,Fall
+Arkansas,42.5,5.8,12,2016,Winter
+Arkansas,45.2,7.3,1,2017,Winter
+Arkansas,52.5,11.4,2,2017,Winter
+Arkansas,55.7,13.2,3,2017,Spring
+Arkansas,64.2,17.9,4,2017,Spring
+Arkansas,67.7,19.8,5,2017,Spring
+Arkansas,75.5,24.2,6,2017,Summer
+Arkansas,80.6,27.0,7,2017,Summer
+Arkansas,76.9,24.9,8,2017,Summer
+Arkansas,73.2,22.9,9,2017,Fall
+Arkansas,62.9,17.2,10,2017,Fall
+Arkansas,53.7,12.1,11,2017,Fall
+Arkansas,42.4,5.8,12,2017,Winter
+Arkansas,35.7,2.1,1,2018,Winter
+Arkansas,45.9,7.7,2,2018,Winter
+Arkansas,53.9,12.2,3,2018,Spring
+Arkansas,55.2,12.9,4,2018,Spring
+Arkansas,75.0,23.9,5,2018,Spring
+Arkansas,80.1,26.7,6,2018,Summer
+Arkansas,81.8,27.7,7,2018,Summer
+Arkansas,78.8,26.0,8,2018,Summer
+Arkansas,75.0,23.9,9,2018,Fall
+Arkansas,62.6,17.0,10,2018,Fall
+Arkansas,45.8,7.7,11,2018,Fall
+Arkansas,44.2,6.8,12,2018,Winter
+Arkansas,40.8,4.9,1,2019,Winter
+California,44.5,6.9,1,2016,Winter
+California,51.8,11.0,2,2016,Winter
+California,52.5,11.4,3,2016,Spring
+California,57.9,14.4,4,2016,Spring
+California,62.2,16.8,5,2016,Spring
+California,73.5,23.1,6,2016,Summer
+California,76.8,24.9,7,2016,Summer
+California,76.2,24.6,8,2016,Summer
+California,69.5,20.8,9,2016,Fall
+California,60.5,15.8,10,2016,Fall
+California,52.8,11.6,11,2016,Fall
+California,43.4,6.3,12,2016,Winter
+California,42.2,5.7,1,2017,Winter
+California,47.3,8.5,2,2017,Winter
+California,53.4,11.9,3,2017,Spring
+California,55.6,13.1,4,2017,Spring
+California,63.4,17.4,5,2017,Spring
+California,72.8,22.7,6,2017,Summer
+California,78.8,26.0,7,2017,Summer
+California,77.9,25.5,8,2017,Summer
+California,69.8,21.0,9,2017,Fall
+California,62.0,16.7,10,2017,Fall
+California,53.4,11.9,11,2017,Fall
+California,47.5,8.6,12,2017,Winter
+California,48.8,9.3,1,2018,Winter
+California,46.5,8.1,2,2018,Winter
+California,48.9,9.4,3,2018,Spring
+California,57.1,13.9,4,2018,Spring
+California,63.0,17.2,5,2018,Spring
+California,71.4,21.9,6,2018,Summer
+California,79.6,26.4,7,2018,Summer
+California,76.4,24.7,8,2018,Summer
+California,71.1,21.7,9,2018,Fall
+California,60.9,16.1,10,2018,Fall
+California,52.6,11.4,11,2018,Fall
+California,44.7,7.1,12,2018,Winter
+California,46.0,7.8,1,2019,Winter
+Colorado,25.6,-3.6,1,2016,Winter
+Colorado,32.4,0.2,2,2016,Winter
+Colorado,37.9,3.3,3,2016,Spring
+Colorado,43.7,6.5,4,2016,Spring
+Colorado,50.8,10.4,5,2016,Spring
+Colorado,66.4,19.1,6,2016,Summer
+Colorado,69.2,20.7,7,2016,Summer
+Colorado,64.5,18.1,8,2016,Summer
+Colorado,59.7,15.4,9,2016,Fall
+Colorado,51.8,11.0,10,2016,Fall
+Colorado,40.2,4.6,11,2016,Fall
+Colorado,25.2,-3.8,12,2016,Winter
+Colorado,25.3,-3.7,1,2017,Winter
+Colorado,35.4,1.9,2,2017,Winter
+Colorado,42.5,5.8,3,2017,Spring
+Colorado,44.3,6.8,4,2017,Spring
+Colorado,51.5,10.8,5,2017,Spring
+Colorado,64.8,18.2,6,2017,Summer
+Colorado,69.4,20.8,7,2017,Summer
+Colorado,64.7,18.2,8,2017,Summer
+Colorado,59.1,15.1,9,2017,Fall
+Colorado,46.7,8.2,10,2017,Fall
+Colorado,41.3,5.2,11,2017,Fall
+Colorado,30.1,-1.1,12,2017,Winter
+Colorado,29.7,-1.3,1,2018,Winter
+Colorado,28.6,-1.9,2,2018,Winter
+Colorado,37.8,3.2,3,2018,Spring
+Colorado,43.9,6.6,4,2018,Spring
+Colorado,57.2,14.0,5,2018,Spring
+Colorado,66.4,19.1,6,2018,Summer
+Colorado,69.9,21.1,7,2018,Summer
+Colorado,66.2,19.0,8,2018,Summer
+Colorado,61.8,16.6,9,2018,Fall
+Colorado,45.0,7.2,10,2018,Fall
+Colorado,32.6,0.3,11,2018,Fall
+Colorado,26.6,-3.0,12,2018,Winter
+Colorado,25.9,-3.4,1,2019,Winter
+Connecticut,29.7,-1.3,1,2016,Winter
+Connecticut,32.0,0.0,2,2016,Winter
+Connecticut,43.2,6.2,3,2016,Spring
+Connecticut,46.8,8.2,4,2016,Spring
+Connecticut,58.4,14.7,5,2016,Spring
+Connecticut,67.4,19.7,6,2016,Summer
+Connecticut,74.1,23.4,7,2016,Summer
+Connecticut,73.9,23.3,8,2016,Summer
+Connecticut,66.2,19.0,9,2016,Fall
+Connecticut,53.5,11.9,10,2016,Fall
+Connecticut,43.5,6.4,11,2016,Fall
+Connecticut,32.6,0.3,12,2016,Winter
+Connecticut,32.7,0.4,1,2017,Winter
+Connecticut,34.6,1.4,2,2017,Winter
+Connecticut,33.4,0.8,3,2017,Spring
+Connecticut,51.8,11.0,4,2017,Spring
+Connecticut,56.7,13.7,5,2017,Spring
+Connecticut,67.0,19.4,6,2017,Summer
+Connecticut,71.5,21.9,7,2017,Summer
+Connecticut,69.1,20.6,8,2017,Summer
+Connecticut,66.0,18.9,9,2017,Fall
+Connecticut,58.6,14.8,10,2017,Fall
+Connecticut,41.0,5.0,11,2017,Fall
+Connecticut,28.7,-1.8,12,2017,Winter
+Connecticut,25.4,-3.7,1,2018,Winter
+Connecticut,35.6,2.0,2,2018,Winter
+Connecticut,36.4,2.4,3,2018,Spring
+Connecticut,43.4,6.3,4,2018,Spring
+Connecticut,62.1,16.7,5,2018,Spring
+Connecticut,66.3,19.1,6,2018,Summer
+Connecticut,73.9,23.3,7,2018,Summer
+Connecticut,74.3,23.5,8,2018,Summer
+Connecticut,66.1,18.9,9,2018,Fall
+Connecticut,52.3,11.3,10,2018,Fall
+Connecticut,39.1,3.9,11,2018,Fall
+Connecticut,33.9,1.1,12,2018,Winter
+Connecticut,27.1,-2.7,1,2019,Winter
+Delaware,34.3,1.3,1,2016,Winter
+Delaware,38.5,3.6,2,2016,Winter
+Delaware,49.7,9.8,3,2016,Spring
+Delaware,53.1,11.7,4,2016,Spring
+Delaware,61.7,16.5,5,2016,Spring
+Delaware,72.4,22.4,6,2016,Summer
+Delaware,79.6,26.4,7,2016,Summer
+Delaware,78.6,25.9,8,2016,Summer
+Delaware,72.0,22.2,9,2016,Fall
+Delaware,60.3,15.7,10,2016,Fall
+Delaware,49.0,9.4,11,2016,Fall
+Delaware,39.2,4.0,12,2016,Winter
+Delaware,39.1,3.9,1,2017,Winter
+Delaware,44.4,6.9,2,2017,Winter
+Delaware,43.8,6.6,3,2017,Spring
+Delaware,59.6,15.3,4,2017,Spring
+Delaware,62.8,17.1,5,2017,Spring
+Delaware,73.6,23.1,6,2017,Summer
+Delaware,78.4,25.8,7,2017,Summer
+Delaware,74.0,23.3,8,2017,Summer
+Delaware,69.8,21.0,9,2017,Fall
+Delaware,62.4,16.9,10,2017,Fall
+Delaware,47.5,8.6,11,2017,Fall
+Delaware,36.1,2.3,12,2017,Winter
+Delaware,32.4,0.2,1,2018,Winter
+Delaware,42.8,6.0,2,2018,Winter
+Delaware,40.2,4.6,3,2018,Spring
+Delaware,51.2,10.7,4,2018,Spring
+Delaware,67.9,19.9,5,2018,Spring
+Delaware,72.6,22.6,6,2018,Summer
+Delaware,77.2,25.1,7,2018,Summer
+Delaware,78.5,25.8,8,2018,Summer
+Delaware,73.2,22.9,9,2018,Fall
+Delaware,59.8,15.4,10,2018,Fall
+Delaware,45.0,7.2,11,2018,Fall
+Delaware,40.8,4.9,12,2018,Winter
+Delaware,34.6,1.4,1,2019,Winter
+Florida,56.9,13.8,1,2016,Winter
+Florida,59.4,15.2,2,2016,Winter
+Florida,68.8,20.4,3,2016,Spring
+Florida,71.2,21.8,4,2016,Spring
+Florida,76.2,24.6,5,2016,Spring
+Florida,81.9,27.7,6,2016,Summer
+Florida,84.0,28.9,7,2016,Summer
+Florida,83.0,28.3,8,2016,Summer
+Florida,81.1,27.3,9,2016,Fall
+Florida,74.6,23.7,10,2016,Fall
+Florida,66.6,19.2,11,2016,Fall
+Florida,65.9,18.8,12,2016,Winter
+Florida,62.8,17.1,1,2017,Winter
+Florida,65.5,18.6,2,2017,Winter
+Florida,66.2,19.0,3,2017,Spring
+Florida,72.3,22.4,4,2017,Spring
+Florida,77.1,25.1,5,2017,Spring
+Florida,80.2,26.8,6,2017,Summer
+Florida,82.8,28.2,7,2017,Summer
+Florida,82.8,28.2,8,2017,Summer
+Florida,80.4,26.9,9,2017,Fall
+Florida,74.9,23.8,10,2017,Fall
+Florida,67.4,19.7,11,2017,Fall
+Florida,61.7,16.5,12,2017,Winter
+Florida,55.0,12.8,1,2018,Winter
+Florida,69.2,20.7,2,2018,Winter
+Florida,63.0,17.2,3,2018,Spring
+Florida,70.2,21.2,4,2018,Spring
+Florida,76.5,24.7,5,2018,Spring
+Florida,81.6,27.6,6,2018,Summer
+Florida,82.4,28.0,7,2018,Summer
+Florida,82.2,27.9,8,2018,Summer
+Florida,82.3,27.9,9,2018,Fall
+Florida,76.5,24.7,10,2018,Fall
+Florida,66.8,19.3,11,2018,Fall
+Florida,61.8,16.6,12,2018,Winter
+Florida,58.5,14.7,1,2019,Winter
+Georgia,44.4,6.9,1,2016,Winter
+Georgia,50.0,10.0,2,2016,Winter
+Georgia,60.9,16.1,3,2016,Spring
+Georgia,63.9,17.7,4,2016,Spring
+Georgia,70.8,21.6,5,2016,Spring
+Georgia,79.7,26.5,6,2016,Summer
+Georgia,82.8,28.2,7,2016,Summer
+Georgia,81.6,27.6,8,2016,Summer
+Georgia,77.5,25.3,9,2016,Fall
+Georgia,67.8,19.9,10,2016,Fall
+Georgia,58.0,14.4,11,2016,Fall
+Georgia,52.1,11.2,12,2016,Winter
+Georgia,53.2,11.8,1,2017,Winter
+Georgia,56.5,13.6,2,2017,Winter
+Georgia,58.0,14.4,3,2017,Spring
+Georgia,67.5,19.7,4,2017,Spring
+Georgia,71.4,21.9,5,2017,Spring
+Georgia,76.6,24.8,6,2017,Summer
+Georgia,80.6,27.0,7,2017,Summer
+Georgia,79.4,26.3,8,2017,Summer
+Georgia,74.0,23.3,9,2017,Fall
+Georgia,67.0,19.4,10,2017,Fall
+Georgia,56.4,13.6,11,2017,Fall
+Georgia,49.3,9.6,12,2017,Winter
+Georgia,42.4,5.8,1,2018,Winter
+Georgia,59.1,15.1,2,2018,Winter
+Georgia,54.5,12.5,3,2018,Spring
+Georgia,60.5,15.8,4,2018,Spring
+Georgia,73.7,23.2,5,2018,Spring
+Georgia,79.3,26.3,6,2018,Summer
+Georgia,80.1,26.7,7,2018,Summer
+Georgia,79.3,26.3,8,2018,Summer
+Georgia,79.8,26.6,9,2018,Fall
+Georgia,68.3,20.2,10,2018,Fall
+Georgia,53.2,11.8,11,2018,Fall
+Georgia,50.2,10.1,12,2018,Winter
+Georgia,48.2,9.0,1,2019,Winter
+Idaho,25.8,-3.4,1,2016,Winter
+Idaho,31.9,-0.1,2,2016,Winter
+Idaho,37.0,2.8,3,2016,Spring
+Idaho,47.0,8.3,4,2016,Spring
+Idaho,50.6,10.3,5,2016,Spring
+Idaho,61.2,16.2,6,2016,Summer
+Idaho,64.8,18.2,7,2016,Summer
+Idaho,64.7,18.2,8,2016,Summer
+Idaho,54.6,12.6,9,2016,Fall
+Idaho,45.7,7.6,10,2016,Fall
+Idaho,38.7,3.7,11,2016,Fall
+Idaho,19.1,-7.2,12,2016,Winter
+Idaho,18.5,-7.5,1,2017,Winter
+Idaho,29.5,-1.4,2,2017,Winter
+Idaho,38.5,3.6,3,2017,Spring
+Idaho,40.3,4.6,4,2017,Spring
+Idaho,50.6,10.3,5,2017,Spring
+Idaho,59.1,15.1,6,2017,Summer
+Idaho,70.0,21.1,7,2017,Summer
+Idaho,66.9,19.4,8,2017,Summer
+Idaho,55.7,13.2,9,2017,Fall
+Idaho,41.9,5.5,10,2017,Fall
+Idaho,34.9,1.6,11,2017,Fall
+Idaho,25.2,-3.8,12,2017,Winter
+Idaho,30.4,-0.9,1,2018,Winter
+Idaho,26.2,-3.2,2,2018,Winter
+Idaho,33.7,0.9,3,2018,Spring
+Idaho,42.4,5.8,4,2018,Spring
+Idaho,53.9,12.2,5,2018,Spring
+Idaho,57.7,14.3,6,2018,Summer
+Idaho,68.4,20.2,7,2018,Summer
+Idaho,65.0,18.3,8,2018,Summer
+Idaho,56.2,13.4,9,2018,Fall
+Idaho,44.1,6.7,10,2018,Fall
+Idaho,32.0,0.0,11,2018,Fall
+Idaho,24.3,-4.3,12,2018,Winter
+Idaho,26.2,-3.2,1,2019,Winter
+Illinois,26.9,-2.8,1,2016,Winter
+Illinois,33.8,1.0,2,2016,Winter
+Illinois,47.3,8.5,3,2016,Spring
+Illinois,53.0,11.7,4,2016,Spring
+Illinois,62.0,16.7,5,2016,Spring
+Illinois,74.8,23.8,6,2016,Summer
+Illinois,75.6,24.2,7,2016,Summer
+Illinois,75.7,24.3,8,2016,Summer
+Illinois,70.8,21.6,9,2016,Fall
+Illinois,59.9,15.5,10,2016,Fall
+Illinois,48.1,8.9,11,2016,Fall
+Illinois,28.9,-1.7,12,2016,Winter
+Illinois,32.1,0.1,1,2017,Winter
+Illinois,41.1,5.1,2,2017,Winter
+Illinois,43.2,6.2,3,2017,Spring
+Illinois,56.5,13.6,4,2017,Spring
+Illinois,61.9,16.6,5,2017,Spring
+Illinois,72.7,22.6,6,2017,Summer
+Illinois,76.1,24.5,7,2017,Summer
+Illinois,70.5,21.4,8,2017,Summer
+Illinois,68.8,20.4,9,2017,Fall
+Illinois,58.1,14.5,10,2017,Fall
+Illinois,41.9,5.5,11,2017,Fall
+Illinois,29.8,-1.2,12,2017,Winter
+Illinois,24.1,-4.4,1,2018,Winter
+Illinois,31.8,-0.1,2,2018,Winter
+Illinois,39.2,4.0,3,2018,Spring
+Illinois,44.8,7.1,4,2018,Spring
+Illinois,70.7,21.5,5,2018,Spring
+Illinois,74.9,23.8,6,2018,Summer
+Illinois,75.0,23.9,7,2018,Summer
+Illinois,74.7,23.7,8,2018,Summer
+Illinois,70.3,21.3,9,2018,Fall
+Illinois,54.2,12.3,10,2018,Fall
+Illinois,35.6,2.0,11,2018,Fall
+Illinois,34.4,1.3,12,2018,Winter
+Illinois,25.4,-3.7,1,2019,Winter
+Indiana,27.5,-2.5,1,2016,Winter
+Indiana,33.9,1.1,2,2016,Winter
+Indiana,47.3,8.5,3,2016,Spring
+Indiana,52.0,11.1,4,2016,Spring
+Indiana,60.6,15.9,5,2016,Spring
+Indiana,72.9,22.7,6,2016,Summer
+Indiana,74.6,23.7,7,2016,Summer
+Indiana,75.7,24.3,8,2016,Summer
+Indiana,69.9,21.1,9,2016,Fall
+Indiana,59.5,15.3,10,2016,Fall
+Indiana,47.0,8.3,11,2016,Fall
+Indiana,29.8,-1.2,12,2016,Winter
+Indiana,33.8,1.0,1,2017,Winter
+Indiana,41.3,5.2,2,2017,Winter
+Indiana,42.6,5.9,3,2017,Spring
+Indiana,57.0,13.9,4,2017,Spring
+Indiana,60.9,16.1,5,2017,Spring
+Indiana,71.1,21.7,6,2017,Summer
+Indiana,74.2,23.4,7,2017,Summer
+Indiana,70.0,21.1,8,2017,Summer
+Indiana,67.2,19.6,9,2017,Fall
+Indiana,57.6,14.2,10,2017,Fall
+Indiana,42.4,5.8,11,2017,Fall
+Indiana,29.6,-1.3,12,2017,Winter
+Indiana,24.5,-4.2,1,2018,Winter
+Indiana,35.1,1.7,2,2018,Winter
+Indiana,38.3,3.5,3,2018,Spring
+Indiana,45.2,7.3,4,2018,Spring
+Indiana,69.7,20.9,5,2018,Spring
+Indiana,73.4,23.0,6,2018,Summer
+Indiana,74.2,23.4,7,2018,Summer
+Indiana,74.0,23.3,8,2018,Summer
+Indiana,69.8,21.0,9,2018,Fall
+Indiana,54.9,12.7,10,2018,Fall
+Indiana,36.9,2.7,11,2018,Fall
+Indiana,35.4,1.9,12,2018,Winter
+Indiana,26.9,-2.8,1,2019,Winter
+Iowa,19.6,-6.9,1,2016,Winter
+Iowa,28.6,-1.9,2,2016,Winter
+Iowa,42.4,5.8,3,2016,Spring
+Iowa,50.1,10.1,4,2016,Spring
+Iowa,59.5,15.3,5,2016,Spring
+Iowa,73.0,22.8,6,2016,Summer
+Iowa,72.8,22.7,7,2016,Summer
+Iowa,72.0,22.2,8,2016,Summer
+Iowa,67.3,19.6,9,2016,Fall
+Iowa,55.3,12.9,10,2016,Fall
+Iowa,45.1,7.3,11,2016,Fall
+Iowa,22.9,-5.1,12,2016,Winter
+Iowa,24.2,-4.3,1,2017,Winter
+Iowa,34.5,1.4,2,2017,Winter
+Iowa,37.5,3.1,3,2017,Spring
+Iowa,51.1,10.6,4,2017,Spring
+Iowa,58.5,14.7,5,2017,Spring
+Iowa,71.1,21.7,6,2017,Summer
+Iowa,74.7,23.7,7,2017,Summer
+Iowa,67.8,19.9,8,2017,Summer
+Iowa,66.7,19.3,9,2017,Fall
+Iowa,53.3,11.8,10,2017,Fall
+Iowa,36.2,2.3,11,2017,Fall
+Iowa,24.4,-4.2,12,2017,Winter
+Iowa,17.8,-7.9,1,2018,Winter
+Iowa,20.5,-6.4,2,2018,Winter
+Iowa,35.2,1.8,3,2018,Spring
+Iowa,39.3,4.1,4,2018,Spring
+Iowa,67.0,19.4,5,2018,Spring
+Iowa,73.1,22.8,6,2018,Summer
+Iowa,73.1,22.8,7,2018,Summer
+Iowa,71.8,22.1,8,2018,Summer
+Iowa,65.9,18.8,9,2018,Fall
+Iowa,48.2,9.0,10,2018,Fall
+Iowa,30.0,-1.1,11,2018,Fall
+Iowa,28.0,-2.2,12,2018,Winter
+Iowa,18.7,-7.4,1,2019,Winter
+Kansas,32.0,0.0,1,2016,Winter
+Kansas,40.8,4.9,2,2016,Winter
+Kansas,49.7,9.8,3,2016,Spring
+Kansas,56.3,13.5,4,2016,Spring
+Kansas,61.6,16.4,5,2016,Spring
+Kansas,77.5,25.3,6,2016,Summer
+Kansas,79.7,26.5,7,2016,Summer
+Kansas,76.4,24.7,8,2016,Summer
+Kansas,70.8,21.6,9,2016,Fall
+Kansas,61.5,16.4,10,2016,Fall
+Kansas,49.9,9.9,11,2016,Fall
+Kansas,29.8,-1.2,12,2016,Winter
+Kansas,33.0,0.6,1,2017,Winter
+Kansas,43.1,6.2,2,2017,Winter
+Kansas,48.9,9.4,3,2017,Spring
+Kansas,55.6,13.1,4,2017,Spring
+Kansas,62.2,16.8,5,2017,Spring
+Kansas,75.1,23.9,6,2017,Summer
+Kansas,80.1,26.7,7,2017,Summer
+Kansas,73.1,22.8,8,2017,Summer
+Kansas,70.5,21.4,9,2017,Fall
+Kansas,57.6,14.2,10,2017,Fall
+Kansas,45.2,7.3,11,2017,Fall
+Kansas,33.6,0.9,12,2017,Winter
+Kansas,29.9,-1.2,1,2018,Winter
+Kansas,31.9,-0.1,2,2018,Winter
+Kansas,45.9,7.7,3,2018,Spring
+Kansas,47.6,8.7,4,2018,Spring
+Kansas,71.1,21.7,5,2018,Spring
+Kansas,78.1,25.6,6,2018,Summer
+Kansas,78.7,25.9,7,2018,Summer
+Kansas,75.7,24.3,8,2018,Summer
+Kansas,70.1,21.2,9,2018,Fall
+Kansas,53.6,12.0,10,2018,Fall
+Kansas,38.2,3.4,11,2018,Fall
+Kansas,34.3,1.3,12,2018,Winter
+Kansas,31.3,-0.4,1,2019,Winter
+Kentucky,31.6,-0.2,1,2016,Winter
+Kentucky,38.9,3.8,2,2016,Winter
+Kentucky,51.8,11.0,3,2016,Spring
+Kentucky,57.3,14.1,4,2016,Spring
+Kentucky,62.9,17.2,5,2016,Spring
+Kentucky,74.9,23.8,6,2016,Summer
+Kentucky,77.9,25.5,7,2016,Summer
+Kentucky,78.0,25.6,8,2016,Summer
+Kentucky,72.2,22.3,9,2016,Fall
+Kentucky,62.7,17.1,10,2016,Fall
+Kentucky,49.9,9.9,11,2016,Fall
+Kentucky,37.0,2.8,12,2016,Winter
+Kentucky,40.9,4.9,1,2017,Winter
+Kentucky,46.2,7.9,2,2017,Winter
+Kentucky,47.9,8.8,3,2017,Spring
+Kentucky,61.5,16.4,4,2017,Spring
+Kentucky,65.0,18.3,5,2017,Spring
+Kentucky,71.7,22.1,6,2017,Summer
+Kentucky,76.9,24.9,7,2017,Summer
+Kentucky,73.1,22.8,8,2017,Summer
+Kentucky,68.3,20.2,9,2017,Fall
+Kentucky,59.4,15.2,10,2017,Fall
+Kentucky,47.1,8.4,11,2017,Fall
+Kentucky,35.8,2.1,12,2017,Winter
+Kentucky,30.0,-1.1,1,2018,Winter
+Kentucky,44.6,7.0,2,2018,Winter
+Kentucky,44.1,6.7,3,2018,Spring
+Kentucky,50.7,10.4,4,2018,Spring
+Kentucky,71.9,22.2,5,2018,Spring
+Kentucky,75.5,24.2,6,2018,Summer
+Kentucky,76.6,24.8,7,2018,Summer
+Kentucky,75.8,24.3,8,2018,Summer
+Kentucky,73.1,22.8,9,2018,Fall
+Kentucky,58.9,14.9,10,2018,Fall
+Kentucky,41.9,5.5,11,2018,Fall
+Kentucky,40.5,4.7,12,2018,Winter
+Kentucky,35.1,1.7,1,2019,Winter
+Louisiana,48.8,9.3,1,2016,Winter
+Louisiana,55.1,12.8,2,2016,Winter
+Louisiana,63.8,17.7,3,2016,Spring
+Louisiana,68.2,20.1,4,2016,Spring
+Louisiana,73.3,22.9,5,2016,Spring
+Louisiana,80.9,27.2,6,2016,Summer
+Louisiana,83.7,28.7,7,2016,Summer
+Louisiana,82.4,28.0,8,2016,Summer
+Louisiana,80.2,26.8,9,2016,Fall
+Louisiana,71.4,21.9,10,2016,Fall
+Louisiana,62.4,16.9,11,2016,Fall
+Louisiana,54.7,12.6,12,2016,Winter
+Louisiana,56.8,13.8,1,2017,Winter
+Louisiana,61.7,16.5,2,2017,Winter
+Louisiana,64.4,18.0,3,2017,Spring
+Louisiana,69.4,20.8,4,2017,Spring
+Louisiana,71.8,22.1,5,2017,Spring
+Louisiana,78.5,25.8,6,2017,Summer
+Louisiana,82.4,28.0,7,2017,Summer
+Louisiana,81.0,27.2,8,2017,Summer
+Louisiana,77.0,25.0,9,2017,Fall
+Louisiana,69.2,20.7,10,2017,Fall
+Louisiana,61.6,16.4,11,2017,Fall
+Louisiana,50.8,10.4,12,2017,Winter
+Louisiana,44.2,6.8,1,2018,Winter
+Louisiana,60.5,15.8,2,2018,Winter
+Louisiana,62.2,16.8,3,2018,Spring
+Louisiana,62.7,17.1,4,2018,Spring
+Louisiana,77.7,25.4,5,2018,Spring
+Louisiana,82.1,27.8,6,2018,Summer
+Louisiana,83.5,28.6,7,2018,Summer
+Louisiana,82.0,27.8,8,2018,Summer
+Louisiana,80.1,26.7,9,2018,Fall
+Louisiana,70.7,21.5,10,2018,Fall
+Louisiana,54.8,12.7,11,2018,Fall
+Louisiana,52.6,11.4,12,2018,Winter
+Louisiana,49.9,9.9,1,2019,Winter
+Maine,20.1,-6.6,1,2016,Winter
+Maine,21.9,-5.6,2,2016,Winter
+Maine,29.2,-1.6,3,2016,Spring
+Maine,37.3,2.9,4,2016,Spring
+Maine,52.8,11.6,5,2016,Spring
+Maine,60.5,15.8,6,2016,Summer
+Maine,67.0,19.4,7,2016,Summer
+Maine,66.6,19.2,8,2016,Summer
+Maine,59.1,15.1,9,2016,Fall
+Maine,46.9,8.3,10,2016,Fall
+Maine,37.2,2.9,11,2016,Fall
+Maine,20.5,-6.4,12,2016,Winter
+Maine,21.5,-5.8,1,2017,Winter
+Maine,20.6,-6.3,2,2017,Winter
+Maine,22.2,-5.4,3,2017,Spring
+Maine,42.0,5.6,4,2017,Spring
+Maine,50.7,10.4,5,2017,Spring
+Maine,61.0,16.1,6,2017,Summer
+Maine,65.2,18.4,7,2017,Summer
+Maine,63.3,17.4,8,2017,Summer
+Maine,61.1,16.2,9,2017,Fall
+Maine,52.0,11.1,10,2017,Fall
+Maine,32.4,0.2,11,2017,Fall
+Maine,16.4,-8.7,12,2017,Winter
+Maine,15.0,-9.4,1,2018,Winter
+Maine,22.6,-5.2,2,2018,Winter
+Maine,28.9,-1.7,3,2018,Spring
+Maine,36.6,2.6,4,2018,Spring
+Maine,53.6,12.0,5,2018,Spring
+Maine,59.0,15.0,6,2018,Summer
+Maine,68.9,20.5,7,2018,Summer
+Maine,68.1,20.1,8,2018,Summer
+Maine,58.0,14.4,9,2018,Fall
+Maine,41.9,5.5,10,2018,Fall
+Maine,28.8,-1.8,11,2018,Fall
+Maine,20.4,-6.4,12,2018,Winter
+Maine,14.2,-9.9,1,2019,Winter
+Maryland,32.1,0.1,1,2016,Winter
+Maryland,36.9,2.7,2,2016,Winter
+Maryland,49.4,9.7,3,2016,Spring
+Maryland,53.1,11.7,4,2016,Spring
+Maryland,60.9,16.1,5,2016,Spring
+Maryland,72.2,22.3,6,2016,Summer
+Maryland,78.4,25.8,7,2016,Summer
+Maryland,78.0,25.6,8,2016,Summer
+Maryland,71.5,21.9,9,2016,Fall
+Maryland,59.4,15.2,10,2016,Fall
+Maryland,47.7,8.7,11,2016,Fall
+Maryland,38.0,3.3,12,2016,Winter
+Maryland,38.3,3.5,1,2017,Winter
+Maryland,43.7,6.5,2,2017,Winter
+Maryland,43.1,6.2,3,2017,Spring
+Maryland,59.5,15.3,4,2017,Spring
+Maryland,62.2,16.8,5,2017,Spring
+Maryland,72.6,22.6,6,2017,Summer
+Maryland,77.4,25.2,7,2017,Summer
+Maryland,72.8,22.7,8,2017,Summer
+Maryland,68.3,20.2,9,2017,Fall
+Maryland,61.2,16.2,10,2017,Fall
+Maryland,45.8,7.7,11,2017,Fall
+Maryland,35.3,1.8,12,2017,Winter
+Maryland,31.0,-0.6,1,2018,Winter
+Maryland,41.6,5.3,2,2018,Winter
+Maryland,39.2,4.0,3,2018,Spring
+Maryland,50.6,10.3,4,2018,Spring
+Maryland,68.6,20.3,5,2018,Spring
+Maryland,72.0,22.2,6,2018,Summer
+Maryland,76.2,24.6,7,2018,Summer
+Maryland,77.0,25.0,8,2018,Summer
+Maryland,72.6,22.6,9,2018,Fall
+Maryland,59.0,15.0,10,2018,Fall
+Maryland,43.4,6.3,11,2018,Fall
+Maryland,39.2,4.0,12,2018,Winter
+Maryland,33.6,0.9,1,2019,Winter
+Massachusetts,28.5,-1.9,1,2016,Winter
+Massachusetts,30.9,-0.6,2,2016,Winter
+Massachusetts,41.0,5.0,3,2016,Spring
+Massachusetts,45.0,7.2,4,2016,Spring
+Massachusetts,57.2,14.0,5,2016,Spring
+Massachusetts,66.1,18.9,6,2016,Summer
+Massachusetts,72.6,22.6,7,2016,Summer
+Massachusetts,72.5,22.5,8,2016,Summer
+Massachusetts,64.6,18.1,9,2016,Fall
+Massachusetts,52.2,11.2,10,2016,Fall
+Massachusetts,42.2,5.7,11,2016,Fall
+Massachusetts,31.0,-0.6,12,2016,Winter
+Massachusetts,31.5,-0.3,1,2017,Winter
+Massachusetts,33.0,0.6,2,2017,Winter
+Massachusetts,31.5,-0.3,3,2017,Spring
+Massachusetts,50.2,10.1,4,2017,Spring
+Massachusetts,55.2,12.9,5,2017,Spring
+Massachusetts,66.0,18.9,6,2017,Summer
+Massachusetts,70.0,21.1,7,2017,Summer
+Massachusetts,68.0,20.0,8,2017,Summer
+Massachusetts,65.1,18.4,9,2017,Fall
+Massachusetts,57.5,14.2,10,2017,Fall
+Massachusetts,40.3,4.6,11,2017,Fall
+Massachusetts,26.6,-3.0,12,2017,Winter
+Massachusetts,24.5,-4.2,1,2018,Winter
+Massachusetts,34.2,1.2,2,2018,Winter
+Massachusetts,34.9,1.6,3,2018,Spring
+Massachusetts,42.3,5.7,4,2018,Spring
+Massachusetts,60.8,16.0,5,2018,Spring
+Massachusetts,64.8,18.2,6,2018,Summer
+Massachusetts,73.2,22.9,7,2018,Summer
+Massachusetts,73.5,23.1,8,2018,Summer
+Massachusetts,65.2,18.4,9,2018,Fall
+Massachusetts,50.3,10.2,10,2018,Fall
+Massachusetts,37.8,3.2,11,2018,Fall
+Massachusetts,32.1,0.1,12,2018,Winter
+Massachusetts,25.9,-3.4,1,2019,Winter
+Michigan,22.3,-5.4,1,2016,Winter
+Michigan,25.3,-3.7,2,2016,Winter
+Michigan,36.1,2.3,3,2016,Spring
+Michigan,40.8,4.9,4,2016,Spring
+Michigan,55.4,13.0,5,2016,Spring
+Michigan,64.7,18.2,6,2016,Summer
+Michigan,70.3,21.3,7,2016,Summer
+Michigan,70.8,21.6,8,2016,Summer
+Michigan,63.5,17.5,9,2016,Fall
+Michigan,51.6,10.9,10,2016,Fall
+Michigan,42.6,5.9,11,2016,Fall
+Michigan,25.0,-3.9,12,2016,Winter
+Michigan,25.2,-3.8,1,2017,Winter
+Michigan,29.9,-1.2,2,2017,Winter
+Michigan,30.7,-0.7,3,2017,Spring
+Michigan,47.2,8.4,4,2017,Spring
+Michigan,53.0,11.7,5,2017,Spring
+Michigan,65.3,18.5,6,2017,Summer
+Michigan,68.5,20.3,7,2017,Summer
+Michigan,65.2,18.4,8,2017,Summer
+Michigan,62.6,17.0,9,2017,Fall
+Michigan,52.5,11.4,10,2017,Fall
+Michigan,34.5,1.4,11,2017,Fall
+Michigan,20.9,-6.2,12,2017,Winter
+Michigan,20.0,-6.7,1,2018,Winter
+Michigan,23.0,-5.0,2,2018,Winter
+Michigan,29.6,-1.3,3,2018,Spring
+Michigan,35.3,1.8,4,2018,Spring
+Michigan,60.3,15.7,5,2018,Spring
+Michigan,65.2,18.4,6,2018,Summer
+Michigan,70.5,21.4,7,2018,Summer
+Michigan,69.8,21.0,8,2018,Summer
+Michigan,62.4,16.9,9,2018,Fall
+Michigan,45.9,7.7,10,2018,Fall
+Michigan,30.8,-0.7,11,2018,Fall
+Michigan,28.7,-1.8,12,2018,Winter
+Michigan,16.8,-8.4,1,2019,Winter
+Minnesota,12.6,-10.8,1,2016,Winter
+Minnesota,19.9,-6.7,2,2016,Winter
+Minnesota,35.7,2.1,3,2016,Spring
+Minnesota,42.5,5.8,4,2016,Spring
+Minnesota,56.7,13.7,5,2016,Spring
+Minnesota,65.6,18.7,6,2016,Summer
+Minnesota,69.3,20.7,7,2016,Summer
+Minnesota,68.1,20.1,8,2016,Summer
+Minnesota,60.7,15.9,9,2016,Fall
+Minnesota,48.2,9.0,10,2016,Fall
+Minnesota,40.2,4.6,11,2016,Fall
+Minnesota,15.3,-9.3,12,2016,Winter
+Minnesota,14.6,-9.7,1,2017,Winter
+Minnesota,23.9,-4.5,2,2017,Winter
+Minnesota,28.2,-2.1,3,2017,Spring
+Minnesota,44.4,6.9,4,2017,Spring
+Minnesota,53.6,12.0,5,2017,Spring
+Minnesota,65.0,18.3,6,2017,Summer
+Minnesota,69.2,20.7,7,2017,Summer
+Minnesota,64.0,17.8,8,2017,Summer
+Minnesota,60.8,16.0,9,2017,Fall
+Minnesota,47.1,8.4,10,2017,Fall
+Minnesota,27.4,-2.6,11,2017,Fall
+Minnesota,13.4,-10.3,12,2017,Winter
+Minnesota,10.4,-12.0,1,2018,Winter
+Minnesota,8.6,-13.0,2,2018,Winter
+Minnesota,27.5,-2.5,3,2018,Spring
+Minnesota,32.7,0.4,4,2018,Spring
+Minnesota,61.1,16.2,5,2018,Spring
+Minnesota,67.0,19.4,6,2018,Summer
+Minnesota,69.6,20.9,7,2018,Summer
+Minnesota,67.4,19.7,8,2018,Summer
+Minnesota,59.0,15.0,9,2018,Fall
+Minnesota,40.7,4.8,10,2018,Fall
+Minnesota,22.8,-5.1,11,2018,Fall
+Minnesota,20.2,-6.6,12,2018,Winter
+Minnesota,6.6,-14.1,1,2019,Winter
+Mississippi,43.7,6.5,1,2016,Winter
+Mississippi,50.9,10.5,2,2016,Winter
+Mississippi,60.2,15.7,3,2016,Spring
+Mississippi,65.2,18.4,4,2016,Spring
+Mississippi,70.5,21.4,5,2016,Spring
+Mississippi,80.2,26.8,6,2016,Summer
+Mississippi,82.4,28.0,7,2016,Summer
+Mississippi,82.0,27.8,8,2016,Summer
+Mississippi,79.0,26.1,9,2016,Fall
+Mississippi,69.2,20.7,10,2016,Fall
+Mississippi,58.2,14.6,11,2016,Fall
+Mississippi,49.4,9.7,12,2016,Winter
+Mississippi,52.9,11.6,1,2017,Winter
+Mississippi,57.1,13.9,2,2017,Winter
+Mississippi,60.1,15.6,3,2017,Spring
+Mississippi,67.3,19.6,4,2017,Spring
+Mississippi,70.1,21.2,5,2017,Spring
+Mississippi,76.7,24.8,6,2017,Summer
+Mississippi,81.2,27.3,7,2017,Summer
+Mississippi,79.3,26.3,8,2017,Summer
+Mississippi,74.5,23.6,9,2017,Fall
+Mississippi,66.2,19.0,10,2017,Fall
+Mississippi,56.8,13.8,11,2017,Fall
+Mississippi,47.1,8.4,12,2017,Winter
+Mississippi,40.0,4.4,1,2018,Winter
+Mississippi,56.8,13.8,2,2018,Winter
+Mississippi,57.1,13.9,3,2018,Spring
+Mississippi,58.8,14.9,4,2018,Spring
+Mississippi,75.8,24.3,5,2018,Spring
+Mississippi,80.6,27.0,6,2018,Summer
+Mississippi,81.8,27.7,7,2018,Summer
+Mississippi,80.2,26.8,8,2018,Summer
+Mississippi,78.8,26.0,9,2018,Fall
+Mississippi,67.3,19.6,10,2018,Fall
+Mississippi,50.5,10.3,11,2018,Fall
+Mississippi,48.9,9.4,12,2018,Winter
+Mississippi,46.2,7.9,1,2019,Winter
+Missouri,30.9,-0.6,1,2016,Winter
+Missouri,39.1,3.9,2,2016,Winter
+Missouri,50.4,10.2,3,2016,Spring
+Missouri,57.3,14.1,4,2016,Spring
+Missouri,62.7,17.1,5,2016,Spring
+Missouri,76.9,24.9,6,2016,Summer
+Missouri,78.1,25.6,7,2016,Summer
+Missouri,76.7,24.8,8,2016,Summer
+Missouri,71.7,22.1,9,2016,Fall
+Missouri,62.1,16.7,10,2016,Fall
+Missouri,51.0,10.6,11,2016,Fall
+Missouri,32.4,0.2,12,2016,Winter
+Missouri,35.4,1.9,1,2017,Winter
+Missouri,45.1,7.3,2,2017,Winter
+Missouri,48.4,9.1,3,2017,Spring
+Missouri,58.5,14.7,4,2017,Spring
+Missouri,64.1,17.8,5,2017,Spring
+Missouri,73.5,23.1,6,2017,Summer
+Missouri,78.8,26.0,7,2017,Summer
+Missouri,72.1,22.3,8,2017,Summer
+Missouri,70.4,21.3,9,2017,Fall
+Missouri,59.0,15.0,10,2017,Fall
+Missouri,46.2,7.9,11,2017,Fall
+Missouri,34.3,1.3,12,2017,Winter
+Missouri,28.0,-2.2,1,2018,Winter
+Missouri,35.6,2.0,2,2018,Winter
+Missouri,44.0,6.7,3,2018,Spring
+Missouri,48.2,9.0,4,2018,Spring
+Missouri,72.5,22.5,5,2018,Spring
+Missouri,77.4,25.2,6,2018,Summer
+Missouri,78.2,25.7,7,2018,Summer
+Missouri,76.4,24.7,8,2018,Summer
+Missouri,71.3,21.8,9,2018,Fall
+Missouri,56.5,13.6,10,2018,Fall
+Missouri,37.6,3.1,11,2018,Fall
+Missouri,36.9,2.7,12,2018,Winter
+Missouri,31.0,-0.6,1,2019,Winter
+Montana,23.4,-4.8,1,2016,Winter
+Montana,33.6,0.9,2,2016,Winter
+Montana,37.4,3.0,3,2016,Spring
+Montana,45.0,7.2,4,2016,Spring
+Montana,51.0,10.6,5,2016,Spring
+Montana,62.4,16.9,6,2016,Summer
+Montana,65.9,18.8,7,2016,Summer
+Montana,64.4,18.0,8,2016,Summer
+Montana,54.8,12.7,9,2016,Fall
+Montana,44.3,6.8,10,2016,Fall
+Montana,39.1,3.9,11,2016,Fall
+Montana,14.2,-9.9,12,2016,Winter
+Montana,15.2,-9.3,1,2017,Winter
+Montana,25.4,-3.7,2,2017,Winter
+Montana,35.8,2.1,3,2017,Spring
+Montana,42.1,5.6,4,2017,Spring
+Montana,52.3,11.3,5,2017,Spring
+Montana,60.6,15.9,6,2017,Summer
+Montana,71.6,22.0,7,2017,Summer
+Montana,65.5,18.6,8,2017,Summer
+Montana,55.2,12.9,9,2017,Fall
+Montana,42.6,5.9,10,2017,Fall
+Montana,30.7,-0.7,11,2017,Fall
+Montana,21.1,-6.1,12,2017,Winter
+Montana,21.7,-5.7,1,2018,Winter
+Montana,11.4,-11.4,2,2018,Winter
+Montana,28.2,-2.1,3,2018,Spring
+Montana,37.9,3.3,4,2018,Spring
+Montana,55.6,13.1,5,2018,Spring
+Montana,59.2,15.1,6,2018,Summer
+Montana,66.7,19.3,7,2018,Summer
+Montana,64.4,18.0,8,2018,Summer
+Montana,53.0,11.7,9,2018,Fall
+Montana,41.6,5.3,10,2018,Fall
+Montana,30.2,-1.0,11,2018,Fall
+Montana,25.0,-3.9,12,2018,Winter
+Montana,24.8,-4.0,1,2019,Winter
+Nebraska,26.0,-3.3,1,2016,Winter
+Nebraska,35.0,1.7,2,2016,Winter
+Nebraska,43.9,6.6,3,2016,Spring
+Nebraska,49.9,9.9,4,2016,Spring
+Nebraska,57.2,14.0,5,2016,Spring
+Nebraska,73.3,22.9,6,2016,Summer
+Nebraska,74.2,23.4,7,2016,Summer
+Nebraska,71.8,22.1,8,2016,Summer
+Nebraska,65.0,18.3,9,2016,Fall
+Nebraska,55.4,13.0,10,2016,Fall
+Nebraska,44.3,6.8,11,2016,Fall
+Nebraska,23.8,-4.6,12,2016,Winter
+Nebraska,24.8,-4.0,1,2017,Winter
+Nebraska,35.4,1.9,2,2017,Winter
+Nebraska,42.2,5.7,3,2017,Spring
+Nebraska,49.7,9.8,4,2017,Spring
+Nebraska,57.0,13.9,5,2017,Spring
+Nebraska,70.7,21.5,6,2017,Summer
+Nebraska,76.8,24.9,7,2017,Summer
+Nebraska,69.0,20.6,8,2017,Summer
+Nebraska,65.0,18.3,9,2017,Fall
+Nebraska,51.0,10.6,10,2017,Fall
+Nebraska,39.9,4.4,11,2017,Fall
+Nebraska,26.6,-3.0,12,2017,Winter
+Nebraska,23.1,-4.9,1,2018,Winter
+Nebraska,21.7,-5.7,2,2018,Winter
+Nebraska,38.5,3.6,3,2018,Spring
+Nebraska,41.2,5.1,4,2018,Spring
+Nebraska,63.8,17.7,5,2018,Spring
+Nebraska,72.3,22.4,6,2018,Summer
+Nebraska,73.5,23.1,7,2018,Summer
+Nebraska,70.8,21.6,8,2018,Summer
+Nebraska,65.7,18.7,9,2018,Fall
+Nebraska,47.1,8.4,10,2018,Fall
+Nebraska,33.4,0.8,11,2018,Fall
+Nebraska,28.0,-2.2,12,2018,Winter
+Nebraska,26.3,-3.2,1,2019,Winter
+Nevada,31.1,-0.5,1,2016,Winter
+Nevada,38.0,3.3,2,2016,Winter
+Nevada,44.2,6.8,3,2016,Spring
+Nevada,50.1,10.1,4,2016,Spring
+Nevada,55.1,12.8,5,2016,Spring
+Nevada,69.7,20.9,6,2016,Summer
+Nevada,73.7,23.2,7,2016,Summer
+Nevada,72.1,22.3,8,2016,Summer
+Nevada,62.3,16.8,9,2016,Fall
+Nevada,53.2,11.8,10,2016,Fall
+Nevada,43.2,6.2,11,2016,Fall
+Nevada,30.5,-0.8,12,2016,Winter
+Nevada,29.1,-1.6,1,2017,Winter
+Nevada,38.1,3.4,2,2017,Winter
+Nevada,45.7,7.6,3,2017,Spring
+Nevada,47.1,8.4,4,2017,Spring
+Nevada,57.1,13.9,5,2017,Spring
+Nevada,68.6,20.3,6,2017,Summer
+Nevada,76.2,24.6,7,2017,Summer
+Nevada,73.5,23.1,8,2017,Summer
+Nevada,61.6,16.4,9,2017,Fall
+Nevada,50.4,10.2,10,2017,Fall
+Nevada,44.4,6.9,11,2017,Fall
+Nevada,34.8,1.6,12,2017,Winter
+Nevada,38.5,3.6,1,2018,Winter
+Nevada,33.7,0.9,2,2018,Winter
+Nevada,39.5,4.2,3,2018,Spring
+Nevada,50.0,10.0,4,2018,Spring
+Nevada,57.7,14.3,5,2018,Spring
+Nevada,67.8,19.9,6,2018,Summer
+Nevada,77.0,25.0,7,2018,Summer
+Nevada,73.2,22.9,8,2018,Summer
+Nevada,65.0,18.3,9,2018,Fall
+Nevada,50.3,10.2,10,2018,Fall
+Nevada,39.4,4.1,11,2018,Fall
+Nevada,32.0,0.0,12,2018,Winter
+Nevada,34.0,1.1,1,2019,Winter
+New Hampshire,22.9,-5.1,1,2016,Winter
+New Hampshire,25.6,-3.6,2,2016,Winter
+New Hampshire,35.2,1.8,3,2016,Spring
+New Hampshire,40.2,4.6,4,2016,Spring
+New Hampshire,54.8,12.7,5,2016,Spring
+New Hampshire,62.6,17.0,6,2016,Summer
+New Hampshire,68.5,20.3,7,2016,Summer
+New Hampshire,68.2,20.1,8,2016,Summer
+New Hampshire,60.5,15.8,9,2016,Fall
+New Hampshire,48.0,8.9,10,2016,Fall
+New Hampshire,37.9,3.3,11,2016,Fall
+New Hampshire,24.4,-4.2,12,2016,Winter
+New Hampshire,25.7,-3.5,1,2017,Winter
+New Hampshire,26.7,-2.9,2,2017,Winter
+New Hampshire,25.3,-3.7,3,2017,Spring
+New Hampshire,45.8,7.7,4,2017,Spring
+New Hampshire,52.2,11.2,5,2017,Spring
+New Hampshire,62.6,17.0,6,2017,Summer
+New Hampshire,66.5,19.2,7,2017,Summer
+New Hampshire,64.1,17.8,8,2017,Summer
+New Hampshire,62.2,16.8,9,2017,Fall
+New Hampshire,53.9,12.2,10,2017,Fall
+New Hampshire,34.6,1.4,11,2017,Fall
+New Hampshire,19.6,-6.9,12,2017,Winter
+New Hampshire,18.4,-7.6,1,2018,Winter
+New Hampshire,27.0,-2.8,2,2018,Winter
+New Hampshire,30.4,-0.9,3,2018,Spring
+New Hampshire,38.0,3.3,4,2018,Spring
+New Hampshire,57.2,14.0,5,2018,Spring
+New Hampshire,61.4,16.3,6,2018,Summer
+New Hampshire,69.8,21.0,7,2018,Summer
+New Hampshire,69.3,20.7,8,2018,Summer
+New Hampshire,61.2,16.2,9,2018,Fall
+New Hampshire,45.1,7.3,10,2018,Fall
+New Hampshire,31.4,-0.3,11,2018,Fall
+New Hampshire,24.9,-3.9,12,2018,Winter
+New Hampshire,18.2,-7.7,1,2019,Winter
+New Jersey,31.4,-0.3,1,2016,Winter
+New Jersey,36.0,2.2,2,2016,Winter
+New Jersey,47.0,8.3,3,2016,Spring
+New Jersey,50.7,10.4,4,2016,Spring
+New Jersey,60.2,15.7,5,2016,Spring
+New Jersey,70.6,21.4,6,2016,Summer
+New Jersey,77.2,25.1,7,2016,Summer
+New Jersey,76.9,24.9,8,2016,Summer
+New Jersey,69.7,20.9,9,2016,Fall
+New Jersey,56.7,13.7,10,2016,Fall
+New Jersey,46.7,8.2,11,2016,Fall
+New Jersey,36.3,2.4,12,2016,Winter
+New Jersey,36.2,2.3,1,2017,Winter
+New Jersey,40.4,4.7,2,2017,Winter
+New Jersey,38.9,3.8,3,2017,Spring
+New Jersey,55.9,13.3,4,2017,Spring
+New Jersey,60.0,15.6,5,2017,Spring
+New Jersey,70.4,21.3,6,2017,Summer
+New Jersey,75.5,24.2,7,2017,Summer
+New Jersey,71.6,22.0,8,2017,Summer
+New Jersey,68.2,20.1,9,2017,Fall
+New Jersey,60.4,15.8,10,2017,Fall
+New Jersey,44.4,6.9,11,2017,Fall
+New Jersey,33.2,0.7,12,2017,Winter
+New Jersey,29.2,-1.6,1,2018,Winter
+New Jersey,39.4,4.1,2,2018,Winter
+New Jersey,38.3,3.5,3,2018,Spring
+New Jersey,48.0,8.9,4,2018,Spring
+New Jersey,65.2,18.4,5,2018,Spring
+New Jersey,70.1,21.2,6,2018,Summer
+New Jersey,76.1,24.5,7,2018,Summer
+New Jersey,76.8,24.9,8,2018,Summer
+New Jersey,70.2,21.2,9,2018,Fall
+New Jersey,56.4,13.6,10,2018,Fall
+New Jersey,42.5,5.8,11,2018,Fall
+New Jersey,37.8,3.2,12,2018,Winter
+New Jersey,31.6,-0.2,1,2019,Winter
+New Mexico,34.3,1.3,1,2016,Winter
+New Mexico,42.0,5.6,2,2016,Winter
+New Mexico,48.3,9.1,3,2016,Spring
+New Mexico,52.3,11.3,4,2016,Spring
+New Mexico,59.4,15.2,5,2016,Spring
+New Mexico,73.0,22.8,6,2016,Summer
+New Mexico,76.9,24.9,7,2016,Summer
+New Mexico,70.1,21.2,8,2016,Summer
+New Mexico,65.9,18.8,9,2016,Fall
+New Mexico,59.6,15.3,10,2016,Fall
+New Mexico,46.7,8.2,11,2016,Fall
+New Mexico,37.8,3.2,12,2016,Winter
+New Mexico,37.2,2.9,1,2017,Winter
+New Mexico,44.5,6.9,2,2017,Winter
+New Mexico,51.2,10.7,3,2017,Spring
+New Mexico,53.7,12.1,4,2017,Spring
+New Mexico,60.1,15.6,5,2017,Spring
+New Mexico,72.8,22.7,6,2017,Summer
+New Mexico,74.6,23.7,7,2017,Summer
+New Mexico,70.8,21.6,8,2017,Summer
+New Mexico,66.4,19.1,9,2017,Fall
+New Mexico,56.4,13.6,10,2017,Fall
+New Mexico,50.2,10.1,11,2017,Fall
+New Mexico,38.7,3.7,12,2017,Winter
+New Mexico,37.0,2.8,1,2018,Winter
+New Mexico,41.3,5.2,2,2018,Winter
+New Mexico,47.2,8.4,3,2018,Spring
+New Mexico,55.1,12.8,4,2018,Spring
+New Mexico,65.6,18.7,5,2018,Spring
+New Mexico,74.3,23.5,6,2018,Summer
+New Mexico,75.1,23.9,7,2018,Summer
+New Mexico,73.0,22.8,8,2018,Summer
+New Mexico,66.9,19.4,9,2018,Fall
+New Mexico,53.8,12.1,10,2018,Fall
+New Mexico,41.2,5.1,11,2018,Fall
+New Mexico,35.6,2.0,12,2018,Winter
+New Mexico,35.5,1.9,1,2019,Winter
+New York,23.7,-4.6,1,2016,Winter
+New York,26.7,-2.9,2,2016,Winter
+New York,37.7,3.2,3,2016,Spring
+New York,41.3,5.2,4,2016,Spring
+New York,55.7,13.2,5,2016,Spring
+New York,64.1,17.8,6,2016,Summer
+New York,70.4,21.3,7,2016,Summer
+New York,70.9,21.6,8,2016,Summer
+New York,62.9,17.2,9,2016,Fall
+New York,50.5,10.3,10,2016,Fall
+New York,40.2,4.6,11,2016,Fall
+New York,27.6,-2.4,12,2016,Winter
+New York,27.9,-2.3,1,2017,Winter
+New York,30.6,-0.8,2,2017,Winter
+New York,28.2,-2.1,3,2017,Spring
+New York,48.8,9.3,4,2017,Spring
+New York,54.0,12.2,5,2017,Spring
+New York,63.9,17.7,6,2017,Summer
+New York,68.1,20.1,7,2017,Summer
+New York,65.6,18.7,8,2017,Summer
+New York,62.3,16.8,9,2017,Fall
+New York,54.8,12.7,10,2017,Fall
+New York,36.2,2.3,11,2017,Fall
+New York,22.6,-5.2,12,2017,Winter
+New York,19.1,-7.2,1,2018,Winter
+New York,29.4,-1.4,2,2018,Winter
+New York,29.9,-1.2,3,2018,Spring
+New York,37.8,3.2,4,2018,Spring
+New York,60.0,15.6,5,2018,Spring
+New York,63.4,17.4,6,2018,Summer
+New York,71.2,21.8,7,2018,Summer
+New York,70.5,21.4,8,2018,Summer
+New York,63.6,17.6,9,2018,Fall
+New York,47.8,8.8,10,2018,Fall
+New York,33.3,0.7,11,2018,Fall
+New York,28.5,-1.9,12,2018,Winter
+New York,19.5,-6.9,1,2019,Winter
+North Carolina,38.4,3.6,1,2016,Winter
+North Carolina,43.2,6.2,2,2016,Winter
+North Carolina,56.2,13.4,3,2016,Spring
+North Carolina,58.7,14.8,4,2016,Spring
+North Carolina,65.8,18.8,5,2016,Spring
+North Carolina,75.3,24.1,6,2016,Summer
+North Carolina,80.1,26.7,7,2016,Summer
+North Carolina,79.2,26.2,8,2016,Summer
+North Carolina,74.3,23.5,9,2016,Fall
+North Carolina,63.2,17.3,10,2016,Fall
+North Carolina,51.7,10.9,11,2016,Fall
+North Carolina,44.0,6.7,12,2016,Winter
+North Carolina,45.4,7.4,1,2017,Winter
+North Carolina,50.7,10.4,2,2017,Winter
+North Carolina,50.0,10.0,3,2017,Spring
+North Carolina,63.9,17.7,4,2017,Spring
+North Carolina,67.7,19.8,5,2017,Spring
+North Carolina,73.8,23.2,6,2017,Summer
+North Carolina,78.7,25.9,7,2017,Summer
+North Carolina,75.8,24.3,8,2017,Summer
+North Carolina,70.5,21.4,9,2017,Fall
+North Carolina,62.8,17.1,10,2017,Fall
+North Carolina,50.3,10.2,11,2017,Fall
+North Carolina,42.4,5.8,12,2017,Winter
+North Carolina,35.8,2.1,1,2018,Winter
+North Carolina,51.9,11.1,2,2018,Winter
+North Carolina,46.3,7.9,3,2018,Spring
+North Carolina,56.0,13.3,4,2018,Spring
+North Carolina,71.6,22.0,5,2018,Spring
+North Carolina,76.8,24.9,6,2018,Summer
+North Carolina,77.2,25.1,7,2018,Summer
+North Carolina,77.2,25.1,8,2018,Summer
+North Carolina,76.2,24.6,9,2018,Fall
+North Carolina,62.5,16.9,10,2018,Fall
+North Carolina,48.4,9.1,11,2018,Fall
+North Carolina,45.0,7.2,12,2018,Winter
+North Carolina,41.9,5.5,1,2019,Winter
+North Dakota,14.6,-9.7,1,2016,Winter
+North Dakota,25.6,-3.6,2,2016,Winter
+North Dakota,36.3,2.4,3,2016,Spring
+North Dakota,41.8,5.4,4,2016,Spring
+North Dakota,56.6,13.7,5,2016,Spring
+North Dakota,66.0,18.9,6,2016,Summer
+North Dakota,69.3,20.7,7,2016,Summer
+North Dakota,68.0,20.0,8,2016,Summer
+North Dakota,58.6,14.8,9,2016,Fall
+North Dakota,46.1,7.8,10,2016,Fall
+North Dakota,39.3,4.1,11,2016,Fall
+North Dakota,10.2,-12.1,12,2016,Winter
+North Dakota,11.2,-11.6,1,2017,Winter
+North Dakota,20.5,-6.4,2,2017,Winter
+North Dakota,27.4,-2.6,3,2017,Spring
+North Dakota,42.7,5.9,4,2017,Spring
+North Dakota,54.8,12.7,5,2017,Spring
+North Dakota,64.8,18.2,6,2017,Summer
+North Dakota,72.2,22.3,7,2017,Summer
+North Dakota,65.2,18.4,8,2017,Summer
+North Dakota,58.3,14.6,9,2017,Fall
+North Dakota,45.0,7.2,10,2017,Fall
+North Dakota,26.4,-3.1,11,2017,Fall
+North Dakota,15.6,-9.1,12,2017,Winter
+North Dakota,11.8,-11.2,1,2018,Winter
+North Dakota,5.4,-14.8,2,2018,Winter
+North Dakota,24.6,-4.1,3,2018,Spring
+North Dakota,33.2,0.7,4,2018,Spring
+North Dakota,60.2,15.7,5,2018,Spring
+North Dakota,67.4,19.7,6,2018,Summer
+North Dakota,69.2,20.7,7,2018,Summer
+North Dakota,67.6,19.8,8,2018,Summer
+North Dakota,55.0,12.8,9,2018,Fall
+North Dakota,39.0,3.9,10,2018,Fall
+North Dakota,22.9,-5.1,11,2018,Fall
+North Dakota,20.8,-6.2,12,2018,Winter
+North Dakota,9.8,-12.3,1,2019,Winter
+Ohio,27.2,-2.7,1,2016,Winter
+Ohio,33.6,0.9,2,2016,Winter
+Ohio,46.5,8.1,3,2016,Spring
+Ohio,50.2,10.1,4,2016,Spring
+Ohio,59.7,15.4,5,2016,Spring
+Ohio,71.2,21.8,6,2016,Summer
+Ohio,74.8,23.8,7,2016,Summer
+Ohio,76.0,24.4,8,2016,Summer
+Ohio,69.2,20.7,9,2016,Fall
+Ohio,57.7,14.3,10,2016,Fall
+Ohio,45.8,7.7,11,2016,Fall
+Ohio,31.0,-0.6,12,2016,Winter
+Ohio,34.6,1.4,1,2017,Winter
+Ohio,40.5,4.7,2,2017,Winter
+Ohio,40.4,4.7,3,2017,Spring
+Ohio,56.6,13.7,4,2017,Spring
+Ohio,60.1,15.6,5,2017,Spring
+Ohio,69.6,20.9,6,2017,Summer
+Ohio,73.0,22.8,7,2017,Summer
+Ohio,69.7,20.9,8,2017,Summer
+Ohio,65.8,18.8,9,2017,Fall
+Ohio,57.4,14.1,10,2017,Fall
+Ohio,41.8,5.4,11,2017,Fall
+Ohio,29.2,-1.6,12,2017,Winter
+Ohio,25.0,-3.9,1,2018,Winter
+Ohio,36.6,2.6,2,2018,Winter
+Ohio,36.4,2.4,3,2018,Spring
+Ohio,45.0,7.2,4,2018,Spring
+Ohio,68.0,20.0,5,2018,Spring
+Ohio,71.4,21.9,6,2018,Summer
+Ohio,73.8,23.2,7,2018,Summer
+Ohio,73.7,23.2,8,2018,Summer
+Ohio,69.6,20.9,9,2018,Fall
+Ohio,54.3,12.4,10,2018,Fall
+Ohio,37.3,2.9,11,2018,Fall
+Ohio,35.1,1.7,12,2018,Winter
+Ohio,27.4,-2.6,1,2019,Winter
+Oklahoma,38.2,3.4,1,2016,Winter
+Oklahoma,47.4,8.6,2,2016,Winter
+Oklahoma,54.7,12.6,3,2016,Spring
+Oklahoma,61.4,16.3,4,2016,Spring
+Oklahoma,66.2,19.0,5,2016,Spring
+Oklahoma,79.2,26.2,6,2016,Summer
+Oklahoma,83.2,28.4,7,2016,Summer
+Oklahoma,80.8,27.1,8,2016,Summer
+Oklahoma,75.3,24.1,9,2016,Fall
+Oklahoma,67.1,19.5,10,2016,Fall
+Oklahoma,55.4,13.0,11,2016,Fall
+Oklahoma,38.8,3.8,12,2016,Winter
+Oklahoma,40.9,4.9,1,2017,Winter
+Oklahoma,50.5,10.3,2,2017,Winter
+Oklahoma,56.2,13.4,3,2017,Spring
+Oklahoma,61.4,16.3,4,2017,Spring
+Oklahoma,66.9,19.4,5,2017,Spring
+Oklahoma,77.3,25.2,6,2017,Summer
+Oklahoma,82.5,28.1,7,2017,Summer
+Oklahoma,77.3,25.2,8,2017,Summer
+Oklahoma,73.3,22.9,9,2017,Fall
+Oklahoma,62.0,16.7,10,2017,Fall
+Oklahoma,52.9,11.6,11,2017,Fall
+Oklahoma,40.5,4.7,12,2017,Winter
+Oklahoma,36.6,2.6,1,2018,Winter
+Oklahoma,40.9,4.9,2,2018,Winter
+Oklahoma,52.9,11.6,3,2018,Spring
+Oklahoma,54.1,12.3,4,2018,Spring
+Oklahoma,75.0,23.9,5,2018,Spring
+Oklahoma,80.6,27.0,6,2018,Summer
+Oklahoma,82.8,28.2,7,2018,Summer
+Oklahoma,79.9,26.6,8,2018,Summer
+Oklahoma,73.9,23.3,9,2018,Fall
+Oklahoma,60.1,15.6,10,2018,Fall
+Oklahoma,44.6,7.0,11,2018,Fall
+Oklahoma,40.9,4.9,12,2018,Winter
+Oklahoma,38.3,3.5,1,2019,Winter
+Oregon,33.1,0.6,1,2016,Winter
+Oregon,40.2,4.6,2,2016,Winter
+Oregon,41.2,5.1,3,2016,Spring
+Oregon,50.1,10.1,4,2016,Spring
+Oregon,53.2,11.8,5,2016,Spring
+Oregon,60.5,15.8,6,2016,Summer
+Oregon,64.4,18.0,7,2016,Summer
+Oregon,66.7,19.3,8,2016,Summer
+Oregon,57.1,13.9,9,2016,Fall
+Oregon,48.1,8.9,10,2016,Fall
+Oregon,43.2,6.2,11,2016,Fall
+Oregon,27.4,-2.6,12,2016,Winter
+Oregon,26.7,-2.9,1,2017,Winter
+Oregon,34.8,1.6,2,2017,Winter
+Oregon,41.6,5.3,3,2017,Spring
+Oregon,42.9,6.1,4,2017,Spring
+Oregon,52.9,11.6,5,2017,Spring
+Oregon,59.9,15.5,6,2017,Summer
+Oregon,69.2,20.7,7,2017,Summer
+Oregon,69.6,20.9,8,2017,Summer
+Oregon,59.6,15.3,9,2017,Fall
+Oregon,47.0,8.3,10,2017,Fall
+Oregon,39.3,4.1,11,2017,Fall
+Oregon,32.9,0.5,12,2017,Winter
+Oregon,37.5,3.1,1,2018,Winter
+Oregon,33.2,0.7,2,2018,Winter
+Oregon,38.4,3.6,3,2018,Spring
+Oregon,45.1,7.3,4,2018,Spring
+Oregon,55.5,13.1,5,2018,Spring
+Oregon,58.6,14.8,6,2018,Summer
+Oregon,69.0,20.6,7,2018,Summer
+Oregon,66.5,19.2,8,2018,Summer
+Oregon,57.4,14.1,9,2018,Fall
+Oregon,48.8,9.3,10,2018,Fall
+Oregon,39.4,4.1,11,2018,Fall
+Oregon,32.2,0.1,12,2018,Winter
+Oregon,35.3,1.8,1,2019,Winter
+Pennsylvania,25.4,-3.7,1,2016,Winter
+Pennsylvania,30.7,-0.7,2,2016,Winter
+Pennsylvania,43.3,6.3,3,2016,Spring
+Pennsylvania,47.0,8.3,4,2016,Spring
+Pennsylvania,57.4,14.1,5,2016,Spring
+Pennsylvania,67.4,19.7,6,2016,Summer
+Pennsylvania,73.0,22.8,7,2016,Summer
+Pennsylvania,73.4,23.0,8,2016,Summer
+Pennsylvania,66.2,19.0,9,2016,Fall
+Pennsylvania,53.6,12.0,10,2016,Fall
+Pennsylvania,42.6,5.9,11,2016,Fall
+Pennsylvania,31.2,-0.4,12,2016,Winter
+Pennsylvania,31.8,-0.1,1,2017,Winter
+Pennsylvania,36.6,2.6,2,2017,Winter
+Pennsylvania,35.3,1.8,3,2017,Spring
+Pennsylvania,53.7,12.1,4,2017,Spring
+Pennsylvania,57.1,13.9,5,2017,Spring
+Pennsylvania,66.8,19.3,6,2017,Summer
+Pennsylvania,71.4,21.9,7,2017,Summer
+Pennsylvania,67.4,19.7,8,2017,Summer
+Pennsylvania,63.8,17.7,9,2017,Fall
+Pennsylvania,56.2,13.4,10,2017,Fall
+Pennsylvania,39.2,4.0,11,2017,Fall
+Pennsylvania,28.0,-2.2,12,2017,Winter
+Pennsylvania,23.1,-4.9,1,2018,Winter
+Pennsylvania,34.3,1.3,2,2018,Winter
+Pennsylvania,33.1,0.6,3,2018,Spring
+Pennsylvania,43.3,6.3,4,2018,Spring
+Pennsylvania,64.0,17.8,5,2018,Spring
+Pennsylvania,66.7,19.3,6,2018,Summer
+Pennsylvania,71.7,22.1,7,2018,Summer
+Pennsylvania,72.1,22.3,8,2018,Summer
+Pennsylvania,66.7,19.3,9,2018,Fall
+Pennsylvania,52.3,11.3,10,2018,Fall
+Pennsylvania,36.7,2.6,11,2018,Fall
+Pennsylvania,33.5,0.8,12,2018,Winter
+Pennsylvania,25.9,-3.4,1,2019,Winter
+Rhode Island,31.3,-0.4,1,2016,Winter
+Rhode Island,33.1,0.6,2,2016,Winter
+Rhode Island,42.9,6.1,3,2016,Spring
+Rhode Island,46.2,7.9,4,2016,Spring
+Rhode Island,57.9,14.4,5,2016,Spring
+Rhode Island,66.9,19.4,6,2016,Summer
+Rhode Island,73.8,23.2,7,2016,Summer
+Rhode Island,73.9,23.3,8,2016,Summer
+Rhode Island,66.4,19.1,9,2016,Fall
+Rhode Island,54.7,12.6,10,2016,Fall
+Rhode Island,45.2,7.3,11,2016,Fall
+Rhode Island,34.2,1.2,12,2016,Winter
+Rhode Island,34.2,1.2,1,2017,Winter
+Rhode Island,35.2,1.8,2,2017,Winter
+Rhode Island,34.1,1.2,3,2017,Spring
+Rhode Island,51.5,10.8,4,2017,Spring
+Rhode Island,56.5,13.6,5,2017,Spring
+Rhode Island,66.8,19.3,6,2017,Summer
+Rhode Island,71.1,21.7,7,2017,Summer
+Rhode Island,69.8,21.0,8,2017,Summer
+Rhode Island,66.4,19.1,9,2017,Fall
+Rhode Island,59.6,15.3,10,2017,Fall
+Rhode Island,43.1,6.2,11,2017,Fall
+Rhode Island,30.1,-1.1,12,2017,Winter
+Rhode Island,27.6,-2.4,1,2018,Winter
+Rhode Island,37.6,3.1,2,2018,Winter
+Rhode Island,37.3,2.9,3,2018,Spring
+Rhode Island,44.4,6.9,4,2018,Spring
+Rhode Island,61.4,16.3,5,2018,Spring
+Rhode Island,65.9,18.8,6,2018,Summer
+Rhode Island,73.8,23.2,7,2018,Summer
+Rhode Island,75.1,23.9,8,2018,Summer
+Rhode Island,66.4,19.1,9,2018,Fall
+Rhode Island,52.6,11.4,10,2018,Fall
+Rhode Island,40.9,4.9,11,2018,Fall
+Rhode Island,35.2,1.8,12,2018,Winter
+Rhode Island,29.0,-1.7,1,2019,Winter
+South Carolina,43.0,6.1,1,2016,Winter
+South Carolina,48.0,8.9,2,2016,Winter
+South Carolina,60.6,15.9,3,2016,Spring
+South Carolina,63.1,17.3,4,2016,Spring
+South Carolina,70.1,21.2,5,2016,Spring
+South Carolina,79.8,26.6,6,2016,Summer
+South Carolina,83.7,28.7,7,2016,Summer
+South Carolina,81.9,27.7,8,2016,Summer
+South Carolina,77.1,25.1,9,2016,Fall
+South Carolina,66.4,19.1,10,2016,Fall
+South Carolina,55.6,13.1,11,2016,Fall
+South Carolina,49.0,9.4,12,2016,Winter
+South Carolina,51.4,10.8,1,2017,Winter
+South Carolina,55.5,13.1,2,2017,Winter
+South Carolina,55.5,13.1,3,2017,Spring
+South Carolina,67.0,19.4,4,2017,Spring
+South Carolina,71.5,21.9,5,2017,Spring
+South Carolina,76.9,24.9,6,2017,Summer
+South Carolina,81.0,27.2,7,2017,Summer
+South Carolina,79.4,26.3,8,2017,Summer
+South Carolina,74.3,23.5,9,2017,Fall
+South Carolina,66.2,19.0,10,2017,Fall
+South Carolina,54.3,12.4,11,2017,Fall
+South Carolina,47.8,8.8,12,2017,Winter
+South Carolina,40.6,4.8,1,2018,Winter
+South Carolina,57.3,14.1,2,2018,Winter
+South Carolina,51.9,11.1,3,2018,Spring
+South Carolina,59.9,15.5,4,2018,Spring
+South Carolina,73.8,23.2,5,2018,Spring
+South Carolina,80.2,26.8,6,2018,Summer
+South Carolina,80.2,26.8,7,2018,Summer
+South Carolina,79.9,26.6,8,2018,Summer
+South Carolina,79.4,26.3,9,2018,Fall
+South Carolina,66.9,19.4,10,2018,Fall
+South Carolina,51.9,11.1,11,2018,Fall
+South Carolina,48.6,9.2,12,2018,Winter
+South Carolina,46.7,8.2,1,2019,Winter
+South Dakota,19.8,-6.8,1,2016,Winter
+South Dakota,31.2,-0.4,2,2016,Winter
+South Dakota,40.1,4.5,3,2016,Spring
+South Dakota,46.3,7.9,4,2016,Spring
+South Dakota,56.7,13.7,5,2016,Spring
+South Dakota,70.7,21.5,6,2016,Summer
+South Dakota,73.0,22.8,7,2016,Summer
+South Dakota,71.0,21.7,8,2016,Summer
+South Dakota,62.4,16.9,9,2016,Fall
+South Dakota,51.6,10.9,10,2016,Fall
+South Dakota,42.0,5.6,11,2016,Fall
+South Dakota,15.4,-9.2,12,2016,Winter
+South Dakota,16.5,-8.6,1,2017,Winter
+South Dakota,29.4,-1.4,2,2017,Winter
+South Dakota,35.5,1.9,3,2017,Spring
+South Dakota,46.1,7.8,4,2017,Spring
+South Dakota,56.0,13.3,5,2017,Spring
+South Dakota,68.1,20.1,6,2017,Summer
+South Dakota,76.0,24.4,7,2017,Summer
+South Dakota,67.4,19.7,8,2017,Summer
+South Dakota,61.8,16.6,9,2017,Fall
+South Dakota,48.0,8.9,10,2017,Fall
+South Dakota,34.7,1.5,11,2017,Fall
+South Dakota,21.7,-5.7,12,2017,Winter
+South Dakota,18.1,-7.7,1,2018,Winter
+South Dakota,11.6,-11.3,2,2018,Winter
+South Dakota,30.4,-0.9,3,2018,Spring
+South Dakota,36.7,2.6,4,2018,Spring
+South Dakota,62.1,16.7,5,2018,Spring
+South Dakota,69.3,20.7,6,2018,Summer
+South Dakota,72.2,22.3,7,2018,Summer
+South Dakota,70.0,21.1,8,2018,Summer
+South Dakota,61.5,16.4,9,2018,Fall
+South Dakota,43.2,6.2,10,2018,Fall
+South Dakota,29.3,-1.5,11,2018,Fall
+South Dakota,25.3,-3.7,12,2018,Winter
+South Dakota,18.1,-7.7,1,2019,Winter
+Tennessee,34.8,1.6,1,2016,Winter
+Tennessee,42.5,5.8,2,2016,Winter
+Tennessee,53.9,12.2,3,2016,Spring
+Tennessee,59.5,15.3,4,2016,Spring
+Tennessee,65.3,18.5,5,2016,Spring
+Tennessee,76.5,24.7,6,2016,Summer
+Tennessee,79.8,26.6,7,2016,Summer
+Tennessee,79.0,26.1,8,2016,Summer
+Tennessee,74.1,23.4,9,2016,Fall
+Tennessee,64.6,18.1,10,2016,Fall
+Tennessee,52.7,11.5,11,2016,Fall
+Tennessee,40.9,4.9,12,2016,Winter
+Tennessee,44.9,7.2,1,2017,Winter
+Tennessee,48.9,9.4,2,2017,Winter
+Tennessee,51.1,10.6,3,2017,Spring
+Tennessee,63.1,17.3,4,2017,Spring
+Tennessee,66.6,19.2,5,2017,Spring
+Tennessee,73.0,22.8,6,2017,Summer
+Tennessee,78.1,25.6,7,2017,Summer
+Tennessee,74.6,23.7,8,2017,Summer
+Tennessee,69.1,20.6,9,2017,Fall
+Tennessee,60.8,16.0,10,2017,Fall
+Tennessee,49.9,9.9,11,2017,Fall
+Tennessee,39.5,4.2,12,2017,Winter
+Tennessee,32.9,0.5,1,2018,Winter
+Tennessee,48.5,9.2,2,2018,Winter
+Tennessee,48.1,8.9,3,2018,Spring
+Tennessee,52.8,11.6,4,2018,Spring
+Tennessee,72.2,22.3,5,2018,Spring
+Tennessee,76.4,24.7,6,2018,Summer
+Tennessee,78.1,25.6,7,2018,Summer
+Tennessee,76.5,24.7,8,2018,Summer
+Tennessee,74.9,23.8,9,2018,Fall
+Tennessee,61.0,16.1,10,2018,Fall
+Tennessee,44.4,6.9,11,2018,Fall
+Tennessee,42.7,5.9,12,2018,Winter
+Tennessee,39.3,4.1,1,2019,Winter
+Texas,46.4,8.0,1,2016,Winter
+Texas,54.4,12.4,2,2016,Winter
+Texas,61.2,16.2,3,2016,Spring
+Texas,66.1,18.9,4,2016,Spring
+Texas,71.6,22.0,5,2016,Spring
+Texas,80.1,26.7,6,2016,Summer
+Texas,85.4,29.7,7,2016,Summer
+Texas,81.5,27.5,8,2016,Summer
+Texas,77.6,25.3,9,2016,Fall
+Texas,70.9,21.6,10,2016,Fall
+Texas,61.0,16.1,11,2016,Fall
+Texas,49.6,9.8,12,2016,Winter
+Texas,50.8,10.4,1,2017,Winter
+Texas,58.4,14.7,2,2017,Winter
+Texas,63.6,17.6,3,2017,Spring
+Texas,67.1,19.5,4,2017,Spring
+Texas,72.0,22.2,5,2017,Spring
+Texas,80.6,27.0,6,2017,Summer
+Texas,83.6,28.7,7,2017,Summer
+Texas,80.6,27.0,8,2017,Summer
+Texas,76.5,24.7,9,2017,Fall
+Texas,66.5,19.2,10,2017,Fall
+Texas,60.3,15.7,11,2017,Fall
+Texas,47.8,8.8,12,2017,Winter
+Texas,43.9,6.6,1,2018,Winter
+Texas,52.3,11.3,2,2018,Winter
+Texas,61.7,16.5,3,2018,Spring
+Texas,63.0,17.2,4,2018,Spring
+Texas,78.0,25.6,5,2018,Spring
+Texas,83.9,28.8,6,2018,Summer
+Texas,84.5,29.2,7,2018,Summer
+Texas,83.1,28.4,8,2018,Summer
+Texas,76.3,24.6,9,2018,Fall
+Texas,65.4,18.6,10,2018,Fall
+Texas,52.0,11.1,11,2018,Fall
+Texas,48.3,9.1,12,2018,Winter
+Texas,47.2,8.4,1,2019,Winter
+Utah,26.6,-3.0,1,2016,Winter
+Utah,33.7,0.9,2,2016,Winter
+Utah,42.2,5.7,3,2016,Spring
+Utah,47.9,8.8,4,2016,Spring
+Utah,54.4,12.4,5,2016,Spring
+Utah,70.9,21.6,6,2016,Summer
+Utah,73.7,23.2,7,2016,Summer
+Utah,70.1,21.2,8,2016,Summer
+Utah,61.1,16.2,9,2016,Fall
+Utah,53.2,11.8,10,2016,Fall
+Utah,41.6,5.3,11,2016,Fall
+Utah,27.4,-2.6,12,2016,Winter
+Utah,25.9,-3.4,1,2017,Winter
+Utah,36.5,2.5,2,2017,Winter
+Utah,45.3,7.4,3,2017,Spring
+Utah,46.0,7.8,4,2017,Spring
+Utah,55.6,13.1,5,2017,Spring
+Utah,69.5,20.8,6,2017,Summer
+Utah,75.0,23.9,7,2017,Summer
+Utah,71.6,22.0,8,2017,Summer
+Utah,60.7,15.9,9,2017,Fall
+Utah,48.1,8.9,10,2017,Fall
+Utah,43.0,6.1,11,2017,Fall
+Utah,31.4,-0.3,12,2017,Winter
+Utah,32.8,0.4,1,2018,Winter
+Utah,32.2,0.1,2,2018,Winter
+Utah,39.2,4.0,3,2018,Spring
+Utah,49.0,9.4,4,2018,Spring
+Utah,58.2,14.6,5,2018,Spring
+Utah,69.2,20.7,6,2018,Summer
+Utah,76.1,24.5,7,2018,Summer
+Utah,72.4,22.4,8,2018,Summer
+Utah,65.8,18.8,9,2018,Fall
+Utah,47.5,8.6,10,2018,Fall
+Utah,35.0,1.7,11,2018,Fall
+Utah,27.5,-2.5,12,2018,Winter
+Utah,27.0,-2.8,1,2019,Winter
+Vermont,20.9,-6.2,1,2016,Winter
+Vermont,23.9,-4.5,2,2016,Winter
+Vermont,33.6,0.9,3,2016,Spring
+Vermont,38.2,3.4,4,2016,Spring
+Vermont,54.0,12.2,5,2016,Spring
+Vermont,62.0,16.7,6,2016,Summer
+Vermont,67.4,19.7,7,2016,Summer
+Vermont,67.5,19.7,8,2016,Summer
+Vermont,59.9,15.5,9,2016,Fall
+Vermont,47.7,8.7,10,2016,Fall
+Vermont,36.8,2.7,11,2016,Fall
+Vermont,23.9,-4.5,12,2016,Winter
+Vermont,24.8,-4.0,1,2017,Winter
+Vermont,25.6,-3.6,2,2017,Winter
+Vermont,23.5,-4.7,3,2017,Spring
+Vermont,45.2,7.3,4,2017,Spring
+Vermont,51.8,11.0,5,2017,Spring
+Vermont,61.5,16.4,6,2017,Summer
+Vermont,65.2,18.4,7,2017,Summer
+Vermont,63.3,17.4,8,2017,Summer
+Vermont,60.8,16.0,9,2017,Fall
+Vermont,53.0,11.7,10,2017,Fall
+Vermont,33.0,0.6,11,2017,Fall
+Vermont,17.9,-7.8,12,2017,Winter
+Vermont,16.5,-8.6,1,2018,Winter
+Vermont,25.5,-3.6,2,2018,Winter
+Vermont,28.2,-2.1,3,2018,Spring
+Vermont,36.1,2.3,4,2018,Spring
+Vermont,56.4,13.6,5,2018,Spring
+Vermont,60.1,15.6,6,2018,Summer
+Vermont,69.2,20.7,7,2018,Summer
+Vermont,68.4,20.2,8,2018,Summer
+Vermont,60.7,15.9,9,2018,Fall
+Vermont,44.5,6.9,10,2018,Fall
+Vermont,30.2,-1.0,11,2018,Fall
+Vermont,23.0,-5.0,12,2018,Winter
+Vermont,14.9,-9.5,1,2019,Winter
+Virginia,33.1,0.6,1,2016,Winter
+Virginia,38.4,3.6,2,2016,Winter
+Virginia,51.8,11.0,3,2016,Spring
+Virginia,55.1,12.8,4,2016,Spring
+Virginia,61.9,16.6,5,2016,Spring
+Virginia,71.8,22.1,6,2016,Summer
+Virginia,77.3,25.2,7,2016,Summer
+Virginia,77.0,25.0,8,2016,Summer
+Virginia,71.8,22.1,9,2016,Fall
+Virginia,59.8,15.4,10,2016,Fall
+Virginia,48.3,9.1,11,2016,Fall
+Virginia,39.1,3.9,12,2016,Winter
+Virginia,40.1,4.5,1,2017,Winter
+Virginia,46.0,7.8,2,2017,Winter
+Virginia,45.9,7.7,3,2017,Spring
+Virginia,60.6,15.9,4,2017,Spring
+Virginia,63.4,17.4,5,2017,Spring
+Virginia,71.2,21.8,6,2017,Summer
+Virginia,76.8,24.9,7,2017,Summer
+Virginia,72.8,22.7,8,2017,Summer
+Virginia,67.4,19.7,9,2017,Fall
+Virginia,60.2,15.7,10,2017,Fall
+Virginia,46.1,7.8,11,2017,Fall
+Virginia,37.2,2.9,12,2017,Winter
+Virginia,31.8,-0.1,1,2018,Winter
+Virginia,45.1,7.3,2,2018,Winter
+Virginia,41.2,5.1,3,2018,Spring
+Virginia,52.2,11.2,4,2018,Spring
+Virginia,69.8,21.0,5,2018,Spring
+Virginia,73.2,22.9,6,2018,Summer
+Virginia,75.1,23.9,7,2018,Summer
+Virginia,75.3,24.1,8,2018,Summer
+Virginia,72.9,22.7,9,2018,Fall
+Virginia,59.0,15.0,10,2018,Fall
+Virginia,43.8,6.6,11,2018,Fall
+Virginia,39.7,4.3,12,2018,Winter
+Virginia,36.3,2.4,1,2019,Winter
+Washington,33.0,0.6,1,2016,Winter
+Washington,39.1,3.9,2,2016,Winter
+Washington,41.8,5.4,3,2016,Spring
+Washington,51.6,10.9,4,2016,Spring
+Washington,55.1,12.8,5,2016,Spring
+Washington,59.9,15.5,6,2016,Summer
+Washington,63.6,17.6,7,2016,Summer
+Washington,65.9,18.8,8,2016,Summer
+Washington,56.4,13.6,9,2016,Fall
+Washington,47.4,8.6,10,2016,Fall
+Washington,43.0,6.1,11,2016,Fall
+Washington,26.1,-3.3,12,2016,Winter
+Washington,24.8,-4.0,1,2017,Winter
+Washington,31.0,-0.6,2,2017,Winter
+Washington,39.3,4.1,3,2017,Spring
+Washington,44.2,6.8,4,2017,Spring
+Washington,53.7,12.1,5,2017,Spring
+Washington,59.5,15.3,6,2017,Summer
+Washington,67.1,19.5,7,2017,Summer
+Washington,68.6,20.3,8,2017,Summer
+Washington,59.8,15.4,9,2017,Fall
+Washington,46.2,7.9,10,2017,Fall
+Washington,37.7,3.2,11,2017,Fall
+Washington,29.9,-1.2,12,2017,Winter
+Washington,35.3,1.8,1,2018,Winter
+Washington,32.4,0.2,2,2018,Winter
+Washington,38.7,3.7,3,2018,Spring
+Washington,45.2,7.3,4,2018,Spring
+Washington,57.5,14.2,5,2018,Spring
+Washington,58.2,14.6,6,2018,Summer
+Washington,67.4,19.7,7,2018,Summer
+Washington,66.0,18.9,8,2018,Summer
+Washington,56.4,13.6,9,2018,Fall
+Washington,47.4,8.6,10,2018,Fall
+Washington,38.6,3.7,11,2018,Fall
+Washington,33.1,0.6,12,2018,Winter
+Washington,34.2,1.2,1,2019,Winter
+West Virginia,27.6,-2.4,1,2016,Winter
+West Virginia,34.9,1.6,2,2016,Winter
+West Virginia,48.5,9.2,3,2016,Spring
+West Virginia,53.0,11.7,4,2016,Spring
+West Virginia,59.5,15.3,5,2016,Spring
+West Virginia,69.5,20.8,6,2016,Summer
+West Virginia,73.7,23.2,7,2016,Summer
+West Virginia,75.1,23.9,8,2016,Summer
+West Virginia,69.4,20.8,9,2016,Fall
+West Virginia,57.3,14.1,10,2016,Fall
+West Virginia,45.6,7.6,11,2016,Fall
+West Virginia,35.6,2.0,12,2016,Winter
+West Virginia,37.5,3.1,1,2017,Winter
+West Virginia,42.1,5.6,2,2017,Winter
+West Virginia,42.3,5.7,3,2017,Spring
+West Virginia,57.5,14.2,4,2017,Spring
+West Virginia,61.0,16.1,5,2017,Spring
+West Virginia,67.7,19.8,6,2017,Summer
+West Virginia,72.4,22.4,7,2017,Summer
+West Virginia,69.3,20.7,8,2017,Summer
+West Virginia,64.6,18.1,9,2017,Fall
+West Virginia,57.5,14.2,10,2017,Fall
+West Virginia,43.2,6.2,11,2017,Fall
+West Virginia,33.0,0.6,12,2017,Winter
+West Virginia,27.0,-2.8,1,2018,Winter
+West Virginia,41.7,5.4,2,2018,Winter
+West Virginia,38.0,3.3,3,2018,Spring
+West Virginia,47.7,8.7,4,2018,Spring
+West Virginia,67.9,19.9,5,2018,Spring
+West Virginia,70.1,21.2,6,2018,Summer
+West Virginia,72.5,22.5,7,2018,Summer
+West Virginia,72.4,22.4,8,2018,Summer
+West Virginia,70.4,21.3,9,2018,Fall
+West Virginia,55.3,12.9,10,2018,Fall
+West Virginia,40.0,4.4,11,2018,Fall
+West Virginia,36.8,2.7,12,2018,Winter
+West Virginia,32.0,0.0,1,2019,Winter
+Wisconsin,16.2,-8.8,1,2016,Winter
+Wisconsin,22.6,-5.2,2,2016,Winter
+Wisconsin,36.8,2.7,3,2016,Spring
+Wisconsin,42.9,6.1,4,2016,Spring
+Wisconsin,56.1,13.4,5,2016,Spring
+Wisconsin,65.8,18.8,6,2016,Summer
+Wisconsin,69.9,21.1,7,2016,Summer
+Wisconsin,69.5,20.8,8,2016,Summer
+Wisconsin,62.6,17.0,9,2016,Fall
+Wisconsin,50.4,10.2,10,2016,Fall
+Wisconsin,41.6,5.3,11,2016,Fall
+Wisconsin,19.9,-6.7,12,2016,Winter
+Wisconsin,19.4,-7.0,1,2017,Winter
+Wisconsin,27.8,-2.3,2,2017,Winter
+Wisconsin,30.2,-1.0,3,2017,Spring
+Wisconsin,46.4,8.0,4,2017,Spring
+Wisconsin,53.3,11.8,5,2017,Spring
+Wisconsin,65.6,18.7,6,2017,Summer
+Wisconsin,68.8,20.4,7,2017,Summer
+Wisconsin,64.2,17.9,8,2017,Summer
+Wisconsin,62.2,16.8,9,2017,Fall
+Wisconsin,50.0,10.0,10,2017,Fall
+Wisconsin,31.4,-0.3,11,2017,Fall
+Wisconsin,17.3,-8.2,12,2017,Winter
+Wisconsin,15.2,-9.3,1,2018,Winter
+Wisconsin,16.1,-8.8,2,2018,Winter
+Wisconsin,29.7,-1.3,3,2018,Spring
+Wisconsin,33.5,0.8,4,2018,Spring
+Wisconsin,62.0,16.7,5,2018,Spring
+Wisconsin,66.5,19.2,6,2018,Summer
+Wisconsin,69.8,21.0,7,2018,Summer
+Wisconsin,68.5,20.3,8,2018,Summer
+Wisconsin,61.3,16.3,9,2018,Fall
+Wisconsin,43.6,6.4,10,2018,Fall
+Wisconsin,27.3,-2.6,11,2018,Fall
+Wisconsin,25.1,-3.8,12,2018,Winter
+Wisconsin,13.1,-10.5,1,2019,Winter
+Wyoming,22.7,-5.2,1,2016,Winter
+Wyoming,30.1,-1.1,2,2016,Winter
+Wyoming,34.5,1.4,3,2016,Spring
+Wyoming,41.8,5.4,4,2016,Spring
+Wyoming,47.9,8.8,5,2016,Spring
+Wyoming,63.8,17.7,6,2016,Summer
+Wyoming,66.8,19.3,7,2016,Summer
+Wyoming,63.5,17.5,8,2016,Summer
+Wyoming,55.4,13.0,9,2016,Fall
+Wyoming,46.5,8.1,10,2016,Fall
+Wyoming,37.1,2.8,11,2016,Fall
+Wyoming,16.8,-8.4,12,2016,Winter
+Wyoming,16.7,-8.5,1,2017,Winter
+Wyoming,27.8,-2.3,2,2017,Winter
+Wyoming,38.4,3.6,3,2017,Spring
+Wyoming,40.1,4.5,4,2017,Spring
+Wyoming,49.2,9.6,5,2017,Spring
+Wyoming,60.0,15.6,6,2017,Summer
+Wyoming,68.9,20.5,7,2017,Summer
+Wyoming,63.5,17.5,8,2017,Summer
+Wyoming,54.2,12.3,9,2017,Fall
+Wyoming,41.1,5.1,10,2017,Fall
+Wyoming,34.7,1.5,11,2017,Fall
+Wyoming,23.8,-4.6,12,2017,Winter
+Wyoming,25.1,-3.8,1,2018,Winter
+Wyoming,19.3,-7.1,2,2018,Winter
+Wyoming,32.3,0.2,3,2018,Spring
+Wyoming,39.8,4.3,4,2018,Spring
+Wyoming,52.9,11.6,5,2018,Spring
+Wyoming,60.4,15.8,6,2018,Summer
+Wyoming,67.3,19.6,7,2018,Summer
+Wyoming,63.5,17.5,8,2018,Summer
+Wyoming,57.2,14.0,9,2018,Fall
+Wyoming,41.0,5.0,10,2018,Fall
+Wyoming,28.5,-1.9,11,2018,Fall
+Wyoming,21.4,-5.9,12,2018,Winter
+Wyoming,22.1,-5.5,1,2019,Winter
+Alaska,17.2,-8.2,1,2016,Winter
+Alaska,17.3,-8.2,2,2016,Winter
+Alaska,18.7,-7.4,3,2016,Spring
+Alaska,33.3,0.7,4,2016,Spring
+Alaska,44.0,6.7,5,2016,Spring
+Alaska,51.8,11.0,6,2016,Summer
+Alaska,55.6,13.1,7,2016,Summer
+Alaska,53.2,11.8,8,2016,Summer
+Alaska,42.3,5.7,9,2016,Fall
+Alaska,29.7,-1.3,10,2016,Fall
+Alaska,13.3,-10.4,11,2016,Fall
+Alaska,6.2,-14.3,12,2016,Winter
+Alaska,4.5,-15.3,1,2017,Winter
+Alaska,6.6,-14.1,2,2017,Winter
+Alaska,4.9,-15.1,3,2017,Spring
+Alaska,29.6,-1.3,4,2017,Spring
+Alaska,40.8,4.9,5,2017,Spring
+Alaska,51.4,10.8,6,2017,Summer
+Alaska,56.2,13.4,7,2017,Summer
+Alaska,50.2,10.1,8,2017,Summer
+Alaska,42.6,5.9,9,2017,Fall
+Alaska,30.2,-1.0,10,2017,Fall
+Alaska,15.8,-9.0,11,2017,Fall
+Alaska,19.1,-7.2,12,2017,Winter
+Alaska,6.6,-14.1,1,2018,Winter
+Alaska,12.6,-10.8,2,2018,Winter
+Alaska,18.0,-7.8,3,2018,Spring
+Alaska,26.9,-2.8,4,2018,Spring
+Alaska,39.5,4.2,5,2018,Spring
+Alaska,50.0,10.0,6,2018,Summer
+Alaska,55.6,13.1,7,2018,Summer
+Alaska,49.7,9.8,8,2018,Summer
+Alaska,44.3,6.8,9,2018,Fall
+Alaska,33.8,1.0,10,2018,Fall
+Alaska,19.1,-7.2,11,2018,Fall
+Alaska,9.1,-12.7,12,2018,Winter
+Alaska,7.6,-13.6,1,2019,Winter
