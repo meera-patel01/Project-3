@@ -56,7 +56,7 @@ selected_state = st.selectbox("**STATE YOU'RE VISITING**", states, index=None, p
 left, right = st.columns([1, 5])
 
 with left:
-    visual = st.radio('**INFORMATION**', options=['**ABOUT**', '**ETHICS**', '**TEMPERATURE**', '**CRIME**', '**MAP**'], index=None)
+    visual = st.radio('**INFORMATION**', options=['**ABOUT**', '**ETHICS**', '**TEMPERATURE**', '**CRIME**', '**MAP**'], index=0)
 with right:
     if visual == "**ABOUT**":
         st.markdown("<h3 style='text-align: center;'>If you would like to know the ethical considerations for this project then select the Ethics button on the left.</h3>", unsafe_allow_html=True)
