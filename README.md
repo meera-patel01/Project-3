@@ -1,7 +1,20 @@
 # Project-3
 
 ## Project Summary
-We gathered temperature, location, date, and crime data to create a website with interactive dropdowns and tools to visualize the given data inputs. Our Project 3 objectives were to gather weather and travel information to analyze travel trends and data from 2016-2018 and draw correlations and connections to see if weather, crime or time of year influence travelers' decisions on where to go during a given time.
+The dataset we collected provided a comprehensive analysis into US travel check-ins from Instagram. It includes extensive data scraped from Instagram, such as the location of check-in, crime rate per state, average temperature, latitude and longitude coordinates for every entry. This data helped us discover the ever-changing trends on how travelers choose their vacation destinations.
+
+Our project 3 objectives were to analyze the data we’ve collected from 2016-2018 and draw correlations and connections to see if weather, crime rate, or time of year influence traveler’s decisions on where to go during a given time. We created a website with interactive dropdowns and tools to visualize the given data inputs. 
+
+## Navigating the Website
+1.	Install Streamlit and Folium
+-	Pip install streamlit
+-	Pip install folium
+-	Pip install streamlit-folium
+
+2.	In terminal run app.py
+-	Streamlit run app.py
+
+3.	On our website, first select a chosen state and then click on Temperature to see the average temperature for the state per season, Crime for the average US crime, and Map for things to do in your chosen state
 
 
 ## Ethical Considerations 
@@ -30,5 +43,11 @@ For this track, our group is presenting using data visualizations. Here are the 
 The Devastator. “US Travel Check – Ins – Analysis. In Depth Study of Location, Date, Temperature, USindex, and Crime Rates.” nd.  https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis?select=Temperature.csv
 
 https://docs.streamlit.io/library/api-reference/charts
+
+https://banner2.cleanpng.com/20180328/qxq/kisspng-united-states-flight-world-air-travel-travel-5abb6e78a9e7b8.0653195615222329526959.jpg
+
+https://www.prosportstickers.com/wp-content/uploads/nc/g/airplane_clip_art_free__26066-700x364.jpg
+
+https://p7.hiclipart.com/preview/142/37/86/airplane-aircraft-cartoon-drawing-clip-art-airplane.jpg
 	
 
