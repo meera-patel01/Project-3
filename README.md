@@ -42,8 +42,12 @@ For this track, our group is presenting using data visualizations. Here are the 
 ## Work Cited
 The Devastator. “US Travel Check – Ins – Analysis. In Depth Study of Location, Date, Temperature, USindex, and Crime Rates.” nd.  https://www.kaggle.com/datasets/thedevastator/us-travel-check-ins-analysis?select=Temperature.csv
 
+### Python Libraries
 https://docs.streamlit.io/library/api-reference/charts
 
+https://python-visualization.github.io/folium/latest/#
+
+### Images
 https://banner2.cleanpng.com/20180328/qxq/kisspng-united-states-flight-world-air-travel-travel-5abb6e78a9e7b8.0653195615222329526959.jpg
 
 https://www.prosportstickers.com/wp-content/uploads/nc/g/airplane_clip_art_free__26066-700x364.jpg
