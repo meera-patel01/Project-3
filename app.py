@@ -82,16 +82,20 @@ with right:
                 temp_f = pd.read_sql_query(sql=f"SELECT State, \"Temp in F\", Year, Season FROM temperature_clean WHERE State = \"{state}\"", con=conn)
                 temp_f = temp_f.groupby(['Season', 'Year'])[['Temp in F']].mean().round(0)
                 temp_f = temp_f.reset_index()
+                temp_f['Year'] = temp_f['Year'].astype(str)
+                temp_f = temp_f[(temp_f.Year != "2019")]
 
                 st.markdown(f"<h2 style='text-align: center;color:#29FFC6'>Average Temperature in {state} Per Season in Fahrenheit from 2016-2018</h2>", unsafe_allow_html=True)
-                st.bar_chart(temp_f, x="Season", y="Temp in F", color="Year")
+                st.line_chart(temp_f, x="Season", y="Temp in F", color="Year", height=600)
 
                 temp_c = pd.read_sql_query(sql=f"SELECT State, \"Temp in C\", Year, Season FROM temperature_clean WHERE State = \"{state}\"", con=conn)
                 temp_c = temp_c.groupby(['Season', 'Year'])[['Temp in C']].mean().round(0)
                 temp_c = temp_c.reset_index()
+                temp_c['Year'] = temp_c['Year'].astype(str)
+                temp_c = temp_c[(temp_c.Year != "2019")]
 
                 st.markdown(f"<h2 style='text-align: center;color:#29FFC6'>Average Temperature in {state} Per Season in Celsius from 2016-2018</h2>", unsafe_allow_html=True)
-                st.bar_chart(temp_c, x="Season", y="Temp in C", color="Year")
+                st.line_chart(temp_c, x="Season", y="Temp in C", color="Year", use_container_width=True, height=600)
             
             elif visual == "**CRIME**":
                 crime = pd.read_sql_query(sql=f"SELECT * FROM \"state-abbrevs\" INNER JOIN USCrime ON USCrime.State = \"state-abbrevs\".abbreviation WHERE \"state-abbrevs\".state = \"{state}\"",con=conn)
