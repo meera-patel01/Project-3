@@ -4,16 +4,16 @@
 The dataset we collected provided a comprehensive analysis into US travel check-ins from Instagram. It includes extensive data scraped from Instagram, such as the location of check-in, crime rate per state, average temperature, latitude and longitude coordinates for every entry. This data helped us discover the ever-changing trends on how travelers choose their vacation destinations. We created a website with interactive dropdowns and tools to visualize the given data inputs. 
 
 ## Navigating the Website
-1.	Install Streamlit and Folium
--	Pip install streamlit
--	Pip install folium
--	Pip install streamlit-folium
+1.	Open the website using https://meera-patel01-travel-check-ins-app-app-c2bhzm.streamlit.app/
 
-2.	In terminal run app.py
--	Streamlit run app.py
-
-3.	On our website, first select a chosen state and then click on Temperature to see the average temperature for the state per season, Crime for the average US crime, and Map for things to do in your chosen state
-
+2. Navigation
+    - If you would like to know the ethical considerations for this project then select the Ethics button on the left.
+    - Steps
+        1. To start you must pick the state you are planning to travel to.
+        2. You must then decide what information you would like to know about the state.
+            - If you would like to know the average temperature in the state you chose during each season then select the Temperature button on the left.
+            - If you would like to know the average number of incidents for each type of crime and the percent of the total the crime is for the state you chose then select the Crime button on the left.
+            - If you would like to find things to do in the state you chose then select the Map button on the left.
 
 ## Ethical Considerations 
 Data ethics encompasses the moral obligation in collecting, protecting, sharing and using data. Researchers must consider the rights and privacy of individuals whose data is being collected. Ethical considerations that we took into account when collecting our data include:
