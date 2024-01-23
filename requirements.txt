@@ -3,6 +3,3 @@ streamlit
 plotly
 folium
 streamlit_folium
-PTL
-warnings
-sqlalchemy
